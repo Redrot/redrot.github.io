@@ -15,10 +15,10 @@ author: Sam Kim Miller
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  CV: "cv"
+  Fun: "fun"
+  Resources: "links"
+  Teaching: "teaching"
 
 # --- Logo --- #
 
@@ -39,7 +39,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "sakmille@ucsc.edu"
+# email: "sakmille@ucsc.edu"
 # facebook: deanattali
 # github: daattali
 # twitter: daattali
@@ -77,16 +77,16 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+# feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+# feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
