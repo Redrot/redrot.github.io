@@ -1,0 +1,5 @@
+---
+layout: page
+title: Sam K. Miller
+subtitle: Mathematics Ph.D. Student <br> University of California Santa Cruz
+---
