@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Sam K. Miller's personal website
+title: Sam Kim Miller
 
 # Your name to show in the footer
 author: Sam Kim Miller
@@ -95,7 +95,7 @@ excerpt_length: 50
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#4775d1"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
