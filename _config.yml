@@ -14,8 +14,10 @@ author: Sam Kim Miller
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  CV: "cv"
-  Links: "links"
+  Teaching: "teaching"
+  Research: "research"
+  Writing: "writing"
+  Other fun!: "other"
 
 # --- Logo --- #
 
