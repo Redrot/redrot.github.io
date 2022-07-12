@@ -51,3 +51,5 @@ subtitle: Courses I've Taught and Things I've Organized
 - Fall 2019 
   - MATH19A (Calculus for Science, Engineering, and Mathematics I)
   - Teaching Assistant
+
+$$\sum_{i=1}^n i = n\times (n+1)/2$$
