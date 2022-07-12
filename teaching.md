@@ -4,6 +4,7 @@ subtitle: Courses I've Taught and Things I've Organized
 ---
 
 ## Courses
+
 - Summer 2022    
   - MATH110 (Introduction to Number Theory)    
   - Graduate Student Instructor  
@@ -52,4 +53,12 @@ subtitle: Courses I've Taught and Things I've Organized
   - MATH19A (Calculus for Science, Engineering, and Mathematics I)
   - Teaching Assistant
 
-$$\sum_{i=1}^n i = n\times (n+1)/2$$
+## Organization
+
+- Fall 2022-Spring 2023
+  - UC Santa Cruz Graduate Student Colloquium
+  - Co-Head Organizer
+
+- Spring/Summer 2021
+  - Local Class Field Theory Reading Group
+  - Head Organizer
