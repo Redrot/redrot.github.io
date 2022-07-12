@@ -55,10 +55,14 @@ subtitle: Courses I've Taught and Things I've Organized
 
 ## Organization
 
-- Fall 2022-Spring 2023
-  - UC Santa Cruz Graduate Student Colloquium
+- UC Santa Cruz Graduate Student Committee
+  - Spring 2022 - Present
+  - Electoral Board
+
+- UC Santa Cruz Graduate Student Colloquium
+  - Fall 2022 - Spring 2023
   - Co-Head Organizer
 
-- Spring/Summer 2021
-  - Local Class Field Theory Reading Group
+- Local Class Field Theory Reading Group
+  - Spring 2021 - Summer 2021
   - Head Organizer
