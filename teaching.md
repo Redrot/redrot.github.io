@@ -1,9 +1,10 @@
 ---
 title: Teaching & Organization
-subtitle: Courses I've Taught and Things I've Organized
+subtitle: [Courses I've Taught](#courses) and [Things I've Organized](#organization)
 ---
 
-## Courses
+
+## Courses {#courses}
 
 - Summer 2022    
   - MATH110 (Introduction to Number Theory)    
@@ -53,7 +54,7 @@ subtitle: Courses I've Taught and Things I've Organized
   - MATH19A (Calculus for Science, Engineering, and Mathematics I)
   - Teaching Assistant
 
-## Organization
+## Organization {#organization}
 
 - UC Santa Cruz Graduate Student Committee
   - Spring 2022 - Present
