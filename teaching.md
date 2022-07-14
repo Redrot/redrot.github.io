@@ -1,8 +1,10 @@
 ---
 title: Teaching & Organization
-subtitle: [Courses I've Taught](#courses) and [Things I've Organized](#organization)
+subtitle: Courses I've Taught and Things I've Organized
 ---
 
+- [Courses](#courses)
+- [Organization](#organization)
 
 ## Courses {#courses}
 
