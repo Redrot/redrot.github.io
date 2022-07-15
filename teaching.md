@@ -6,6 +6,8 @@ subtitle: Courses I've Taught and Things I've Organized
 - [Courses](#courses)
 - [Organization](#organization)
 
+---
+
 ## Courses {#courses}
 
 - Summer 2022    
