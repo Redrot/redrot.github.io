@@ -1,6 +1,6 @@
 ---
 title: Research
-subtitle: My Publications and Papers
+subtitle: My publications and papers
 ---
 
 ## Publications
