@@ -16,7 +16,7 @@ author: Sam K. Miller
 navbar-links:
   Teaching: "teaching"
   Research: "research"
-  Writing: "writing"
+  # Writing: "writing"
   Activities: "activities"
   Other fun!: "other"
 
