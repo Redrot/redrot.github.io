@@ -1,6 +1,6 @@
 ---
 title: Activities
-subtitle: Things I've Done
+subtitle: Things I've done
 ---
 
 - [Presentations](#pres)
