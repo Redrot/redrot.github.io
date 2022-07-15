@@ -7,6 +7,8 @@ subtitle: Things I've Done
 - [Reading Groups](#rg)
 - [Other](#other)
 
+---
+
 ## Presentations {#pres}
 
 - Oral Qualifying Exam (June 2022)
