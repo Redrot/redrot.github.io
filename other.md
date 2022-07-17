@@ -17,11 +17,13 @@ I have a serious musical addiction. Besides consuming an unhealthy amount of it,
 
 ## Outdoors {#outdoors}
 
-The outdoors hold a special place in my heart. Some of my most formative experiences as an adolescent were on long canoeing trips, and whenever I return to mother nature for a visit, I find an emotional peace and tranquility that I don't think exists elsewhere in the modern world. It is a place that encourages one to learn about themselves and grow in surprising ways. 
+The wilderness holds a special place in my heart. Some of my most formative experiences as an adolescent were on long canoeing trips, and whenever I return to mother nature for a visit, I find an emotional peace and tranquility that I don't think exists elsewhere in the modern world. It is a place that encourages one to learn about themselves and grow in unexpected ways. 
 
-It is my hope that future generations will be able to have these same experiences, and that one day, I'll be able to pass on my love and respect for the outdoors to my students, descendants, or whoever else is open to receiving. However, this may not happen unless humans learn to care for and respect the lands which they tresspass upon. I encourage everyone to learn the principles of [leave no trace](https://www.nps.gov/articles/leave-no-trace-seven-principles.htm). If you wish to donate to a sustainability or conservancy nonprofit, here are a few I like: 
+It is my hope that future generations will be able to have these same experiences, and that one day, I'll be able to pass on my love and respect for the outdoors to my students, descendants, or whoever else is open to receiving. However, this may not happen unless humans relearn to care for and respect the lands which they tresspass. I encourage everyone to learn the principles and ethics of [leave no trace](https://www.nps.gov/articles/leave-no-trace-seven-principles.htm). If you wish to donate to a sustainability or conservancy nonprofit, here are a few I like: 
 
 - [The Nature Conservancy](https://www.nature.org/en-us/)
+- [The World Wildlife Fund](https://www.worldwildlife.org/)
+- [The Sierra Club](https://www.sierraclub.org/)
 - [The Access Fund](https://www.accessfund.org/)
 - [Friends of the BWCA](https://www.friends-bwca.org/)
 - [The Honnold Foundation](https://www.honnoldfoundation.org/)
@@ -29,9 +31,14 @@ It is my hope that future generations will be able to have these same experience
 In the meanwhile, enjoy some pictures from my trips! 
 
 - Paddling
+  - [A sunrise in the Arctic Circle](https://redrot.github.io/assets/img/arctic1.jpg)
+  - [A sunset in the Arctic Circle](https://redrot.github.io/assets/img/arctic2.jpg)
 - Walking
+  - [Evolution Lake, Kings Canyon National Park](https://redrot.github.io/assets/img/jmt2.jpg)
+  - [I love trekking poles](https://redrot.github.io/assets/img/jmt1.jpg)
 - Pebble Wrestling
-
+  - [The Beak (V4) at Castle Rock](https://redrot.github.io/assets/img/climbing1.jpg)
+  - 
 ## Random Math Links {#links}
 
 under construction
