@@ -38,7 +38,7 @@ In the meanwhile, enjoy some pictures from my trips!
   - [I love trekking poles](https://redrot.github.io/assets/img/jmt1.jpg)
 - Pebble Wrestling
   - [The Beak (V4) at Castle Rock](https://redrot.github.io/assets/img/climbing1.jpg)
-  - 
+
 ## Random Math Links {#links}
 
-under construction
+
