@@ -70,6 +70,9 @@ In the meanwhile, enjoy some pictures from my trips!
   - [Notices of the AMS](https://www.ams.org/notices)
 - Fun Sites
   - [Math Fun Facts](https://math.hmc.edu/funfacts/)
+- Free Online Textbooks
+  - [Emily Riehl, *Category Theory in Context*](https://emilyriehl.github.io/files/context.pdf)
+  - [Richard Stanley, *Enumerative Combinatorics, Part 1 (2nd Edition)*](http://www.ms.uky.edu/~sohum/putnam/enu_comb_stanley.pdf)  
   
 More to be added eventually!
 
