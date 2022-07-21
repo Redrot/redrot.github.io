@@ -29,7 +29,7 @@ subtitle: Courses I've taught and other teaching activities
 - Summer 2021
   - MATH100 *(Introduction to Proof and Problem Solving)*
   - **Graduate Student Instructor**
-  - [Course Notes](https://redrot.github.io/assets/pdf/math100_notes.pdf)
+  - [Course Notes](https://redrot.github.io/assets/pdf/Math100_Notes.pdf)
 
 - Spring 2021
   - MATH107 *(Partial Differential Equations)*
