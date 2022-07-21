@@ -59,6 +59,8 @@ subtitle: Courses I've taught and other teaching activities
 - Fall 2019 
   - MATH19A *(Calculus for Science, Engineering, and Mathematics I)*
   - Teaching Assistant
+
+---
   
 ## Other {#other}
 
