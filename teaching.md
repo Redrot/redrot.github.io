@@ -72,6 +72,6 @@ subtitle: Courses I've taught and other teaching activities
   - Fall 2021
   - Mentored a first-year graduate student
 
-- Widjiwagan Trail Staff
+- [Widjiwagan](https://www.campwidji.org/) Trail Staff
   - Summer 2014, 2015
   - Led middle and high-school aged students on weeklong canoeing trips through the Boundary Waters Canoe Area Wilderness, MN
