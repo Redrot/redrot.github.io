@@ -13,7 +13,9 @@ subtitle: Random things I like or do
 
 I have a serious musical addiction. Besides consuming an unhealthy amount of it, I also play guitar, tenor saxophone, EWI, and DJ. 
 - You can see what I'm listing to currently or my listening history on my [last.fm account.](https://www.last.fm/user/Redrot) Maybe you'll find a few new artists to love! 
-- You can hear my DJ mixes on my [Soundcloud account.](https://soundcloud.com/sammymmm) I mix primarily trance (no cheese) and techno. 
+- You can hear my DJ mixes on my [Soundcloud account.](https://soundcloud.com/sammymmm) I mix primarily trance (no cheese), but also some techno, progressive house, and ambient. 
+
+---
 
 ## Outdoors {#outdoors}
 
@@ -39,6 +41,34 @@ In the meanwhile, enjoy some pictures from my trips!
 - Pebble Wrestling
   - [The Beak (V4) at Castle Rock](https://redrot.github.io/assets/img/climbing1.jpg)
 
+---
+
 ## Random Math Links {#links}
 
+- Blogs
+  - Francis Su (HMC): [The Mathematical Yawp](https://mathyawp.wordpress.com/) and [personal blog](https://www.francissu.com/blog).
+  - Darryl Yong (HMC): [ProfTeacher](https://profteacher.com/)
+  - Terry Tao (UCLA): [What's new](https://terrytao.wordpress.com/)
+  - John C Baez (UCR): [Azimuth](https://johncarlosbaez.wordpress.com/)
+  - Various: [The n-Category Cafe](https://golem.ph.utexas.edu/category/)
+- Useful Sites
+  - [nLab](https://ncatlab.org/nlab/show/HomePage)
+  - [OEIS](https://oeis.org/)
+  - [Math Counterexamples](https://www.mathcounterexamples.net/)
+  - [GroupProps](https://groupprops.subwiki.org/wiki/Main_Page)
+  - [GAP: Groups, Algorithms, Programming](https://www.gap-system.org/)
+  - [MathOverflow](https://mathoverflow.net/)
+- Seminars & Conferences
+  - [Research Seminars](https://researchseminars.org/)
+  - [Math Meetings](https://mathmeetings.net/)
+  - [Advances in Group Theory and Applications](https://www.advgrouptheory.com/GTNews.html)
+- News & Interviews
+  - [Quanta](https://www.quantamagazine.org/)
+  - [Scientific American](https://www.scientificamerican.com/)
+  - [My Favorite Theorem](https://kpknudson.com/my-favorite-theorem)
+  - [Notices of the AMS](https://www.ams.org/notices)
+- Fun Sites
+  - [Math Fun Facts](https://math.hmc.edu/funfacts/)
+  
+More to be added eventually!
 
