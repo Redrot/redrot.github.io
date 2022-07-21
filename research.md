@@ -29,3 +29,7 @@ subtitle: My publications and papers
 ---
 
 ## Expository & Unpublished {#other}
+
+- "*A Splendid Rickard Complex For* $\mathcal{O}C_2$ *And* $\mathcal{O}C_2$ *Arising From* $B(C_2)^\times$"
+  - The first example I worked out for my thesis work. The methods used here are outdated, but it's interesting to go back and see how I initially went about trying to proceed!
+  - [PDF](https://redrot.github.io/assets/pdf/C_2_Rickard_Complex_Computation.pdf)
