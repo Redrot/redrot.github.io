@@ -48,6 +48,7 @@ In the meanwhile, enjoy some pictures from my trips!
 - Blogs
   - Francis Su (HMC): [The Mathematical Yawp](https://mathyawp.wordpress.com/) and [personal blog](https://www.francissu.com/blog).
   - Darryl Yong (HMC): [ProfTeacher](https://profteacher.com/)
+  - Izabella Laba (UBC): [The Accidental Mathematician](https://ilaba.wordpress.com/)
   - Terry Tao (UCLA): [What's new](https://terrytao.wordpress.com/)
   - John C Baez (UCR): [Azimuth](https://johncarlosbaez.wordpress.com/)
   - Various: [The n-Category Cafe](https://golem.ph.utexas.edu/category/)
