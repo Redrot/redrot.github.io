@@ -12,19 +12,18 @@ subtitle: Things I've done
 
 ## Expository Writing & Notes {#writing}
 
-- "*A Splendid Rickard Complex For* $\mathcal{O}C_2$ *And* $\mathcal{O}C_2$ *Arising From* $B(C_2)^\times$"
+- "*A Splendid Rickard Complex For* $\mathcal{O}C_2$ *And* $\mathcal{O}C_2$ *Arising From* $B(C_2)^\times$" [(PDF)](https://redrot.github.io/assets/pdf/C_2_Rickard_Complex_Computation.pdf)
   - The first example I worked out for my thesis work. The methods used here are outdated and the proofs can be done much more efficiently, but it's interesting to go back and see how I initially went about trying to work things out!
-  - [PDF](https://redrot.github.io/assets/pdf/C_2_Rickard_Complex_Computation.pdf)
 
 ---
 
 ## Presentations {#pres}
 
-- Oral Qualifying Exam (June 2022)
+- Oral Qualifying Exam (June 2022) [(Slides)](https://redrot.github.io/assets/pdf/oral_exam.pdf)
 - "A Splendid Lift of Equivalences: Lifting p-Permutation Equivalences to Splendid Rickard Complexes." 
-  - UCSC Postdoc Symposium (May 2022)
-  - UCSC Mathematics Graduate Student Colloquium (May 2022)
-  - UCSC Graduate Symposium (April 2022)
+  - UCSC Postdoc Symposium (May 2022) 
+  - UCSC Mathematics Graduate Student Colloquium (May 2022) [(Slides)](https://redrot.github.io/assets/pdf/splendid_lift_long.pdf)
+  - UCSC Graduate Symposium (April 2022) [(Slides)](https://redrot.github.io/assets/pdf/splendid_lift_short.pdf)
 - "Checkers, Stacks and other fun things: a Potpourri of Combinatorial Puzzles and Games." 
   - UCSC Graduate Student Colloquium (February 2021)
 - "Challenging Knight's Tours." 
