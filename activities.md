@@ -1,6 +1,6 @@
 ---
 title: Activities
-subtitle: Things I've done
+subtitle: Math-related things I've done
 ---
 
 - [Expository Writing & Notes](#writing)
@@ -13,7 +13,7 @@ subtitle: Things I've done
 ## Expository Writing & Notes {#writing}
 
 - "*A Splendid Rickard Complex For* $\mathcal{O}C_2$ *And* $\mathcal{O}C_2$ *Arising From* $B(C_2)^\times$" [(PDF)](https://redrot.github.io/assets/pdf/C_2_Rickard_Complex_Computation.pdf)
-  - The first example I worked out for my thesis work. The methods used here are outdated and the proofs can be done much more efficiently, but it's interesting to go back and see how I initially went about trying to work things out!
+  - The first example I worked out for my thesis work in 2021. The methods used here are outdated and the proofs can be done much more efficiently, but it's interesting to go back and see how I initially went about trying to work things out!
 
 ---
 
@@ -46,10 +46,9 @@ subtitle: Things I've done
 
 ## Organization {#org}
 
-- UC Santa Cruz Graduate Student Colloquium
-  - Fall 2022 - Spring 2023
-  - Co-Chair
+- UC Santa Cruz Graduate Student Colloquium Co-Chair
+  - Fall 2022 - Present
+  - [Previous years presentations](https://github.com/theewaang/cat-theory-w22-ucsc/blob/main/Category%20Theory%20Learning%20Seminar%20Notes%2C%20Winter%202022.pdf)
 
-- UC Santa Cruz Graduate Student Committee
+- UC Santa Cruz Graduate Student Committee Electoral Board
   - Spring 2022 - Present
-  - Voting Member on the Electoral Board
