@@ -48,7 +48,7 @@ subtitle: Math-related things I've done
 
 - UC Santa Cruz Graduate Student Colloquium Co-Chair
   - Fall 2022 - Present
-  - [Previous years presentations](https://github.com/theewaang/cat-theory-w22-ucsc/blob/main/Category%20Theory%20Learning%20Seminar%20Notes%2C%20Winter%202022.pdf)
+  - [Previous years presentations can be found here.](https://bdeewang.com/activities/cs/grad-colloq/) Future presentations can be found on this website when available. 
 
 - UC Santa Cruz Graduate Student Committee Electoral Board
   - Spring 2022 - Present
