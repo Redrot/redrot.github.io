@@ -5,9 +5,9 @@ subtitle: Math-related things I've done
 
 - [Expository Writing & Notes](#writing)
 - [Presentations](#pres)
+- [Conferences](#conf)
 - [Reading Groups](#rg)
 - [Organization](#org)
-- [Conferences](#conf)
 
 ---
 
