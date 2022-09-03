@@ -7,6 +7,7 @@ subtitle: Math-related things I've done
 - [Presentations](#pres)
 - [Reading Groups](#rg)
 - [Organization](#org)
+- [Conferences](#conf)
 
 ---
 
@@ -37,6 +38,18 @@ subtitle: Math-related things I've done
 - "The Combinatorial Polynomial Hirsch Conjecture." 
   - Harvey Mudd College Thesis Day (May 2017)
   - MAA SoCal/NV Sectional (April 2017)
+
+---
+
+## Conferences {#conf}
+
+- [Representation Theory and Triangulated Categories (2022)](https://www.math.uni-bielefeld.de/birep/meetings/rttc2022/index.php) (accepted, unable to attend)
+- [Structure of Group Algebras over Local Rings (2022)](https://sites.google.com/view/ambleside2022/home?authuser=0) (attendee)
+- [MSRI: Sparsity of Algebraic Points ](https://www.msri.org/summer_schools/962) (attendee)
+- [MSRI: Sums of Squares Method in Geometry, Combinatorics and Optimization (2019)](https://www.msri.org/summer_schools/924) (cancelled due to COVID)
+- [MAA MathFest (2018)](https://www.maa.org/sites/default/files/pdf/mathfest/2018/MathFestProgram2018.pdf) (presenter)
+- [MAA SoCal/NV Sectional (2017)](http://sections.maa.org/socalnv/Meeting2017Spring.html) (presenter)
+- Joint Mathematics Meetings 2016 (attendee)
 
 ---
 
