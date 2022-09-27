@@ -17,6 +17,7 @@ subtitle: My publications and papers
 ## Preprints {#pre}
 
 - A. T. Benjamin, S. K. Miller, *Optimal Leapfrogging.*
+  - [arXiv](https://arxiv.org/abs/2110.08319)
 
 ---
 
