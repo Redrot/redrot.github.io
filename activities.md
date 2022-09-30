@@ -24,8 +24,8 @@ subtitle: Math-related things I've done
 
 ## Reading Groups {#rg}
 
-- [Aschbacher, Kessar, & Oliver, "Fusion Systems in Algebra & Topology"](https://www.cambridge.org/core/books/fusion-systems-in-algebra-and-topology/2979A129C13045664A6514911CC96A0D) (Spring 2022)
-- [Bouc, "Biset Functors for Finite Groups"](https://link.springer.com/book/10.1007/978-3-642-11297-3) (Fall 2021/Winter 2022)
+- [Aschbacher, Kessar, & Oliver, "Fusion Systems in Algebra & Topology"](https://www.cambridge.org/core/books/fusion-systems-in-algebra-and-topology/2979A129C13045664A6514911CC96A0D) (Spring 2022, Fall 2022)
+- [Bouc, "Biset Functors for Finite Groups"](https://link.springer.com/book/10.1007/978-3-642-11297-3) (Fall 2021/Winter 2022, Fall 2022)
 - [Linkelmann, "The Block Theory of Finite Group Algebras"](https://www.cambridge.org/core/books/block-theory-of-finite-group-algebras/03F2A21C4725C2A250C8C0635444781A) (Summer/Fall 2021)
 - [Guillot, "A Gentle Course in Local Class Field Theory"](https://www.cambridge.org/core/books/gentle-course-in-local-class-field-theory/F1D32C9B20A91D6F27424C37A14C45FC) (Spring/Summer 2021) - organizer
 - [Riehl, "Category Theory in Context"](https://math.jhu.edu/~eriehl/context.pdf) (Summer 2020) - organizer
