@@ -7,9 +7,7 @@ subtitle: My publications and papers
 - [Publications](#pub)
 - [Prepreints](#pre)
 - [Theses](#theses)
-## Presentations
 - [Presentations](#pres)
-- [Conferences](#conf)
 
 # Papers
 
@@ -32,7 +30,7 @@ subtitle: My publications and papers
 - S. K. Miller (2017): *The Combinatorial Polynomial Hirsch Conjecture,* Harvey Mudd College Senior Theses, 109.
   - [PDF](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1096&context=hmc_theses)
 
-# Presentations
+---
 
 ## Presentations {#pres}
 
@@ -49,9 +47,10 @@ subtitle: My publications and papers
   - Harvey Mudd College Thesis Day (May 2017)
   - MAA SoCal/NV Sectional (April 2017)
 
----
 
-## Conferences {#conf}
+<!---
+ ## Conferences {#conf}
+
 
 - [Representation Theory and Triangulated Categories (2022)](https://www.math.uni-bielefeld.de/birep/meetings/rttc2022/index.php) (unable to attend)
 - [Structure of Group Algebras over Local Rings (2022)](https://sites.google.com/view/ambleside2022/home?authuser=0) (attendee)
