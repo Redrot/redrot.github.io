@@ -4,6 +4,8 @@ subtitle: Math-related things I've done
 ---
 
 - [Expository Writing & Notes](#writing)
+- [Talks](#pres)
+- [Conferences](#conf)
 - [Reading Groups](#rg)
 - [Organization](#org)
 
@@ -11,9 +13,11 @@ subtitle: Math-related things I've done
 
 ## Expository Writing & Notes {#writing}
 
-### Notes from Research
+### Expository Notes
 - ["*A Splendid Rickard Complex For* $\mathcal{O}C_2$ *And* $\mathcal{O}C_2$ *Arising From* $B(C_2)^\times$"](https://redrot.github.io/assets/pdf/C_2_Rickard_Complex_Computation.pdf)
   - The first example I worked out for my thesis work in 2021. The methods used here are outdated and the proofs can be done much more efficiently, but it's interesting to go back and see how I initially went about trying to work things out!
+- ["Finding Joy With Combinatorial Games"](https://redrot.github.io/assets/pdf/Combinatorial_Games_Talk_2_25.pdf)
+  - Notes I prepared for a talk on combinatorial games. Topics presented are from undergraduate research or communicated from a seminar course from Arthur Benjamin.
 
 ### Notes from Readings
 - [Bouc 2.3, Bisets](https://redrot.github.io/assets/pdf/biset_notes.pdf)
@@ -22,14 +26,14 @@ subtitle: Math-related things I've done
 
 ---
 
-## Presentations {#pres}
+## Talks {#pres}
 
 - [Oral Qualifying Exam (June 2022)](https://redrot.github.io/assets/pdf/oral_exam.pdf)
 - "A Splendid Lift of Equivalences: Lifting p-Permutation Equivalences to Splendid Rickard Complexes." 
   - UCSC Postdoc Symposium (May 2022) 
   - [UCSC Mathematics Graduate Student Colloquium (May 2022)](https://redrot.github.io/assets/pdf/splendid_lift_long.pdf)
   - [UCSC Graduate Symposium (April 2022)](https://redrot.github.io/assets/pdf/splendid_lift_short.pdf)
-- "Checkers, Stacks and other fun things: a Potpourri of Combinatorial Puzzles and Games." 
+- ["Checkers, Stacks and other fun things: a Potpourri of Combinatorial Puzzles and Games."](https://redrot.github.io/assets/pdf/Combinatorial_Games_Talk_2_25.pdf) 
   - UCSC Graduate Student Colloquium (February 2021)
 - "Challenging Knight's Tours." 
   - MAA MathFest (August 2018)
