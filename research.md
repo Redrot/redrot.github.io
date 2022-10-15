@@ -8,7 +8,9 @@ subtitle: My publications and papers
 - [Prepreints](#pre)
 - [Theses](#theses)
 
-# Papers
+My current research focus lies within modular representation theory, in particular the block theory of finite group algebras and the theory of biset functors developed by Serge Bouc. My current dissertation problem involves determining when a $p$-permutation equivalence, an isomorphism of Grothendieck groups induced by virtual $p$-permutation bimodules, lifts to a splendid equivalence, an equivalence of derived categories first studied in detail by Jeremy Rickard. These equivalences are further connected to isotypies, a "bouquet" of perfect isometries first studied by Michel Broué. Broué's celebrated Abelian Defect Group Conjecture predicts the existence of these equivalences, and though it has been verified in many cases, the most general case is still unknown. 
+
+However, my undergraduate interests was primarily combinatorics-focused. In particular, my research projects involved studying combinatorial puzzles, proving either the existence of solutions or proving bounds on optimal play. Though this is far removed from my current focuses, my hope in the future is to combine the two, studying more combinatorial aspects of representation theory. 
 
 ## Publications {#pub}
 
