@@ -43,7 +43,7 @@ subtitle: Math-related things I've done
 
 ---
 
- ## Conferences {#conf}
+## Conferences {#conf}
 
 - [Representation Theory and Triangulated Categories (2022)](https://www.math.uni-bielefeld.de/birep/meetings/rttc2022/index.php) (unable to attend)
 - [Structure of Group Algebras over Local Rings (2022)](https://sites.google.com/view/ambleside2022/home?authuser=0) (attendee)
