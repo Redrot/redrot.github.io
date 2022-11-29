@@ -28,12 +28,14 @@ subtitle: Math-related things I've done
 
 ## Talks {#pres}
 
+- "Endotrivial Complexes and Tensor Induction" (November 2022)
 - [Oral Qualifying Exam (June 2022)](https://redrot.github.io/assets/pdf/oral_exam.pdf)
 - "A Splendid Lift of Equivalences: Lifting p-Permutation Equivalences to Splendid Rickard Complexes." 
   - UCSC Postdoc Symposium (May 2022) 
   - [UCSC Mathematics Graduate Student Colloquium (May 2022)](https://redrot.github.io/assets/pdf/splendid_lift_long.pdf)
   - [UCSC Graduate Symposium (April 2022)](https://redrot.github.io/assets/pdf/splendid_lift_short.pdf)
 - ["Checkers, Stacks and other fun things: a Potpourri of Combinatorial Puzzles and Games."](https://redrot.github.io/assets/pdf/Combinatorial_Games_Talk_2_25.pdf) 
+  - SWE UCSC Science On Tap (October 2022)
   - UCSC Graduate Student Colloquium (February 2021)
 - "Challenging Knight's Tours." 
   - MAA MathFest (August 2018)
