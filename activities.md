@@ -47,6 +47,9 @@ subtitle: Math-related things I've done
 
 ## Conferences {#conf}
 
+- [AMS 2023 Spring Western Sectional Meeting](http://www.ams.org/meetings/sectional/2293_program.html) (presenter)
+- [2023 CIMPA School: Crossroads of geometry, representation theory and higher structures](https://crossroads-2023.github.io/speakers.html) (attendee)
+- [Joint Mathematics Meetings 2023](https://www.jointmathematicsmeetings.org/meetings/national/jmm2023/2270_program.html) (presenter)
 - [Representation Theory and Triangulated Categories (2022)](https://www.math.uni-bielefeld.de/birep/meetings/rttc2022/index.php) (unable to attend)
 - [Structure of Group Algebras over Local Rings (2022)](https://sites.google.com/view/ambleside2022/home?authuser=0) (attendee)
 - [MSRI: Sparsity of Algebraic Points ](https://www.msri.org/summer_schools/962) (attendee)
