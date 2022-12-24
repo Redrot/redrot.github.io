@@ -28,7 +28,7 @@ subtitle: Math-related things I've done
 
 ## Talks {#pres}
 
-- ["Endotrivial Complexes and Tensor Induction" (November 2022)](https://redrot.github.io/assets/pdf/grad colloq talk nov 2022.pdf)
+- ["Endotrivial Complexes and Tensor Induction" (November 2022)](https://redrot.github.io/assets/pdf/grad_colloq_talk_nov_2022.pdf)
 - [Oral Qualifying Exam (June 2022)](https://redrot.github.io/assets/pdf/oral_exam.pdf)
 - "A Splendid Lift of Equivalences: Lifting p-Permutation Equivalences to Splendid Rickard Complexes." 
   - UCSC Postdoc Symposium (May 2022) 
