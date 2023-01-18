@@ -74,11 +74,11 @@ subtitle: Courses I've taught and other teaching activities
 
 - Directed Reading Program
   - Fall 2021
-  - Mentored an undergraduate learning about Modular Forms
+  - Mentored an undergraduate learning the theory of modular forms
 
 - Peer Mentorship Program
   - Fall 2021
-  - Mentored a first-year graduate student
+  - Mentored a first-year graduate student with transitioning to graduate school
 
 - Harvey Mudd College Grutor
   - 2014-2017
