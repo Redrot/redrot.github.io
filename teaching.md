@@ -10,6 +10,10 @@ subtitle: Courses I've taught and other teaching activities
 
 ## Courses {#courses}
 
+- Winter 2022
+  - MATH152 *(Programming for Mathematics)*
+  - Teaching Assistant
+
 - Fall 2022
   - MATH117 *(Advanced Linear Algebra)*
   - Teaching Assistant
