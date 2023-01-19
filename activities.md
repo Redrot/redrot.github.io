@@ -28,7 +28,9 @@ subtitle: Math-related things I've done
 
 ## Talks {#pres}
 
-- ["Endotrivial Complexes and Tensor Induction" (November 2022)](https://redrot.github.io/assets/pdf/grad_colloq_talk_nov_2022.pdf)
+- "Endotrivial Complexes and Tensor Induction" (November 2022)
+  - Joint Mathematics Meeting 2023 Contributed Paper Session
+  - [UCSC Graduate Symposium (November 2022)](https://redrot.github.io/assets/pdf/grad_colloq_talk_nov_2022.pdf)
 - [Oral Qualifying Exam (June 2022)](https://redrot.github.io/assets/pdf/oral_exam.pdf)
 - "A Splendid Lift of Equivalences: Lifting p-Permutation Equivalences to Splendid Rickard Complexes." 
   - UCSC Postdoc Symposium (May 2022) 
@@ -47,6 +49,7 @@ subtitle: Math-related things I've done
 
 ## Conferences {#conf}
 
+- [LMS-Bath Symposium on Categorical and Geometric Representation Theory](https://www.lms.ac.uk/events/symposium/CategoricalandGeometricRepresentationTheory) (attendee)
 - [AMS 2023 Spring Western Sectional Meeting](http://www.ams.org/meetings/sectional/2293_program.html) (presenter)
 - [2023 CIMPA School: Crossroads of geometry, representation theory and higher structures](https://crossroads-2023.github.io/speakers.html) (attendee)
 - [Joint Mathematics Meetings 2023](https://www.jointmathematicsmeetings.org/meetings/national/jmm2023/2270_program.html) (presenter)
