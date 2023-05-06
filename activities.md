@@ -18,6 +18,7 @@ subtitle: Math-related things I've done
   - The first example I worked out for my thesis work in 2021. The methods used here are outdated and the proofs can be done much more efficiently, but it's interesting to go back and see how I initially went about trying to work things out!
 - ["Finding Joy With Combinatorial Games"](https://redrot.github.io/assets/pdf/Combinatorial_Games_Talk_2_25.pdf)
   - Notes I prepared for a talk on combinatorial games. Topics presented are from undergraduate research or communicated from a seminar course from Arthur Benjamin.
+- See my main page for more! 
 
 ### Notes from Readings
 - [Bouc 2.3, Bisets](https://redrot.github.io/assets/pdf/biset_notes.pdf)
