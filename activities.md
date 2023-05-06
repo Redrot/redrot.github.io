@@ -52,7 +52,7 @@ subtitle: Math-related things I've done
 ## Conferences {#conf}
 
 - [LMS-Bath Symposium on Categorical and Geometric Representation Theory](https://www.lms.ac.uk/events/symposium/CategoricalandGeometricRepresentationTheory) (attendee)
-- [Topics in Representation Theory: Biset Functors](https://shi.matmor.unam.mx/workshop/main.html) (attendee/presenter)
+- [Topics in Representation Theory: Biset Functors](https://shi.matmor.unam.mx/workshop/main.html) (presenter)
 - [AMS 2023 Spring Western Sectional Meeting](http://www.ams.org/meetings/sectional/2293_program.html) (presenter)
 - [2023 CIMPA School: Crossroads of geometry, representation theory and higher structures](https://crossroads-2023.github.io/speakers.html) (attendee)
 - [Joint Mathematics Meetings 2023](https://www.jointmathematicsmeetings.org/meetings/national/jmm2023/2270_program.html) (presenter)
