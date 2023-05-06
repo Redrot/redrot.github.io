@@ -28,7 +28,8 @@ subtitle: Math-related things I've done
 
 ## Talks {#pres}
 
-- "Endotrivial Complexes and Tensor Induction" (November 2022)
+- "Endotrivial Complexes and Tensor Induction" 
+  - AMS Sectional, Fresno, Special Session on Representation Theory of Non-Semisimple Algebras
   - Joint Mathematics Meeting 2023 Contributed Paper Session
   - [UCSC Graduate Symposium (November 2022)](https://redrot.github.io/assets/pdf/grad_colloq_talk_nov_2022.pdf)
 - [Oral Qualifying Exam (June 2022)](https://redrot.github.io/assets/pdf/oral_exam.pdf)
@@ -50,6 +51,7 @@ subtitle: Math-related things I've done
 ## Conferences {#conf}
 
 - [LMS-Bath Symposium on Categorical and Geometric Representation Theory](https://www.lms.ac.uk/events/symposium/CategoricalandGeometricRepresentationTheory) (attendee)
+- [Topics in Representation Theory: Biset Functors](https://shi.matmor.unam.mx/workshop/main.html) (attendee/presenter)
 - [AMS 2023 Spring Western Sectional Meeting](http://www.ams.org/meetings/sectional/2293_program.html) (presenter)
 - [2023 CIMPA School: Crossroads of geometry, representation theory and higher structures](https://crossroads-2023.github.io/speakers.html) (attendee)
 - [Joint Mathematics Meetings 2023](https://www.jointmathematicsmeetings.org/meetings/national/jmm2023/2270_program.html) (presenter)
@@ -78,4 +80,4 @@ subtitle: Math-related things I've done
   - [Previous years presentations can be found here.](https://bdeewang.com/activities/cs/grad-colloq/) Future presentations can be found on this website when available. 
 
 - UC Santa Cruz Graduate Student Committee Electoral Board
-  - Spring 2022 - Present
+  - Spring 2022 - Winter 2023
