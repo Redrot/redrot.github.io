@@ -9,8 +9,11 @@ subtitle: Courses I've taught and other teaching activities
 ---
 
 ## Courses {#courses}
-
-- Winter 2022
+- Spring 2023
+  - MATH21 *(Linear Algebra)*
+  - Teaching Assistant
+ 
+- Winter 2023
   - MATH152 *(Programming for Mathematics)*
   - Teaching Assistant
 
