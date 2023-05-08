@@ -22,8 +22,9 @@ However, my undergraduate interests were primarily combinatorics-focused. In par
 
 ## Preprints {#pre}
 
-- A. T. Benjamin, S. K. Miller, *Optimal Leapfrogging.*
+- A. T. Benjamin, S. K. Miller, *Optimal Leapfrogging.* Submitted for publication
   - [arXiv](https://arxiv.org/abs/2110.08319)
+  - Most of this work was completed 2017-2018 when I was a software engineer! It's possible to do research even when not in an academic setting. 6 years later, we hope the work will finally see the light of day. 
 
 ---
 
