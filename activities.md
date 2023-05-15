@@ -14,10 +14,12 @@ subtitle: Math-related things I've done
 ## Expository Writing & Notes {#writing}
 
 ### Expository Notes
+- ["Notes on Tensor Induction of Chain Complexes"](https://redrot.github.io/assets/pdf/Partial_Tensor_Induction_on_Chain_Complexes.pdf)
+> Partial notes from a paper which is currently on hold. This is a description of tensor induction of chain complexes, first discovered by Leonard Evens, as well as a few elementary properties that to our knowledge have never been documented. 
 - ["*A Splendid Rickard Complex For* $\mathcal{O}C_2$ *And* $\mathcal{O}C_2$ *Arising From* $B(C_2)^\times$"](https://redrot.github.io/assets/pdf/C_2_Rickard_Complex_Computation.pdf)
-  - The first example I worked out for my thesis work in 2021. The methods used here are outdated and the proofs can be done much more efficiently, but it's interesting to go back and see how I initially went about trying to work things out!
+> The first example I worked out for my thesis work in 2021. The methods used here are outdated and the proofs can be done much more efficiently, but it's interesting to go back and see how I initially went about trying to work things out!
 - ["Finding Joy With Combinatorial Games"](https://redrot.github.io/assets/pdf/Combinatorial_Games_Talk_2_25.pdf)
-  - Notes I prepared for a talk on combinatorial games. Topics presented are from undergraduate research or communicated from a seminar course from Arthur Benjamin.
+> Notes I prepared for a talk on combinatorial games. Topics presented are from undergraduate research or communicated from a seminar course from Arthur Benjamin.
 - See my main page for more! 
 
 ### Notes from Readings
@@ -67,6 +69,7 @@ subtitle: Math-related things I've done
 ## Reading Groups {#rg}
 
 - [Aschbacher, Kessar, & Oliver, "Fusion Systems in Algebra & Topology"](https://www.cambridge.org/core/books/fusion-systems-in-algebra-and-topology/2979A129C13045664A6514911CC96A0D) (Spring 2022, Fall 2022)
+- Balmer, Gallauer, "Permutation Resolutions"
 - [Bouc, "Biset Functors for Finite Groups"](https://link.springer.com/book/10.1007/978-3-642-11297-3) (Fall 2021/Winter 2022, Fall 2022)
 - [Linkelmann, "The Block Theory of Finite Group Algebras"](https://www.cambridge.org/core/books/block-theory-of-finite-group-algebras/03F2A21C4725C2A250C8C0635444781A) (Summer/Fall 2021)
 - [Guillot, "A Gentle Course in Local Class Field Theory"](https://www.cambridge.org/core/books/gentle-course-in-local-class-field-theory/F1D32C9B20A91D6F27424C37A14C45FC) (Spring/Summer 2021) - organizer
@@ -77,8 +80,5 @@ subtitle: Math-related things I've done
 ## Organization {#org}
 
 - UC Santa Cruz Graduate Student Colloquium Co-Chair
-  - Fall 2022 - Present
-  - [Previous years presentations can be found here.](https://bdeewang.com/activities/cs/grad-colloq/) Future presentations can be found on this website when available. 
-
-- UC Santa Cruz Graduate Student Committee Electoral Board
-  - Spring 2022 - Winter 2023
+> Fall 2022 - Present
+> [Archives of previous years can be found here.]([https://bdeewang.com/activities/cs/grad-colloq/](https://drive.google.com/drive/folders/1sFJU9e5MYTIa1SCG-xWWx4XmmHbuhb94))
