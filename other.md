@@ -12,7 +12,7 @@ subtitle: Random things I like or do
 ## Music {#music}
 
 I have a serious musical addiction. Besides consuming an unhealthy amount of it, I also play guitar, tenor saxophone, EWI, and DJ. 
-- You can see what I'm listing to currently or my listening history on my [last.fm account.](https://www.last.fm/user/Redrot) Maybe you'll find a few new artists to love! 
+- You can see what I'm listing to currently or my listening history on my [last.fm account.](https://www.last.fm/user/Redrot) Maybe you'll find a few new artists to love! I also [like Bandcamp.](https://bandcamp.com/redrot)
 - You can hear my DJ mixes on my [Soundcloud account.](https://soundcloud.com/sammymmm) I mix primarily trance (no cheese), but also some techno, progressive house, and ambient. 
 - Maybe one day I'll upload some live jazz recordings.
 
