@@ -16,15 +16,17 @@ However, my undergraduate interests were primarily combinatorics-focused. In par
 ## Publications {#pub}
 
 - A. T. Benjamin, S. K. Miller (2018): *Challenging Knight's Tours,* Math Horizons 25:3, 18-21. 
-  - [PDF](https://math.hmc.edu/benjamin/wp-content/uploads/sites/5/2019/06/Challenging-Knight%E2%80%99s-Tours.pdf)
+> [PDF](https://math.hmc.edu/benjamin/wp-content/uploads/sites/5/2019/06/Challenging-Knight%E2%80%99s-Tours.pdf)
 
 ---
 
 ## Preprints {#pre}
 
-- A. T. Benjamin, S. K. Miller, *Optimal Leapfrogging.* Submitted for publication
-  - [arXiv](https://arxiv.org/abs/2110.08319)
-  - Most of this work was completed 2017-2018 when I was a software engineer! It's possible to do research even when not in an academic setting. 6 years later, we hope the work will finally see the light of day. 
+- S. K. Miller, *Endotrivial Complexes.* In progress
+  
+- A. T. Benjamin, S. K. Miller, *Optimal Leapfrogging.* Submitted for publication (2023)
+> [arXiv](https://arxiv.org/abs/2110.08319)
+> Most of this work was completed 2017-2018 when I was a software engineer! It's possible to do research even when not in an academic setting. 6 years later, we hope the work will finally see the light of day. 
 
 ---
 
