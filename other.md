@@ -46,14 +46,7 @@ In the meanwhile, enjoy some pictures from my trips!
 
 ## Random Math Links {#links}
 
-- Blogs
-  - Francis Su (HMC): [The Mathematical Yawp](https://mathyawp.wordpress.com/) and [personal blog](https://www.francissu.com/blog).
-  - Darryl Yong (HMC): [ProfTeacher](https://profteacher.com/)
-  - Izabella Laba (UBC): [The Accidental Mathematician](https://ilaba.wordpress.com/)
-  - Terry Tao (UCLA): [What's new](https://terrytao.wordpress.com/)
-  - John C Baez (UCR): [Azimuth](https://johncarlosbaez.wordpress.com/)
-  - Various: [The n-Category Cafe](https://golem.ph.utexas.edu/category/)
-- Useful Sites
+- Useful Math-Specific Sites
   - [nLab](https://ncatlab.org/nlab/show/HomePage)
   - [OEIS](https://oeis.org/)
   - [Math Counterexamples](https://www.mathcounterexamples.net/)
@@ -65,12 +58,20 @@ In the meanwhile, enjoy some pictures from my trips!
   - [Research Seminars](https://researchseminars.org/)
   - [Math Meetings](https://mathmeetings.net/)
   - [Advances in Group Theory and Applications](https://www.advgrouptheory.com/GTNews.html)
+  - [FDList](https://fdlist.math.uni-bielefeld.de/)
 - News & Interviews
   - [Quanta](https://www.quantamagazine.org/)
   - [Scientific American](https://www.scientificamerican.com/)
   - [My Favorite Theorem](https://kpknudson.com/my-favorite-theorem)
   - [Notices of the AMS](https://www.ams.org/notices)
-- Fun Sites
+- Blogs
+  - Francis Su (HMC): [The Mathematical Yawp](https://mathyawp.wordpress.com/) and [personal blog](https://www.francissu.com/blog).
+  - Darryl Yong (HMC): [ProfTeacher](https://profteacher.com/)
+  - Izabella Laba (UBC): [The Accidental Mathematician](https://ilaba.wordpress.com/)
+  - Terry Tao (UCLA): [What's new](https://terrytao.wordpress.com/)
+  - John C Baez (UCR): [Azimuth](https://johncarlosbaez.wordpress.com/)
+  - Various: [The n-Category Cafe](https://golem.ph.utexas.edu/category/)
+- Fun Stuff
   - [Math Fun Facts](https://math.hmc.edu/funfacts/)
 - Free Online Textbooks
   - [Emily Riehl, *Category Theory in Context*](https://emilyriehl.github.io/files/context.pdf)
