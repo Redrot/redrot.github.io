@@ -8,13 +8,16 @@ subtitle: My publications and papers
 - [Prepreints](#pre)
 - [Theses](#theses)
 
-My current research focus lies within modular representation theory, in particular the block theory of finite group algebras and the theory of biset functors developed by Serge Bouc. My dissertation problem involves determining when a $p$-permutation equivalence, an isomorphism of Grothendieck groups induced by virtual $p$-permutation bimodules, lifts to a splendid equivalence, an equivalence of derived categories first studied in detail by Jeremy Rickard. These equivalences are further connected to isotypies, a "bouquet" of perfect isometries first studied by Michel Broué. Broué's celebrated Abelian Defect Group Conjecture predicts the existence of these equivalences, and though it has been verified in many cases, the most general case is still unknown. 
+My research focus lies within the modular representation theory of finite groups, in particular the block theory of finite group algebras. I also have a strong interest in the theory of biset functors developed by Bouc, an extension of Mackey functors. My dissertation question involves determining when a $p$-permutation equivalence, an isomorphism of Grothendieck groups induced by virtual $p$-permutation bimodules, lifts to a splendid equivalence, an equivalence of derived categories first introduced by Rickard. These equivalences are further connected to isotypies, a "bouquet" of perfect isometries first studied by Broué. Broué's celebrated *abelian defect group conjecture* predicts the existence of these equivalences, and though it has been verified in many cases, the conjecture still appears to be out of reach with our current understanding. 
 
-However, my undergraduate interests were primarily combinatorics-focused. In particular, my research projects involved studying combinatorial puzzles, proving either the existence of solutions or proving bounds on optimal play. Though this is far removed from my current focuses, my hope in the future is to combine the two, studying more combinatorial aspects of representation theory. I have a growing interest in the theory of Soergel bimodules, a powerful tool in geometric representation theory with far-reaching connections.
+My undergraduate interests were primarily combinatorics-focused. In particular, my research projects involved studying combinatorial puzzles. Though this is far removed from my current focus, my future hope is to find intersectional questions and to find more combinatorial questions within modular representation theory.  
 
 
 ## Publications {#pub}
 
+- A. T. Benjamin, S. K. Miller (2023), *Optimal Leapfrogging,* Involve (to appear)
+> [arXiv.](https://arxiv.org/abs/2110.08319) Most of this work was completed 2017-2018 when I was a software engineer!
+> 
 - A. T. Benjamin, S. K. Miller (2018): *Challenging Knight's Tours,* Math Horizons 25:3, 18-21. 
 > [PDF](https://math.hmc.edu/benjamin/wp-content/uploads/sites/5/2019/06/Challenging-Knight%E2%80%99s-Tours.pdf)
 
@@ -23,9 +26,6 @@ However, my undergraduate interests were primarily combinatorics-focused. In par
 ## Preprints {#pre}
 
 - S. K. Miller, *Endotrivial Complexes.* In progress (2023)
-  
-- A. T. Benjamin, S. K. Miller, *Optimal Leapfrogging.* Accepted for publication (2023)
-> [arXiv.](https://arxiv.org/abs/2110.08319) Most of this work was completed 2017-2018 when I was a software engineer! It's possible to do research even when not in an academic setting. 6 years later, the work will finally see the light of day. 
 
 ---
 
