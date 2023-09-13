@@ -31,6 +31,8 @@ subtitle: Math-related things I've done
 
 ## Talks {#pres}
 
+- "Endotrivial complexes and the trivial source ring"
+  - [Algebra and Number Theory in Conversation, Manchester UK (September 2023)](https://redrot.github.io/assets/pdf/manchester_9_12_23.pdf)
 - "Endotrivial Complexes and Tensor Induction" 
   - AMS Sectional, Fresno, Special Session on Representation Theory of Non-Semisimple Algebras (May 2023)
   - Joint Mathematics Meeting 2023 Contributed Paper Session (January 2023)
