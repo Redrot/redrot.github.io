@@ -15,17 +15,10 @@ subtitle: Math-related things I've done
 
 ### Expository Notes
 - ["Notes on Tensor Induction of Chain Complexes"](https://redrot.github.io/assets/pdf/Partial_Tensor_Induction_on_Chain_Complexes.pdf)
-> Partial notes from a paper that is currently on hold. This is a description of tensor induction of chain complexes, first discovered by Leonard Evens, as well as a few elementary properties that to our knowledge, have never been written down with proof. 
-- ["*A Splendid Rickard Complex For* $\mathcal{O}C_2$ *And* $\mathcal{O}C_2$ *Arising From* $B(C_2)^\times$"](https://redrot.github.io/assets/pdf/C_2_Rickard_Complex_Computation.pdf)
-> The first example I worked out for my thesis work in 2021. The methods used here are outdated and the proofs can be done much more efficiently, but it's interesting to go back and see how I initially went about trying to work things out before I was more well-acquainted with the problem. 
+> Partial notes from a paper that is currently on hold. This is a description of tensor induction of chain complexes, first discovered by Leonard Evens, as well as a few elementary properties that, to our knowledge, have never been written down with proof. 
 - ["Finding Joy With Combinatorial Games"](https://redrot.github.io/assets/pdf/Combinatorial_Games_Talk_2_25.pdf)
 > Notes I prepared for a talk on combinatorial games. Topics presented are from undergraduate research or communicated from a seminar course from Arthur Benjamin.
 - See my main page for more! 
-
-### Notes from Readings
-- [Bouc 2.3, Bisets](https://redrot.github.io/assets/pdf/biset_notes.pdf)
-- [Linkelmann 1.2, Group Cohomology](https://redrot.github.io/assets/pdf/1_2_group_cohomology_notes.pdf)
-- [Linkelmann 1.4, Category Algebras](https://redrot.github.io/assets/pdf/1_4_Category_Algebra_notes.pdf)
 
 ---
 
