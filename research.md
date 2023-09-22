@@ -25,7 +25,8 @@ My undergraduate interests were primarily combinatorics-focused. In particular, 
 
 ## Preprints {#pre}
 
-- S. K. Miller, *Endotrivial Complexes.* In progress (2023)
+- S. K. Miller, *Endotrivial complexes and descent to the trivial source ring.* (In progress for submission) (2023)
+> [arXiv](https://arxiv.org/abs/2309.12138)
 
 ---
 
