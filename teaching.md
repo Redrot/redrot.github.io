@@ -9,6 +9,10 @@ subtitle: Courses I've taught and other teaching activities
 ---
 
 ## Courses {#courses}
+- Fall 2023
+  - MATH 101 *(Mathematical Problem Solving)*
+  - **Graduate Student Instructor**
+
 - Summer 2023
   - MATH134 *(Cryptography)*
   - **Graduate Student Instructor**
