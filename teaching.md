@@ -9,13 +9,14 @@ subtitle: Courses I've taught and other teaching activities
 ---
 
 ## Courses {#courses}
+
 - Winter 2024
   - MATH 110 *(Introduction to Number Theory)*
-  - **Graduate Student Instructor**
+  - **Graduate Student Instructor** 
 
 - Fall 2023
   - MATH 101 *(Mathematical Problem Solving)*
-  - **Graduate Student Instructor**
+  - **Graduate Student Instructor** 
 
 - Summer 2023
   - MATH134 *(Cryptography)*
