@@ -26,8 +26,8 @@ My undergraduate interests were primarily combinatorics-focused. In particular, 
 ## Preprints {#pre}
 
 - Jadyn Breland, S. K. Miller, *Brauer pairs for splendid Rickard complexes* (in progress)
-
-- S. K. Miller, *Endotrivial complexes.* (Submitted for publication) (2023)
+> 
+- S. K. Miller, *Endotrivial complexes.* (submitted for publication) (2023) 
 > [arXiv](https://arxiv.org/abs/2309.12138)
 
 ---
