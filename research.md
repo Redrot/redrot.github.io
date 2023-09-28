@@ -15,19 +15,15 @@ My undergraduate interests were primarily combinatorics-focused. In particular, 
 
 ## Publications {#pub}
 
-- A. T. Benjamin, S. K. Miller (2023), *Optimal Leapfrogging,* Involve (to appear)
-> [arXiv.](https://arxiv.org/abs/2110.08319) Most of this work was completed 2017-2018 when I was a software engineer!
-> 
-- A. T. Benjamin, S. K. Miller (2018): *Challenging Knight's Tours,* Math Horizons 25:3, 18-21. 
-> [PDF](https://math.hmc.edu/benjamin/wp-content/uploads/sites/5/2019/06/Challenging-Knight%E2%80%99s-Tours.pdf)
+- A. T. Benjamin, S. K. Miller (2023), *Optimal Leapfrogging,* Involve (to appear) [arXiv](https://arxiv.org/abs/2110.08319) Most of this work was completed 2017-2018 when I was a software engineer!
+- A. T. Benjamin, S. K. Miller (2018): *Challenging Knight's Tours,* Math Horizons 25:3, 18-21. [PDF](https://math.hmc.edu/benjamin/wp-content/uploads/sites/5/2019/06/Challenging-Knight%E2%80%99s-Tours.pdf)
 
 ---
 
 ## Preprints {#pre}
 
 - Jadyn Breland, S. K. Miller, *Brauer pairs for splendid Rickard complexes* (in progress)
-- S. K. Miller, *Endotrivial complexes.* (submitted for publication) (2023) 
-> [arXiv](https://arxiv.org/abs/2309.12138)
+- S. K. Miller, *Endotrivial complexes.* (submitted for publication) (2023) [arXiv](https://arxiv.org/abs/2309.12138)
 
 ---
 
