@@ -8,7 +8,9 @@ subtitle: My publications and papers
 - [Prepreints](#pre)
 - [Theses](#theses)
 
-My current interests generally involve the modular representation theory of finite groups. In particular:
+---
+
+My current focus is the modular representation theory of finite groups. In particular:
 
 - Local-to-global conjectures such as Broue's abelian defect group conjecture
 - Finiteness conjectures such as Puig's conjecture
@@ -16,6 +18,8 @@ My current interests generally involve the modular representation theory of fini
 - Endotrivial modules and generalizations
 
 I am also interested in combinatorial methods within modular representation theory.
+
+---
 
 ## Publications {#pub}
 
