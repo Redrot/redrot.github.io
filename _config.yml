@@ -14,11 +14,10 @@ author: Sam K. Miller
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Teaching: "teaching"
   Research: "research"
-  # Writing: "writing"
-  Activities: "activities"
-  Other fun!: "other"
+  Teaching: "teaching"
+  Math Activities: "activities"
+  Other Stuff: "other"
 
 # --- Logo --- #
 
@@ -59,8 +58,10 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+ORCID: 0000-0002-0593-3948
+google-scholar: https://scholar.google.com/citations?user=y5UmIBgAAAAJ&hl=en&authuser=1
+ResearchGate: https://www.researchgate.net/profile/Sam-Miller-55
+arXiv: https://arxiv.org/search/math?query=Miller%2C+Sam+K&searchtype=author&abstracts=show&order=-announced_date_first&size=50
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
