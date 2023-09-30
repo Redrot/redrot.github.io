@@ -71,10 +71,10 @@ arXiv: https://arxiv.org/search/math?query=Miller%2C+Sam+K&searchtype=author&abs
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
-  linkedin: false
-  vk: false
+  ORCID: true
+  google-scholar: true
+  ResearchGate: true
+  arXiv: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
