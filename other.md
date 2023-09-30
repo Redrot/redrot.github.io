@@ -35,12 +35,12 @@ Meanwhile, enjoy some pictures!
   - [A sunset in the arctic circle](https://redrot.github.io/assets/img/arctic2.jpg)
 - Walking
   - [Evolution Lake, Kings Canyon National Park](https://redrot.github.io/assets/img/jmt2.jpg)
-  - [I love trekking poles](https://redrot.github.io/assets/img/jmt1.jpg)
   - [Mt. Whitney](https://redrot.github.io/assets/img/PXL_20230923_144044253.PORTRAIT.jpg)
 - Pebble Wrestling
   - [The Beak (V4) in Castle Rock](https://redrot.github.io/assets/img/climbing1.jpg)
   - [The Cube (V1) in Yosemite](https://redrot.github.io/assets/img/381645852_6672974016127228_507368574689229686_n.jpg) 
-  - [In Morelia, Michoacan](https://redrot.github.io/assets/img/361047690_291375823431625_2755554577292220983_n.jpg)  
+  - [In Morelia, Michoacan](https://redrot.github.io/assets/img/361047690_291375823431625_2755554577292220983_n.jpg)
+  
 ---
 
 ## Random Math Links {#links}
