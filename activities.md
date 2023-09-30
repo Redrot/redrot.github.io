@@ -3,24 +3,14 @@ title: Activities
 subtitle: Math-related things I've done
 ---
 
-- [Expository Writing & Notes](#writing)
 - [Talks](#pres)
 - [Conferences](#conf)
+- [Expository Writing & Notes](#writing)
 - [Reading Groups](#rg)
 - [Organization](#org)
 
 ---
 
-## Expository Writing & Notes {#writing}
-
-### Expository Notes
-- ["Notes on Tensor Induction of Chain Complexes"](https://redrot.github.io/assets/pdf/Partial_Tensor_Induction_on_Chain_Complexes.pdf)
-> Partial notes from a paper that is currently on hold. This is a description of tensor induction of chain complexes, first discovered by Leonard Evens, as well as a few elementary properties that, to our knowledge, have never been written down with proof. 
-- ["Finding Joy With Combinatorial Games"](https://redrot.github.io/assets/pdf/Combinatorial_Games_Talk_2_25.pdf)
-> Notes I prepared for a talk on combinatorial games. Topics presented are from undergraduate research or communicated from a seminar course from Arthur Benjamin.
-- See my main page for more! 
-
----
 
 ## Talks {#pres}
 
@@ -49,6 +39,7 @@ subtitle: Math-related things I've done
 
 ## Conferences {#conf}
 
+- [Group Theory and Number Theory: Interactions - A Conference in Honor of Tiep's 60th Birthday](https://sites.google.com/view/tiep60conference) (attendee)
 - [Dame Kathleen Ollerenshaw Workshop: Algebra and Number Theory in Conversation](https://sites.google.com/view/antic-manchester/home?authuser=0) (*presenter - contributed talk*)
 - [LMS-Bath Symposium on Categorical and Geometric Representation Theory](https://www.lms.ac.uk/events/symposium/CategoricalandGeometricRepresentationTheory) (attendee)
 - [Topics in Representation Theory: Biset Functors](https://shi.matmor.unam.mx/workshop/main.html) (*presenter - reading presentation*)
@@ -63,6 +54,18 @@ subtitle: Math-related things I've done
 - [MAA SoCal/NV Sectional (2017)](http://sections.maa.org/socalnv/Meeting2017Spring.html) (*presenter - poster*)
 - Joint Mathematics Meetings 2016 (attendee)
 
+---
+
+## Expository Writing & Notes {#writing}
+
+- ["Notes on Tensor Induction of Chain Complexes"](https://redrot.github.io/assets/pdf/Partial_Tensor_Induction_on_Chain_Complexes.pdf)
+> Partial notes from a paper that is currently on hold. This is a description of tensor induction of chain complexes, first discovered by Leonard Evens, as well as a few elementary properties that, to our knowledge, have never been written down with proof. 
+- ["Finding Joy With Combinatorial Games"](https://redrot.github.io/assets/pdf/Combinatorial_Games_Talk_2_25.pdf)
+> Notes I prepared for a talk on combinatorial games. Topics presented are from undergraduate research or communicated from a seminar course from Arthur Benjamin.
+- See my main page for more! 
+
+---
+
 ## Reading Groups {#rg}
 
 - [Aschbacher, Kessar, & Oliver, "Fusion Systems in Algebra & Topology"](https://www.cambridge.org/core/books/fusion-systems-in-algebra-and-topology/2979A129C13045664A6514911CC96A0D) (Spring 2022, Fall 2022, Winter 2023)
@@ -73,6 +76,7 @@ subtitle: Math-related things I've done
 - [Riehl, "Category Theory in Context"](https://math.jhu.edu/~eriehl/context.pdf) (Summer 2020) - organizer
 
 ---
+
 
 ## Organization {#org}
 
