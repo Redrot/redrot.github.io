@@ -77,7 +77,6 @@ subtitle: Math-related things I've done
 
 ---
 
-
 ## Organization {#org}
 
 - UC Santa Cruz Graduate Student Colloquium Co-Chair
