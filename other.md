@@ -19,12 +19,11 @@ I really like music. Along with listening to it whenever I can, I play guitar, t
 
 ## Outdoors {#outdoors}
 
-I like canoeing, backpacking, and climbing. The wilderness holds a special place in my heart. Some of my most formative experiences as an adolescent were long canoeing trips, and whenever I return to nature for a visit, I find an emotional peace and tranquility that I don't think exists elsewhere in the modern world. It is a place that encourages us to learn about ourselves. 
+I like canoeing, backpacking, and climbing, and I spent a few summers leading canoeing trips in the BWCA in Minnesota during my undergrad. The wilderness holds a special place in my heart. Some of my most formative experiences as an adolescent were long canoeing trips, and whenever I return to nature for a visit, I find an emotional peace and tranquility that I don't think exists elsewhere in the modern world. It is a place that encourages us to learn about ourselves. 
 
 It is my hope that future generations will have these same experiences. However, this may not happen unless humans relearn to care for and respect the lands they borrow. I encourage everyone to learn the principles and ethics of [leave no trace](https://www.nps.gov/articles/leave-no-trace-seven-principles.htm). If you wish to donate to a sustainability or conservancy nonprofit, here are a few I like: 
 
 - [The Nature Conservancy](https://www.nature.org/en-us/)
-- [The Sierra Club](https://www.sierraclub.org/)
 - [The Access Fund](https://www.accessfund.org/)
 - [Friends of the BWCA](https://www.friends-bwca.org/)
 - [The Honnold Foundation](https://www.honnoldfoundation.org/)
