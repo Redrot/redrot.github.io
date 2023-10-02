@@ -13,11 +13,11 @@ subtitle: Courses I've taught and other teaching activities
 - Winter 2024
   - MATH 110 *(Introduction to Number Theory)*
   - **Graduate Student Instructor**
-  - [Course Page](https://www.samkmiller.com/math101f23/)
 
 - Fall 2023
   - MATH 101 *(Mathematical Problem Solving)*
   - **Graduate Student Instructor** 
+  - [Course Page](https://www.samkmiller.com/math101f23/)
 
 - Summer 2023
   - MATH134 *(Cryptography)*
