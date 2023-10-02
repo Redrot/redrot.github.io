@@ -53,7 +53,8 @@ Meanwhile, enjoy some pictures!
   - [GroupProps](https://groupprops.subwiki.org/wiki/Main_Page)
   - [GAP: Groups, Algorithms, Programming](https://www.gap-system.org/)
   - [MathOverflow](https://mathoverflow.net/)
-  - [Dave Benson's Preprint Archive](https://homepages.abdn.ac.uk/d.j.benson/pages/html/archive.html)
+  - [Dave Benson's preprint archive](https://homepages.abdn.ac.uk/d.j.benson/pages/html/archive.html)
+  - [Keith Conrad's blurbs](https://kconrad.math.uconn.edu/blurbs/)
 - Seminars & Conferences
   - [Research Seminars](https://researchseminars.org/)
   - [Math Meetings](https://mathmeetings.net/)
