@@ -14,13 +14,17 @@ subtitle: Math-related things I've done
 
 ## Talks {#pres}
 
+- Upcoming:
+  - JMM 2024
+  - University of Arizona Algebra and Number Theory Seminar
+  - UCSC Algebra and Number THeory Seminar
 - "Endotrivial complexes and the trivial source ring"
+  - UCSC Graduate Colloquium (October 2023)
   - [Algebra and Number Theory in Conversation, Manchester UK (September 2023)](https://redrot.github.io/assets/pdf/manchester_9_12_23.pdf)
-  - UCSC Graduate Student Seminar (October 2023)
 - "Endotrivial Complexes and Tensor Induction" 
   - AMS Sectional, Fresno, Special Session on Representation Theory of Non-Semisimple Algebras (May 2023)
   - Joint Mathematics Meeting 2023 Contributed Paper Session (January 2023)
-  - [UCSC Graduate Symposium (November 2022)](https://redrot.github.io/assets/pdf/grad_colloq_talk_nov_2022.pdf)
+  - [UCSC Graduate Colloquium (November 2022)](https://redrot.github.io/assets/pdf/grad_colloq_talk_nov_2022.pdf)
 - [Oral Qualifying Exam (June 2022)](https://redrot.github.io/assets/pdf/oral_exam.pdf)
 - "A Splendid Lift of Equivalences: Lifting p-Permutation Equivalences to Splendid Rickard Complexes." 
   - UCSC Postdoc Symposium (May 2022) 
@@ -28,7 +32,7 @@ subtitle: Math-related things I've done
   - [UCSC Graduate Symposium (April 2022)](https://redrot.github.io/assets/pdf/splendid_lift_short.pdf)
 - ["Checkers, Stacks and other fun things: a Potpourri of Combinatorial Puzzles and Games."](https://redrot.github.io/assets/pdf/Combinatorial_Games_Talk_2_25.pdf) 
   - SWE UCSC Science On Tap (October 2022)
-  - UCSC Graduate Student Colloquium (February 2021)
+  - UCSC Graduate Colloquium (February 2021)
 - "Challenging Knight's Tours." 
   - MAA MathFest (August 2018)
 - "The Combinatorial Polynomial Hirsch Conjecture." 
