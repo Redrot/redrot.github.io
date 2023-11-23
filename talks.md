@@ -7,14 +7,16 @@ subtitle: Public Talks I've Given
 
 ### Upcoming
 
+- Bilkent University Algebra Seminar
 - UCSC Algebra and Number Theory Seminar 
 - AMS Southwestern Sectional 
 - University of Arizona Algebra Seminar 
 - JMM 2024 Contributed Paper Session 
-- University of Georgia Algebra Seminar (November 20, 2023)
 
 ### 2023
-
+- November 2023
+  - *Endotrivial Complexes*
+  - University of Georgia Algebra Seminar
 - October 2023
   - *Endotrivial Complexes and the Trivial Source Ring*
   - UCSC Mathematics Graduate Student Seminar
