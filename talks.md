@@ -13,7 +13,25 @@ subtitle: Public Talks I've Given
 - University of Arizona Algebra Seminar 
 - JMM 2024 Contributed Paper Session 
 
+### 2024
+
+
+- May 2024
+  - *Brauer Pairs for Splendid Rickard Complexes*
+  - AMS Sectional, San Francisco, Special Session
+- January 2024
+  - *Endotrivial Complexes*
+  - University of Arizona Algebra Seminar
+- January 2024
+  - *Endotrivial Complexes*
+  - JMM 2024 Contributed Paper Session
+
 ### 2023
+
+
+- December 2023
+  - *Endotrivial Complexes*
+  - University of Bilkent Algebra Seminar
 - November 2023
   - *Endotrivial Complexes*
   - University of Georgia Algebra Seminar
