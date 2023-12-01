@@ -1,6 +1,6 @@
 ---
 title: Talks
-subtitle: Public Talks I've Given
+subtitle: Public speaking and whatnot
 ---
 
 ---
