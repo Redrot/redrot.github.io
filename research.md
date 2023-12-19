@@ -20,7 +20,7 @@ I am also interested in combinatorial methods within modular representation theo
 
 ---
 
-## Publications {#pub}
+## Publications and Preprints {#pub}
 
 - S. K. Miller, *Relatively Endotrivial Complexes* (in progress)
 - J. Breland, S. K. Miller, *Brauer pairs for splendid Rickard complexes* (2023) [arXiv:2312.10258](https://arxiv.org/abs/2312.10258)
