@@ -14,7 +14,8 @@ subtitle: Math-related things I've done
 
 - Group Theory in Florence IV
 - GABY 2024
-- AMS 2024 Spring Western Sectional Meeting
+- Representation Theory and Related Geometry: Progress and Prospects (*attendee*)
+- AMS 2024 Spring Western Sectional Meeting (*presenter - special session*)
 - JMM 2024 (*presenter - contributed talk*)
 - [Group Theory and Number Theory: Interactions - A Conference in Honor of Tiep's 60th Birthday](https://sites.google.com/view/tiep60conference) (attendee)
 - [Dame Kathleen Ollerenshaw Workshop: Algebra and Number Theory in Conversation](https://sites.google.com/view/antic-manchester/home?authuser=0) (*presenter - contributed talk*)
