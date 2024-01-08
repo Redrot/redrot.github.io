@@ -22,7 +22,8 @@ I am also interested in combinatorial methods within modular representation theo
 
 ## Publications and Preprints {#pub}
 
-- S. K. Miller, *Relatively Endotrivial Complexes* (in progress)
+- S. K. Miller, *On endotrivial complexes and the generalized Dade group* (in progress)
+- S. K. Miller, *Relatively endotrivial Complexes* (in progress)
 - J. Breland, S. K. Miller, *Brauer pairs for splendid Rickard complexes* (2023) [arXiv:2312.10258](https://arxiv.org/abs/2312.10258)
 - S. K. Miller, *Endotrivial complexes.* (submitted) (2023) [arXiv:2309.12138](https://arxiv.org/abs/2309.12138)
 - S. K. Miller, A. T. Benjamin (2023), *A proof of the optimal leapfrogging conjecture,* Involve (to appear) [arXiv](https://arxiv.org/abs/2110.08319) 
