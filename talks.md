@@ -7,14 +7,10 @@ subtitle: Public speaking and whatnot
 
 ### Upcoming
 
-- Bilkent University Algebra Seminar
 - UCSC Algebra and Number Theory Seminar 
 - AMS Southwestern Sectional 
-- University of Arizona Algebra Seminar 
-- JMM 2024 Contributed Paper Session 
 
 ### 2024
-
 
 - May 2024
   - *Brauer Pairs for Splendid Rickard Complexes*
