@@ -41,7 +41,7 @@ subtitle: Places I've been
 ---
 
 ### 2021 and prior
-- [MSRI: Sparsity of Algebraic Points (2021)](https://www.msri.org/summer_schools/962) (attendee)
+- [MSRI: Sparsity of Algebraic Points (2021)](https://www.msri.org/summer_schools/962) (attendee, virtual)
 - [MSRI: Sums of Squares Method in Geometry, Combinatorics and Optimization (2020)](https://www.msri.org/summer_schools/924) (canceled due to COVID)
 - [MAA MathFest (2018)](https://www.maa.org/sites/default/files/pdf/mathfest/2018/MathFestProgram2018.pdf) (*presenter - contributed talk*)
 - [MAA SoCal/NV Sectional (2017)](http://sections.maa.org/socalnv/Meeting2017Spring.html) (*presenter - poster*)
