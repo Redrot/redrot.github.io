@@ -1,6 +1,6 @@
 ---
 title: Activities
-subtitle: Math-related things I've done
+subtitle: Things I've done
 ---
 
 - [Expository Writing & Notes](#writing)
