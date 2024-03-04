@@ -1,6 +1,6 @@
 ---
 title: Talks
-subtitle: Public speaking and whatnot
+subtitle: Things I've said
 ---
 
 ---
@@ -8,13 +8,20 @@ subtitle: Public speaking and whatnot
 ### Upcoming
 
 - UCSC Algebra and Number Theory Seminar 
-- AMS Southwestern Sectional 
+- AMS Southwestern Sectional
+- Representation Theory and Related Geometry: Progress and Prospects
+- RPTU Kaiserslautern-Landau
 
 ### 2024
 
 - May 2024
+  - *On endotrivial complexes and the generalized Dade group*
+  - Representation Theory and Related Geometry: Progress and Prospects, contributed talk
+- May 2024
   - *Brauer Pairs for Splendid Rickard Complexes*
-  - AMS Sectional, San Francisco, Special Session
+  - AMS Sectional, San Francisco, special session
+- April 2024
+  - University of San Francisco Math Colloquium
 - January 2024
   - *Endotrivial Complexes*
   - University of Arizona Algebra Seminar
@@ -23,7 +30,6 @@ subtitle: Public speaking and whatnot
   - JMM 2024 Contributed Paper Session
 
 ### 2023
-
 
 - December 2023
   - *Endotrivial Complexes*
@@ -36,7 +42,7 @@ subtitle: Public speaking and whatnot
   - UCSC Mathematics Graduate Student Seminar
 - September 2023
   - *Endotrivial Complexes and the Trivial Source Ring*
-  - Algebra and Number Theory in Conversation at Manchester, Contributed Talk
+  - Algebra and Number Theory in Conversation at Manchester, contributed talk
 - May 2023
   - *Endotrivial Complexes and Tensor Induction*
   - AMS Sectional, Fresno, Special Session on Representation Theory of Non-Semisimple Algebras 
