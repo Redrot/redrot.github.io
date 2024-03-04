@@ -3,19 +3,24 @@ title: Activities
 subtitle: Math-related things I've done
 ---
 
-- [Conferences](#conf)
+- [Travel](#conf)
 - [Expository Writing & Notes](#writing)
 - [Reading Groups](#rg)
 - [Organization](#org)
 
 ---
 
-## Conferences I've Attended {#conf}
+## Travel and Conferences {#conf}
 
-- Group Theory in Florence IV
-- GABY 2024
-- Representation Theory and Related Geometry: Progress and Prospects (*attendee*)
+- [LMS Research School 2024 - Combinatorial representation theory and diagrammatic categorification](https://sites.google.com/view/york-lms-research-school-2024/home) (attendee)
+- Visiting [Lancaster University](https://www.lancaster.ac.uk/maths/)
+- [Group Theory in Florence IV](https://sites.google.com/view/groupsinflorenceiv/) (attendee)
+- [GABY 2024: Groups & Algebras in Bicocca for young algebraists](https://staff.matapp.unimib.it/~/gaby/gaby2024/index.html) (attendee)
+- Visiting [RPTU Kaiserslautern-Landau](https://math.rptu.de/en/home)
+- [Groups and their actions: algebraic, geometric and combinatorial aspects](https://gaagc24.github.io) (attendee)
+- Representation Theory and Related Geometry: Progress and Prospects (*presenter - contributed talk*)
 - AMS 2024 Spring Western Sectional Meeting (*presenter - special session*)
+- [SLMath - Advances in Lie Theory, Representation Theory, and Combinatorics](https://www.slmath.org/workshops/1065) (attendee)
 - JMM 2024 (*presenter - contributed talk*)
 - [Group Theory and Number Theory: Interactions - A Conference in Honor of Tiep's 60th Birthday](https://sites.google.com/view/tiep60conference) (attendee)
 - [Dame Kathleen Ollerenshaw Workshop: Algebra and Number Theory in Conversation](https://sites.google.com/view/antic-manchester/home?authuser=0) (*presenter - contributed talk*)
@@ -46,7 +51,7 @@ subtitle: Math-related things I've done
 ## Reading Groups {#rg}
 
 - [Aschbacher, Kessar, & Oliver, "Fusion Systems in Algebra & Topology"](https://www.cambridge.org/core/books/fusion-systems-in-algebra-and-topology/2979A129C13045664A6514911CC96A0D) (Spring 2022, Fall 2022, Winter 2023)
-- Balmer, Gallauer, "Permutation Resolutions"
+- Balmer, Gallauer, "Permutation Resolutions" (Spring 2023)
 - [Bouc, "Biset Functors for Finite Groups"](https://link.springer.com/book/10.1007/978-3-642-11297-3) (Fall 2021/Winter 2022, Fall 2022, Winter 2023)
 - [Linkelmann, "The Block Theory of Finite Group Algebras"](https://www.cambridge.org/core/books/block-theory-of-finite-group-algebras/03F2A21C4725C2A250C8C0635444781A) (Summer/Fall 2021)
 - [Guillot, "A Gentle Course in Local Class Field Theory"](https://www.cambridge.org/core/books/gentle-course-in-local-class-field-theory/F1D32C9B20A91D6F27424C37A14C45FC) (Spring/Summer 2021) - organizer
