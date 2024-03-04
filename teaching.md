@@ -10,6 +10,12 @@ subtitle: Courses I've taught and other teaching activities
 
 ## Courses {#courses}
 
+I am the instructor of record for any course labeled **Graduate Student Instructor**.
+
+- Spring 2024
+  - MATH 116 *(Combinatorics)*
+  - **Graduate Student Instructor**
+
 - Winter 2024
   - MATH 110 *(Introduction to Number Theory)*
   - **Graduate Student Instructor**
