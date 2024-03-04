@@ -1,6 +1,6 @@
 ---
 title: Teaching
-subtitle: Courses I've taught and other teaching activities
+subtitle: Things I've taught
 ---
 
 - [Courses](#courses)
