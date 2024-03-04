@@ -1,6 +1,6 @@
 ---
 title: Research
-subtitle: My papers and writing
+subtitle: Things I've thought
 ---
 
 - [Publications and Preprints](#pub)
