@@ -1,6 +1,6 @@
 ---
-title: Other Fun!
-subtitle: Random things I like or do
+title: Other Things
+subtitle: Things I like
 ---
 
 - [Music](#music)
