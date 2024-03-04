@@ -9,6 +9,7 @@ subtitle: Things I've said
 
 - UCSC Algebra and Number Theory Seminar 
 - AMS Southwestern Sectional
+- University of San Francisco Math Colloquium
 - Representation Theory and Related Geometry: Progress and Prospects
 - RPTU Kaiserslautern-Landau
 
