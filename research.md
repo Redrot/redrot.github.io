@@ -25,7 +25,7 @@ I study the modular representation theory of finite groups. Here are some topics
 - S. K. Miller, *Relatively endotrivial Complexes* (Submitted, February 2024) [arXiv:2402.08042](https://arxiv.org/abs/2402.08042)
 - J. Breland, S. K. Miller, *Brauer pairs for splendid Rickard complexes* (Submitted, December 2023) [arXiv:2312.10258](https://arxiv.org/abs/2312.10258)
 - S. K. Miller, *Endotrivial complexes.* (Submitted, September 2023) [arXiv:2309.12138](https://arxiv.org/abs/2309.12138)
-- A. T. Benjamin, S. K. Miller: *A proof of the optimal leapfrogging conjecture,* [Involve](https://msp.org/soon/coming.php?jpath=involve) (to appear) [arXiv](https://arxiv.org/abs/2110.08319) 
+- A. T. Benjamin, S. K. Miller: *A proof of the optimal leapfrogging conjecture,* [Involve](https://msp.org/soon/coming.php?jpath=involve) (to appear) [arXiv:2110.08319](https://arxiv.org/abs/2110.08319) 
 - A. T. Benjamin, S. K. Miller (2018): *Challenging knight's tours,* Math Horizons 25:3, 18-21. [PDF](https://math.hmc.edu/benjamin/wp-content/uploads/sites/5/2019/06/Challenging-Knight%E2%80%99s-Tours.pdf)
 
 
