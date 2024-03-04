@@ -13,6 +13,8 @@ subtitle: Things I've said
 - Representation Theory and Related Geometry: Progress and Prospects
 - RPTU Kaiserslautern-Landau
 
+---
+
 ### 2024
 
 - May 2024
@@ -29,6 +31,8 @@ subtitle: Things I've said
 - January 2024
   - *Endotrivial Complexes*
   - JMM 2024 Contributed Paper Session
+
+---
 
 ### 2023
 
@@ -50,6 +54,8 @@ subtitle: Things I've said
 - January 2023
   - *Endotrivial Complexes and Tensor Induction*
   - JMM 2023 Contributed Paper Session
+    
+---
 
 ### 2022
 
@@ -72,17 +78,23 @@ subtitle: Things I've said
   - *A Splendid Lift of Equivalences: Lifting p-Permutation Equivalences to Splendid Rickard Complexes*
   - UCSC Graduate Symposium
 
+---
+
 ### 2021
 
 - February 2021
   - *Checkers, Stacks, and other fun things: a Potpourri of Combinatorial Puzzles and Games*
   - UCSC Mathematics Graduate Student Seminar
+    
+---
 
 ### 2018
 
 - August 2018
   - *Challenging Knights Tours*
   - MAA MathFest Contributed Session
+    
+---
 
 ### 2017
 
