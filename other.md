@@ -77,7 +77,9 @@ Meanwhile, enjoy some pictures!
   - [Math Fun Facts](https://math.hmc.edu/funfacts/)
 - Free Online Textbooks
   - [Emily Riehl, *Category Theory in Context*](https://emilyriehl.github.io/files/context.pdf)
-  - [Richard Stanley, *Enumerative Combinatorics, Part 1 (2nd Edition)*](http://www.ms.uky.edu/~sohum/putnam/enu_comb_stanley.pdf)  
+  - [Richard Stanley, *Enumerative Combinatorics, Part 1 (2nd Edition)*](http://www.ms.uky.edu/~sohum/putnam/enu_comb_stanley.pdf)
+- Advice
+  - [Igor Pak, How to write](https://www.math.ucla.edu/~pak/papers/how-to-write1.pdf) (advice I might need to learn to follow, myself)
   
 More to be added eventually!
 
