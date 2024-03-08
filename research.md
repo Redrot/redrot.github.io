@@ -21,7 +21,7 @@ I study the modular representation theory of finite groups. Here are some topics
 
 ## Publications and Preprints {#pub}
 
-- S. K. Miller, *On endotrivial complexes and the generalized Dade group* (in progress)
+- S. K. Miller, *On endotrivial complexes and the generalized Dade group* (Submitted, March 2024) [arXiv:2403.04088](https://arxiv.org/abs/2403.04088)
 - S. K. Miller, *Relatively endotrivial Complexes* (Submitted, February 2024) [arXiv:2402.08042](https://arxiv.org/abs/2402.08042)
 - J. Breland, S. K. Miller, *Brauer pairs for splendid Rickard complexes* (Submitted, December 2023) [arXiv:2312.10258](https://arxiv.org/abs/2312.10258)
 - S. K. Miller, *Endotrivial complexes.* (Submitted, September 2023) [arXiv:2309.12138](https://arxiv.org/abs/2309.12138)
