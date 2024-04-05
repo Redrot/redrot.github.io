@@ -21,7 +21,7 @@ I study the modular representation theory of finite groups. Here are some topics
 
 ## Publications and Preprints {#pub}
 
-- S. K. Miller (In preparation, 2024). *Galois descent of splendid Rickard equivalences between blocks of *$p$*-nilpotent groups.*
+- S. K. Miller (In preparation, 2024). *Galois descent of splendid Rickard equivalences between blocks of* $p$*-nilpotent groups.*
 - S. K. Miller (Submitted March 2024). *On endotrivial complexes and the generalized Dade group.*
   - [arXiv:2403.04088](https://arxiv.org/abs/2403.04088)
 - S. K. Miller (Submitted February 2024). *Relatively endotrivial complexes.*
