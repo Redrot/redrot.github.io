@@ -18,6 +18,9 @@ subtitle: Things I've said
 
 ### 2024
 
+- June 2024
+  - *On endotrivial complexes and the generalized Dade group*
+  - Groups and Algebras in Bicocca for Young Algebraists (GABY 2024), contributed talk
 - May 2024
   - *On endotrivial complexes and the generalized Dade group*
   - Representation Theory and Related Geometry: Progress and Prospects, contributed talk
