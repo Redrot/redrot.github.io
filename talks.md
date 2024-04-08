@@ -7,11 +7,12 @@ subtitle: Things I've said
 
 ### Upcoming
 
+- Groups and Algebras in Bicocca for Young Algebraists (GABY 2024) contributed talk
 - UCSC Algebra and Number Theory Seminar 
-- AMS Southwestern Sectional
+- AMS Southwestern Sectional Special Session
 - University of San Francisco Math Colloquium
 - Representation Theory and Related Geometry: Progress and Prospects
-- RPTU Kaiserslautern-Landau
+- RPTU Kaiserslautern-Landau Algebra Seminar
 
 ---
 
