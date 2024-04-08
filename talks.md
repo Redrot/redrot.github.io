@@ -7,7 +7,7 @@ subtitle: Things I've said
 
 ### Upcoming
 
-- Groups and Algebras in Bicocca for Young Algebraists (GABY 2024) contributed talk
+- Groups and Algebras in Bicocca for Young Algebraists (GABY 2024)
 - UCSC Algebra and Number Theory Seminar 
 - AMS Southwestern Sectional Special Session
 - University of San Francisco Math Colloquium
