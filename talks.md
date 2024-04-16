@@ -7,9 +7,10 @@ subtitle: Things I've said
 
 ### Upcoming
 
+- AMS Fall Southeastern Sectional Special Session
 - Groups and Algebras in Bicocca for Young Algebraists (GABY 2024)
 - UCSC Algebra and Number Theory Seminar 
-- AMS Southwestern Sectional Special Session
+- AMS Southwestern Spring Sectional Special Session
 - University of San Francisco Math Colloquium
 - Representation Theory and Related Geometry: Progress and Prospects
 - RPTU Kaiserslautern-Landau Algebra Seminar
@@ -25,9 +26,10 @@ subtitle: Things I've said
   - *On endotrivial complexes and the generalized Dade group*
   - Representation Theory and Related Geometry: Progress and Prospects, contributed talk
 - May 2024
-  - *Brauer Pairs for Splendid Rickard Complexes*
-  - AMS Sectional, San Francisco, special session
+  - *On endotrivial complexes and the generalized Dade group*
+  - AMS Spring Sectional, San Francisco State University, Special Session
 - April 2024
+  - *What is Representation Theory?*
   - University of San Francisco Math Colloquium
 - January 2024
   - *Endotrivial Complexes*
