@@ -8,8 +8,8 @@ subtitle: Places I've been
 
 ### 2024
 
-- [LMS Research School 2024 - Combinatorial Representation Theory and Diagrammatic Categorification](https://sites.google.com/view/york-lms-research-school-2024/home) (attendee)
 - Visiting [Lancaster University](https://www.lancaster.ac.uk/maths/)!
+- [LMS Research School 2024 - Combinatorial Representation Theory and Diagrammatic Categorification](https://sites.google.com/view/york-lms-research-school-2024/home) (attendee)
 - [Group Theory in Florence IV](https://sites.google.com/view/groupsinflorenceiv/) (attendee)
 - [GABY 2024: Groups & Algebras in Bicocca for young algebraists](https://staff.matapp.unimib.it/~/gaby/gaby2024/index.html) (attendee)
 - Visiting [RPTU Kaiserslautern-Landau](https://math.rptu.de/en/home)!
