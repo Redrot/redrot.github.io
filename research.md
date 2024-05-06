@@ -10,12 +10,16 @@ subtitle: Things I've thought
 
 I study the modular representation theory of finite groups. Here are some topics I am presently interested in or plan to study in the future:
 
-- Local-to-global group theoretic conjectures such as Broue's abelian defect group conjecture
-- Finiteness conjectures such as Puig's conjecture
-- Biset functors and applications
-- Endotrivial modules and generalizations, such as endotrivial complexes
-- Categorification and diagrammatics
-- Intersections of combinatorics and modular representation theory
+**Current focuses**
+- Local-to-global conjectures such as Broue's abelian defect group conjecture.
+- Endotrivial modules and generalizations, such as endotrivial complexes.
+- Biset functors and applications.
+
+**Future focuses**
+- Categorification and diagrammatic categories.
+- Intersections of combinatorics and modular representation theory.
+- Counting conjectures such as Alperin's weight conjecture.
+- Intersections of modular representation theory and tensor-triangulated geometry.
 
 ---
 
