@@ -3,6 +3,8 @@ title: Activities
 subtitle: Things I've done
 ---
 
+---
+
 - [Awards](#awd)
 - [Organization](#org)
 - [Expository Writing & Notes](#writing)
