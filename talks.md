@@ -29,9 +29,9 @@ subtitle: Things I've said
 > What is Representation Theory?, April 2024
 - University of Arizona Algebra Seminar
 > Endotrivial Complexes, January 2024
-
 - JMM 2024 Contributed Paper Session
 > Endotrivial Complexes, January 2024
+
 ---
 
 ### 2023
@@ -77,6 +77,7 @@ subtitle: Things I've said
 
 - MAA MathFest Contributed Session
 > Challenging Knights Tours, August 2018
+
 ---
 
 ### 2017
