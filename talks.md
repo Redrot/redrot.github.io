@@ -17,98 +17,75 @@ subtitle: Things I've said
 
 ### 2024
 
-- June 2024
-  - *On endotrivial complexes and the generalized Dade group*
-  - Groups and Algebras in Bicocca for Young Algebraists (GABY 2024), contributed talk
-- May 2024
-  - *On endotrivial complexes and the generalized Dade group*
-  - Representation Theory and Related Geometry: Progress and Prospects, contributed talk
-- May 2024
-  - *On endotrivial complexes and the generalized Dade group*
-  - UC Santa Cruz Algebra and Number Theory Seminar
-- May 2024
-  - *On endotrivial complexes and the generalized Dade group*
-  - AMS Spring Sectional, San Francisco State University, Special Session
-- April 2024
-  - *What is Representation Theory?*
-  - University of San Francisco Math Colloquium
-- January 2024
-  - *Endotrivial Complexes*
-  - University of Arizona Algebra Seminar
-- January 2024
-  - *Endotrivial Complexes*
-  - JMM 2024 Contributed Paper Session
+- Groups and Algebras in Bicocca for Young Algebraists (GABY 2024)
+> On endotrivial complexes and the generalized Dade group, June 2024
+- Representation Theory and Related Geometry: Progress and Prospects
+> On endotrivial complexes and the generalized Dade group, May 2024
+- UC Santa Cruz Algebra and Number Theory Seminar
+> On endotrivial complexes and the generalized Dade group, May 2024
+- AMS Spring Sectional, San Francisco State University, Special Session on Group and Representation Theory
+> On endotrivial complexes and the generalized Dade group, May 2024
+- University of San Francisco Math Colloquium
+> What is Representation Theory?, April 2024
+- University of Arizona Algebra Seminar
+> Endotrivial Complexes, January 2024
 
+- JMM 2024 Contributed Paper Session
+> Endotrivial Complexes, January 2024
 ---
 
 ### 2023
 
-- December 2023
-  - *Endotrivial Complexes*
-  - University of Bilkent Algebra Seminar
-- November 2023
-  - *Endotrivial Complexes*
-  - University of Georgia Algebra Seminar
-- October 2023
-  - *Endotrivial Complexes and the Trivial Source Ring*
-  - UCSC Mathematics Graduate Student Seminar
-- September 2023
-  - *Endotrivial Complexes and the Trivial Source Ring*
-  - Algebra and Number Theory in Conversation at Manchester, contributed talk
-- May 2023
-  - *Endotrivial Complexes and Tensor Induction*
-  - AMS Sectional, Fresno, Special Session on Representation Theory of Non-Semisimple Algebras 
-- January 2023
-  - *Endotrivial Complexes and Tensor Induction*
-  - JMM 2023 Contributed Paper Session
-    
+- University of Bilkent Algebra Seminar
+> Endotrivial Complexes, December 2023 (due to the time difference, this talk spanned 2 separate days!)
+- University of Georgia Algebra Seminar
+> Endotrivial Complexes, November 2023
+- UCSC Mathematics Graduate Student Seminar
+> Endotrivial Complexes and the Trivial Source Ring, October 2023
+- Algebra and Number Theory in Conversation at Manchester
+> Endotrivial Complexes and the Trivial Source Ring, September 2023
+- AMS Sectional, Fresno, Special Session on Representation Theory of Non-Semisimple Algebras 
+> Endotrivial Complexes and Tensor Induction, May 2023
+- JMM 2023 Contributed Paper Session
+> Endotrivial Complexes and Tensor Induction, January 2023
+
 ---
 
 ### 2022
 
-- November 2022
-  - *Endotrivial Complexes and Tensor Induction*
-  - UCSC Mathematics Graduate Student Seminar
-- October 2022
-  - *Checkers, Stacks and other fun things: a Potpourri of Combinatorial Puzzles and Games*
-  - Society of Women Engineers UCSC Chapter: Science on Tap
-- June 2022
-  - Oral Qualifying Exam
-  - UCSC Mathematics Department
-- May 2022
-  - *A Splendid Lift of Equivalences: Lifting p-Permutation Equivalences to Splendid Rickard Complexes*
-  - UCSC Postdoc Symposium
-- May 2022
-  - *A Splendid Lift of Equivalences: Lifting p-Permutation Equivalences to Splendid Rickard Complexes*
-  - UCSC Mathematics Graduate Student Seminar
-- April 2022
-  - *A Splendid Lift of Equivalences: Lifting p-Permutation Equivalences to Splendid Rickard Complexes*
-  - UCSC Graduate Symposium
+- UCSC Mathematics Graduate Student Seminar
+> Endotrivial Complexes and Tensor Induction, November 2022
+- Science on Tap, hosted by SWE, UCSC Chapter
+> Checkers, Stacks and other fun things: a Potpourri of Combinatorial Puzzles and Games, October 2022
+- UCSC Postdoc Symposium
+> A Splendid Lift of Equivalences: Lifting p-Permutation Equivalences to Splendid Rickard Complexes, May 2022
+- UCSC Mathematics Graduate Student Seminar
+> A Splendid Lift of Equivalences: Lifting p-Permutation Equivalences to Splendid Rickard Complexes, May 2022
+- UCSC Graduate Student Symposium
+> A Splendid Lift of Equivalences: Lifting p-Permutation Equivalences to Splendid Rickard Complexes, April 2022
 
 ---
 
 ### 2021
 
-- February 2021
-  - *Checkers, Stacks, and other fun things: a Potpourri of Combinatorial Puzzles and Games*
-  - UCSC Mathematics Graduate Student Seminar
-    
+- UCSC Mathematics Graduate Student Seminar
+> Checkers, Stacks, and other fun things: a Potpourri of Combinatorial Puzzles and Games, February 2021
+ 
 ---
 
 ### 2018
 
-- August 2018
-  - *Challenging Knights Tours*
-  - MAA MathFest Contributed Session
-    
+- MAA MathFest Contributed Session
+> Challenging Knights Tours, August 2018
 ---
 
 ### 2017
 
-- May 2017
-  - *The Combinatorial Polynomial Hirsch Conjecture*
-  - Harvey Mudd Senior Thesis Day
-- April 2017
-  - *The Combinatorial Polynomial Hirsch Conjecture*
-  - MAA SoCal/NV Sectional Poster Session
- 
+- Harvey Mudd Senior Thesis Day
+> The Combinatorial Polynomial Hirsch Conjecture, May 2017
+- MAA SoCal/NV Sectional Poster Session
+> The Combinatorial Polynomial Hirsch Conjecture, April 2017
+
+---
+
+**Note:** Only public speaking appearances are llisted. This list does not include closed-door talks such as reading group presentations or oral examinations. 
