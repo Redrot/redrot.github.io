@@ -16,6 +16,8 @@ subtitle: Things I've done
 - Putnam top 500 finishers (2014, 2015)
 - [ICTM State Math Contest individual winner](https://ilmathcontest.com/) (2013) 
 
+---
+
 ## Organization {#org}
 
 - UC Santa Cruz Graduate Student Colloquium Co-Chair
