@@ -12,7 +12,7 @@ subtitle: Things I've done
 
 ## Awards {#awd}
 
-- UC Santa Cruz Chancellor's Dissertation Year Fellowship (2024-2025 academic year)
+- [UC Santa Cruz Chancellor's Dissertation Year Fellowship](https://science.ucsc.edu/research-opportunities/dissertation-year-fellowships/) (entire 2024-2025 academic year)
 - Putnam top 500 finishers (2014, 2015)
 - [ICTM State Math Contest individual winner](https://ilmathcontest.com/) (2013) 
 
