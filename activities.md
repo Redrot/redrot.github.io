@@ -3,16 +3,23 @@ title: Activities
 subtitle: Things I've done
 ---
 
+- [Awards](#awd)
+- [Organization](#org)
 - [Expository Writing & Notes](#writing)
 - [Reading Groups](#rg)
-- [Organization](#org)
 
 ---
+
+## Awards {#awd}
+
+- UC Santa Cruz Chancellor's Dissertation Year Fellowship (2024-2025 academic year)
+- Putnam top 500 finishers (2014, 2015)
+- [ICTM State Math Contest individual winner](https://ilmathcontest.com/) (2013) 
 
 ## Organization {#org}
 
 - UC Santa Cruz Graduate Student Colloquium Co-Chair
-  - Fall 2022 - Present
+  - Fall 2022 - May 2024
   - [See the official graduate colloquium department page for more information.](https://docs.google.com/document/d/1ocl6D85ZRwcrCXrQQLfLlR74V2phgLIQgjpi61vT_-s/edit#heading=h.5kolow2jzywc)
 
 ---
