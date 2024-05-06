@@ -26,7 +26,7 @@ subtitle: Things I've said
 - AMS Spring Sectional, San Francisco State University, Special Session on Group and Representation Theory
 > On endotrivial complexes and the generalized Dade group, May 2024
 - University of San Francisco Math Colloquium
-> What is Representation Theory?, April 2024
+> [What is Representation Theory?](https://redrot.github.io/assets/pdf/Spring_sectional_2024-3.pdf) April 2024
 - University of Arizona Algebra Seminar
 > Endotrivial Complexes, January 2024
 - JMM 2024 Contributed Paper Session
@@ -56,7 +56,7 @@ subtitle: Things I've said
 - UCSC Mathematics Graduate Student Seminar
 > Endotrivial Complexes and Tensor Induction, November 2022
 - Science on Tap, hosted by SWE, UCSC Chapter
-> Checkers, Stacks and other fun things: a Potpourri of Combinatorial Puzzles and Games, October 2022
+> [Checkers, Stacks and other fun things: a Potpourri of Combinatorial Puzzles and Games](https://redrot.github.io/assets/pdf/Science_on_Tap_talk.pdf), October 2022
 - UCSC Postdoc Symposium
 > A Splendid Lift of Equivalences: Lifting p-Permutation Equivalences to Splendid Rickard Complexes, May 2022
 - UCSC Mathematics Graduate Student Seminar
