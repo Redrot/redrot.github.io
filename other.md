@@ -11,7 +11,7 @@ subtitle: Things I like
 
 ## Music {#music}
 
-I really like music. It's always played an indispensable role in my life, and I almost even decided to pursue music in college instead of math (it would have gone terribly)! Along with listening to it whenever I can, I play guitar, tenor saxophone, EWI (electronic wind instrument), and DJ. 
+I love music. It's always played an indispensable role in my life, and I almost even decided to pursue music in college instead of math (it would have gone terribly)! Along with listening to it whenever I can, I play guitar, tenor saxophone, EWI (electronic wind instrument), and DJ. 
 - You can see what I'm listing to on my [last.fm account.](https://www.last.fm/user/Redrot) I also [use Bandcamp to dig](https://bandcamp.com/redrot) - it's a great platform for making sure your money goes more directly to the artist.
 - You can hear my DJ mixes on my [Soundcloud account.](https://soundcloud.com/sammymmm) I mix trance, techno, and occasionally ambient.
 - One of these days, I'll find and upload some old recordings of my jazz performances. Until then...
@@ -20,7 +20,7 @@ I really like music. It's always played an indispensable role in my life, and I 
 
 ## Outdoors {#outdoors}
 
-I like canoeing, backpacking, and climbing, and spent a few summers leading canoeing trips in the BWCA in Minnesota during my undergrad. The wilderness holds a special place in my heart. Some of my most formative experiences as an adolescent were long canoeing trips, and whenever I return to nature for a visit, I find an emotional peace and tranquility that I don't think exists elsewhere in the modern world. It is a place that encourages us to learn about ourselves. 
+I love canoeing, backpacking, snowboarding,  and climbing, and I even spent a few summers leading canoeing trips in the BWCA in Minnesota during my undergraduate years. The wilderness holds a special place in my heart. Some of my most formative experiences as an adolescent were long canoeing trips, and whenever I return to nature for a visit, I find an emotional peace and tranquility that I don't think exists elsewhere in the modern world. It is a place that encourages us to learn about ourselves. 
 
 It is my hope that future generations will have these same experiences. However, this may not happen unless humans relearn to care for and respect the lands they borrow. I encourage everyone to learn the principles and ethics of [leave no trace](https://www.nps.gov/articles/leave-no-trace-seven-principles.htm). If you wish to donate to a sustainability or conservancy nonprofit, here are a few I like: 
 
@@ -44,6 +44,10 @@ Meanwhile, enjoy some pictures!
 - Snowboarding
   - [Pointing somewhere](https://redrot.github.io/assets/img/431761856_328687626866227_4778850136459008052_n.jpg)
   
+---
+
+Other random hobbies of mine include chess, origami, slacklining, longboarding, [freeskating](https://www.jmkride.com/), reading, (weighted) calisthenics, drawing, backgammon, ultimate, and penguins.  
+
 ---
 
 ## Random Math Links {#links}
