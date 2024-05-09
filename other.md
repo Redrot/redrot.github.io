@@ -46,7 +46,7 @@ Meanwhile, enjoy some pictures!
   
 ---
 
-Other random hobbies of mine include chess, origami, slacklining, longboarding, [freeskating](https://www.jmkride.com/), reading, (weighted) calisthenics, drawing, backgammon, ultimate, and penguins.  
+Other random hobbies of mine include chess, origami, slacklining, longboarding, [freeskating](https://www.jmkride.com/), reading, (weighted) calisthenics, drawing, backgammon, ultimate, puzzling, and penguins.  
 
 ---
 
