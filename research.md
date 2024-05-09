@@ -15,7 +15,7 @@ I study the modular representation theory of finite groups. Here are some topics
 - Endotrivial modules and generalizations, such as endotrivial complexes.
 - Biset functors and applications.
 
-**Future focuses**
+**Future interests**
 - Categorification and diagrammatic categories.
 - Intersections of combinatorics and modular representation theory.
 - Counting conjectures such as Alperin's weight conjecture.
