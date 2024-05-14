@@ -8,13 +8,16 @@ subtitle: Places I've been
 
 ### 2024
 
-- Visiting [Lancaster University](https://www.lancaster.ac.uk/maths/)!
+More to come...?
+
+- Visiting [Lancaster University](https://www.lancaster.ac.uk/maths/)! 
 - [LMS Research School 2024 - Combinatorial Representation Theory and Diagrammatic Categorification](https://sites.google.com/view/york-lms-research-school-2024/home) (attendee)
 - [Group Theory in Florence IV](https://sites.google.com/view/groupsinflorenceiv/) (attendee)
 - [GABY 2024: Groups & Algebras in Bicocca for young algebraists](https://staff.matapp.unimib.it/~/gaby/gaby2024/index.html) (attendee)
-- Visiting [RPTU Kaiserslautern-Landau](https://math.rptu.de/en/home)!
+- Visiting [RPTU Kaiserslautern-Landau](https://math.rptu.de/en/home)! (*presenter - algebra seminar*)
 - [Groups and their Actions: Algebraic, Geometric and Combinatorial Aspects](https://gaagc24.github.io) (attendee)
 - [Representation Theory and Related Geometry: Progress and Prospects](https://sites.google.com/view/representation-theory-geometry) (*presenter - contributed talk*)
+- Visiting [UCLA](https://ww3.math.ucla.edu/)! (*presenter - algebra seminar*)
 - [AMS 2024 Spring Western Sectional Meeting](http://www.ams.org/meetings/sectional/2299_program.html) (*presenter - special session*)
 - [SLMath - Advances in Lie Theory, Representation Theory, and Combinatorics](https://www.slmath.org/workshops/1065) (attendee)
 - Visited [University of Arizona](https://www.math.arizona.edu/)! (*presenter - algebra and number theory seminar*)
