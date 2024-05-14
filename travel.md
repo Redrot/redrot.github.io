@@ -20,6 +20,7 @@ More to come...?
 - Visiting [UCLA](https://ww3.math.ucla.edu/)! (*presenter - algebra seminar*)
 - [AMS 2024 Spring Western Sectional Meeting](http://www.ams.org/meetings/sectional/2299_program.html) (*presenter - special session*)
 - [SLMath - Advances in Lie Theory, Representation Theory, and Combinatorics](https://www.slmath.org/workshops/1065) (attendee)
+- Visited [University of San Francisco](https://myusf.usfca.edu/arts-sciences/mathematics)! (*presenter - mathematics colloquium*)
 - Visited [University of Arizona](https://www.math.arizona.edu/)! (*presenter - algebra and number theory seminar*)
 - [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html) (*presenter - contributed talk*)
 
