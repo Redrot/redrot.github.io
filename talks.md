@@ -10,7 +10,7 @@ subtitle: Things I've said
 - AMS Fall Southeastern Sectional Special Session
 - Groups and Algebras in Bicocca for Young Algebraists (GABY 2024)
 - UCLA Algebra Seminar 
-- Representation Theory and Related Geometry: Progress and Prospects
+- Representation Theory and Related Geometry: Progress and Prospects (Nakano 60)
 - RPTU Kaiserslautern-Landau Algebra Seminar
 
 ---
