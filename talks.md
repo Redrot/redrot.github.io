@@ -20,7 +20,7 @@ subtitle: Things I've said
 - Groups and Algebras in Bicocca for Young Algebraists (GABY 2024)
 > On endotrivial complexes and the generalized Dade group, June 2024
 - Representation Theory and Related Geometry: Progress and Prospects
-> On endotrivial complexes and the generalized Dade group, May 2024
+> Endotrivial complexes, May 2024
 - UCLA Algebra Seminar
 > On endotrivial complexes and the generalized Dade group, May 2024
 - UC Santa Cruz Algebra and Number Theory Seminar
