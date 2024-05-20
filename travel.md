@@ -13,7 +13,7 @@ More to come...?
 - Visiting [Lancaster University](https://www.lancaster.ac.uk/maths/)! 
 - [LMS Research School 2024 - Combinatorial Representation Theory and Diagrammatic Categorification](https://sites.google.com/view/york-lms-research-school-2024/home) (attendee)
 - [Group Theory in Florence IV](https://sites.google.com/view/groupsinflorenceiv/) (attendee)
-- [GABY 2024: Groups & Algebras in Bicocca for young algebraists](https://staff.matapp.unimib.it/~/gaby/gaby2024/index.html) (attendee)
+- [GABY 2024: Groups & Algebras in Bicocca for young algebraists](https://staff.matapp.unimib.it/~/gaby/gaby2024/index.html) (*presenter - contributed talk*)
 - Visiting [RPTU Kaiserslautern-Landau](https://math.rptu.de/en/home)! (*presenter - algebra seminar*)
 - [Groups and their Actions: Algebraic, Geometric and Combinatorial Aspects](https://gaagc24.github.io) (*presenter - contributed talk*)
 - [Representation Theory and Related Geometry: Progress and Prospects](https://sites.google.com/view/representation-theory-geometry) (*presenter - contributed talk*)
