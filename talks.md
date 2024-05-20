@@ -8,10 +8,12 @@ subtitle: Things I've said
 ### Upcoming
 
 - AMS Fall Southeastern Sectional Special Session
+- AMS Fall Western Sectional Special Session
 - Groups and Algebras in Bicocca for Young Algebraists (GABY 2024)
 - UCLA Algebra Seminar 
 - Representation Theory and Related Geometry: Progress and Prospects (Nakano 60)
 - RPTU Kaiserslautern-Landau Algebra Seminar
+- Groups and their Actions: Algebraic, Geometric and Combinatorial Aspects
 
 ---
 
@@ -20,6 +22,8 @@ subtitle: Things I've said
 - Groups and Algebras in Bicocca for Young Algebraists (GABY 2024)
 > On endotrivial complexes and the generalized Dade group, June 2024
 - RPTU Kaiserslautern-Landau Algebra Seminar
+> On endotrivial complexes and the generalized Dade group, June 2024
+- Groups and their Actions: Algebraic, Geometric and Combinatorial Aspects
 > On endotrivial complexes and the generalized Dade group, June 2024
 - Representation Theory and Related Geometry: Progress and Prospects
 > Endotrivial complexes, May 2024
