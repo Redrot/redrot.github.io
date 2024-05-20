@@ -32,9 +32,9 @@ subtitle: Things I've said
 - UC Santa Cruz Algebra and Number Theory Seminar
 > On endotrivial complexes and the generalized Dade group, May 2024
 - AMS Spring Sectional, San Francisco State University, Special Session on Group and Representation Theory
-> On endotrivial complexes and the generalized Dade group, May 2024
+> [On endotrivial complexes and the generalized Dade group](https://redrot.github.io/assets/pdf/Spring_sectional_2024-3.pdf), May 2024
 - University of San Francisco Math Colloquium
-> [What is Representation Theory?](https://redrot.github.io/assets/pdf/Spring_sectional_2024-3.pdf) April 2024
+> [What is Representation Theory?](https://redrot.github.io/assets/pdf/USF_Talk-2.pdf) April 2024
 - University of Arizona Algebra Seminar
 > Endotrivial complexes, January 2024
 - JMM 2024 Contributed Paper Session
