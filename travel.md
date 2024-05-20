@@ -15,7 +15,7 @@ More to come...?
 - [Group Theory in Florence IV](https://sites.google.com/view/groupsinflorenceiv/) (attendee)
 - [GABY 2024: Groups & Algebras in Bicocca for young algebraists](https://staff.matapp.unimib.it/~/gaby/gaby2024/index.html) (attendee)
 - Visiting [RPTU Kaiserslautern-Landau](https://math.rptu.de/en/home)! (*presenter - algebra seminar*)
-- [Groups and their Actions: Algebraic, Geometric and Combinatorial Aspects](https://gaagc24.github.io) (attendee)
+- [Groups and their Actions: Algebraic, Geometric and Combinatorial Aspects](https://gaagc24.github.io) (*presenter - contributed talk*)
 - [Representation Theory and Related Geometry: Progress and Prospects](https://sites.google.com/view/representation-theory-geometry) (*presenter - contributed talk*)
 - Visiting [UCLA](https://ww3.math.ucla.edu/)! (*presenter - algebra seminar*)
 - [AMS 2024 Spring Western Sectional Meeting](http://www.ams.org/meetings/sectional/2299_program.html) (*presenter - special session*)
