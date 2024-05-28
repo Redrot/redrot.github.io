@@ -12,20 +12,21 @@ I study the modular representation theory of finite groups. Here are some topics
 
 **Current focuses**
 - Local-to-global conjectures such as Broue's abelian defect group conjecture.
-- Endotrivial modules and generalizations, such as endotrivial complexes.
+- Invertible objects such as endotrivial modules and complexes.
 - Biset functors and applications.
 
 **Future interests**
+- Intersections of modular representation theory and tensor-triangulated geometry.
 - Categorification and diagrammatic categories.
 - Intersections of combinatorics and modular representation theory.
 - Counting conjectures such as Alperin's weight conjecture.
-- Intersections of modular representation theory and tensor-triangulated geometry.
 
 ---
 
 ## Publications and Preprints {#pub}
 
-- S. K. Miller (In preparation, 2024). *Galois descent of splendid Rickard equivalences between blocks of* $p$*-nilpotent groups.*
+- S. K. Miller (Submitted May 2024, 2024). *Galois descent of splendid Rickard equivalences between blocks of* $p$*-nilpotent groups.*
+  - [arxiv:2405.16061](https://arxiv.org/abs/2405.16061)
 - S. K. Miller (Submitted March 2024). *On endotrivial complexes and the generalized Dade group.*
   - [arXiv:2403.04088](https://arxiv.org/abs/2403.04088)
 - S. K. Miller (Submitted February 2024). *Relatively endotrivial complexes.*
