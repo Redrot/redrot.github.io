@@ -37,7 +37,7 @@ I study the modular representation theory of finite groups. Here are some topics
 > (with [Jadyn Breland](https://people.ucsc.edu/~jbreland/index.html))
 > Submitted December 2023
 - [*Endotrivial complexes*](https://arxiv.org/abs/2309.12138)
-> Journal of Algebra, 650, 173-218.(2024)](https://www.sciencedirect.com/science/article/pii/S0021869324001728).
+> [Journal of Algebra, 650, 173-218.(2024)](https://www.sciencedirect.com/science/article/pii/S0021869324001728).
 - [*A proof of the optimal leapfrogging conjecture*](https://arxiv.org/abs/2110.08319)
 > (with [Arthur T. Benjamin](https://www.arthurbenjamin.info/))
 > [To appear in Involve, 202(?).](https://msp.org/soon/coming.php?jpath=involve)
