@@ -35,7 +35,7 @@ I primarily study the modular representation theory of finite groups.
 - [**Relatively endotrivial complexes**](https://arxiv.org/abs/2402.08042)
 > Submitted February 2024
 - [**Brauer pairs for splendid Rickard complexes**](https://arxiv.org/abs/2312.10258)
-> (with [Jadyn Breland](https://people.ucsc.edu/~jbreland/index.html))    
+> (with [Jadyn V. Breland](https://people.ucsc.edu/~jbreland/index.html))    
 > Submitted December 2023
 - [**Endotrivial complexes**](https://arxiv.org/abs/2309.12138)
 > [Journal of Algebra, 650, 173-218 (2024)](https://www.sciencedirect.com/science/article/pii/S0021869324001728).
