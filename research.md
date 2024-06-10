@@ -50,8 +50,8 @@ I study the modular representation theory of finite groups. Here are some topics
 
 ## Theses {#theses}
 
-- S. K. Miller (2017): *The Combinatorial Polynomial Hirsch Conjecture,* Harvey Mudd College Senior Theses, 109.
-  - [PDF](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1096&context=hmc_theses)
+- [**The Combinatorial Polynomial Hirsch Conjecture**](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1096&context=hmc_theses)
+> Harvey Mudd College Senior Theses, 109.
 
 
 
