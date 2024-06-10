@@ -8,24 +8,25 @@ subtitle: Things I've thought
 
 ---
 
-I study the modular representation theory of finite groups. Here are some topics I am presently interested in or plan to study in the future:
+I primarily study the modular representation theory of finite groups. 
 
 **Current focuses**
-- Local-to-global conjectures such as Broue's abelian defect group conjecture.
-- Invertible objects such as endotrivial modules and complexes.
-- Biset functors and applications.
+- Local-to-global conjectures such as Broue's abelian defect group conjecture
+- Invertible objects such as endotrivial modules and complexes
+- Intersections of modular representation theory and tensor-triangulated geometry
+- Biset functors and applications
+- Galois descent
 
 **Future interests**
-- Intersections of modular representation theory and tensor-triangulated geometry.
-- Categorification and diagrammatic categories.
-- Intersections of combinatorics and modular representation theory.
-- Counting conjectures such as Alperin's weight conjecture.
+- Categorification and diagrammatic categories
+- Intersections of combinatorics and modular representation theory
+- Counting conjectures such as Alperin's weight conjecture
 
 ---
 
 ## Publications and Preprints {#pub}
 
-- **Galois descent of endosplit $p$-permutation resolutions.**
+- **Galois descent of endosplit $p$-permutation resolutions**
 > In progress
 - [**Galois descent of splendid Rickard equivalences between blocks of $p$-nilpotent groups**](https://arxiv.org/abs/2405.16061)
 > Submitted May 2024
