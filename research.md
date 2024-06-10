@@ -25,9 +25,9 @@ I study the modular representation theory of finite groups. Here are some topics
 
 ## Publications and Preprints {#pub}
 
-- *Galois descent of endosplit $p$-permutation resolutions.*
+- **Galois descent of endosplit $p$-permutation resolutions.**
 > In progress
-- [**Galois descent of splendid Rickard equivalences between blocks of **$p$**-nilpotent groups**](https://arxiv.org/abs/2405.16061)
+- [**Galois descent of splendid Rickard equivalences between blocks of $p$-nilpotent groups**](https://arxiv.org/abs/2405.16061)
 > Submitted May 2024
 - [**On endotrivial complexes and the generalized Dade group**](https://arxiv.org/abs/2403.04088)
 > Submitted March 2024
