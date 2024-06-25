@@ -1,6 +1,6 @@
 ---
 title: Travel and Conferences
-subtitle: Places I've been
+subtitle: Places I've been (for math)
 ---
 
 
@@ -10,11 +10,11 @@ subtitle: Places I've been
 
 - More to come...? Probably!
 - Visiting [Lancaster University](https://www.lancaster.ac.uk/maths/) and working with [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza) in Lancaster, UK
-- (Possibly) attending [Group Actions, Geometry and Cohomology](https://sites.google.com/view/gagcmanchester/home) in Manchester, UK
+- Attending [Group Actions, Geometry and Cohomology](https://sites.google.com/view/gagcmanchester/home) in bustling Manchester, UK
 - Attending [LMS Research School 2024 - Combinatorial Representation Theory and Diagrammatic Categorification](https://sites.google.com/view/york-lms-research-school-2024/home) in York, UK
-- Attending [Group Theory in Florence IV](https://sites.google.com/view/groupsinflorenceiv/) in Florence, Italy
-- Giving a contributed talk at [GABY 2024: Groups & Algebras in Bicocca for young algebraists](https://staff.matapp.unimib.it/~/gaby/gaby2024/index.html) in Milan, Italy
-- Giving a seminar talk at [RPTU Kaiserslautern-Landau](https://math.rptu.de/en/home) and working with [Caroline Lassueur](https://agag-lassueur.math.rptu.de/~lassueur/en/) in Kaiserslautern, Germany
+- Attending [Group Theory in Florence IV](https://sites.google.com/view/groupsinflorenceiv/) in historic Florence, Italy
+- Gave a contributed talk at [GABY 2024: Groups & Algebras in Bicocca for young algebraists](https://staff.matapp.unimib.it/~/gaby/gaby2024/index.html) in Milan, Italy
+- Gave a seminar talk at [RPTU Kaiserslautern-Landau](https://math.rptu.de/en/home) and working with [Caroline Lassueur](https://agag-lassueur.math.rptu.de/~lassueur/en/) in Kaiserslautern, Germany
 - Gave a contributed talk at [Groups and their Actions: Algebraic, Geometric and Combinatorial Aspects](https://gaagc24.github.io) in the beautiful Levico Terme, Italy
 - Gave a contributed talk at [Representation Theory and Related Geometry: Progress and Prospects](https://sites.google.com/view/representation-theory-geometry) in Athens (in Georgia) (the state, not the country)
 - Gave a seminar talk at [UCLA](https://ww3.math.ucla.edu/) in Los Angeles
