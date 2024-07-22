@@ -15,6 +15,8 @@ subtitle: Things I've said
 
 ### 2024
 
+- Group Actions, Groups, and Geometry
+> Endotrivial complexes, July 2024
 - Groups and Algebras in Bicocca for Young Algebraists (GABY 2024)
 > Endotrivial complexes, June 2024
 - RPTU Kaiserslautern-Landau Algebra Seminar
