@@ -9,10 +9,10 @@ subtitle: Places I've been (for math)
 ### 2024
 
 - More to come...? Probably!
-- Visiting [Lancaster University](https://www.lancaster.ac.uk/maths/) and working with [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza) in Lancaster, UK
-- Attending [Group Actions, Geometry and Cohomology](https://sites.google.com/view/gagcmanchester/home) in bustling Manchester, UK
-- Attending [LMS Research School 2024 - Combinatorial Representation Theory and Diagrammatic Categorification](https://sites.google.com/view/york-lms-research-school-2024/home) in York, UK
-- Attending [Group Theory in Florence IV](https://sites.google.com/view/groupsinflorenceiv/) in historic Florence, Italy
+- Visited [Lancaster University](https://www.lancaster.ac.uk/maths/) and working with [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza) in Lancaster, UK
+- Gave a contributed talk at [Group Actions, Geometry and Cohomology](https://sites.google.com/view/gagcmanchester/home) in bustling Manchester, UK
+- Attended [LMS Research School 2024 - Combinatorial Representation Theory and Diagrammatic Categorification](https://sites.google.com/view/york-lms-research-school-2024/home) in York, UK
+- Attended [Group Theory in Florence IV](https://sites.google.com/view/groupsinflorenceiv/) in historic Florence, Italy
 - Gave a contributed talk at [GABY 2024: Groups & Algebras in Bicocca for young algebraists](https://staff.matapp.unimib.it/~/gaby/gaby2024/index.html) in Milan, Italy
 - Gave a seminar talk at [RPTU Kaiserslautern-Landau](https://math.rptu.de/en/home) and working with [Caroline Lassueur](https://agag-lassueur.math.rptu.de/~lassueur/en/) in Kaiserslautern, Germany
 - Gave a contributed talk at [Groups and their Actions: Algebraic, Geometric and Combinatorial Aspects](https://gaagc24.github.io) in the beautiful Levico Terme, Italy
