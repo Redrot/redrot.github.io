@@ -15,7 +15,7 @@ I primarily study the modular representation theory of finite groups.
 - Invertible objects such as endotrivial modules and complexes
 - Intersections of modular representation theory and tensor-triangulated geometry
 - Biset functors and applications
-- Galois descent
+- Galois descent of representations
 
 **Future interests**
 - Categorification and diagrammatic categories
