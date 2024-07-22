@@ -9,7 +9,6 @@ subtitle: Things I've said
 
 - AMS Fall Southeastern Sectional Special Session
 - AMS Fall Western Sectional Special Session
-- Groups and Algebras in Bicocca for Young Algebraists (GABY 2024)
   
 ---
 
