@@ -17,7 +17,7 @@ I primarily study the modular representation theory of finite groups.
 - Biset functors and applications
 - Galois descent of representations
 
-**Otjer interests**
+**Other interests**
 - Categorification and diagrammatic categories
 - Intersections of combinatorics and modular representation theory
 - Counting conjectures such as Alperin's weight conjecture
