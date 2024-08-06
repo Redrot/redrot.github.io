@@ -26,12 +26,12 @@ I primarily study the modular representation theory of finite groups.
 
 ## Publications and Preprints {#pub}
 
-9. **The Euler characteristic of an endotrivial complex*
+9. **The Euler characteristic of an endotrivial complex**
    
  > (with [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza))    
  > In progress
 
-8. **On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups*
+8. **On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups**
 
  > In progress
 
