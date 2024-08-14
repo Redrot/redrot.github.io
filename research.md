@@ -29,8 +29,8 @@ I primarily study the modular representation theory of finite groups.
 - **The Euler characteristic of an endotrivial complex**  
 > (with [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza))    
 > In progress
-- **On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups**
-> In progress
+- [**On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups**](https://arxiv.org/abs/2408.04094)
+> Submitted August 2024
 - [**Galois descent of splendid Rickard equivalences between blocks of $p$-nilpotent groups**](https://arxiv.org/abs/2405.16061)
 > Submitted May 2024
 - [**On endotrivial complexes and the generalized Dade group**](https://arxiv.org/abs/2403.04088) 
