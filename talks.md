@@ -14,6 +14,10 @@ subtitle: Things I've said
 
 ### 2024
 
+- 2024 Fall Western Sectional Meeting
+> On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups, October 2024
+- 2024 Fall Southeastern Sectional Meeting
+> On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups, October 2024
 - Group Actions, Groups, and Geometry
 > Endotrivial complexes, July 2024
 - Groups and Algebras in Bicocca for Young Algebraists (GABY 2024)
