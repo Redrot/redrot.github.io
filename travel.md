@@ -9,6 +9,8 @@ subtitle: Places I've been (for math)
 ### 2024
 
 - More to come...? Probably!
+- Giving a special session talk at [2024 Fall Western Sectional Meeting](https://www.ams.org/meetings/sectional/2304_program.html) in Riverside
+- Giving a special session talk at [2024 Fall Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2315_program.html) in Savannah
 - Visited [Lancaster University](https://www.lancaster.ac.uk/maths/) and working with [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza) in Lancaster, UK
 - Gave a contributed talk at [Group Actions, Geometry and Cohomology](https://sites.google.com/view/gagcmanchester/home) in bustling Manchester, UK
 - Attended [LMS Research School 2024 - Combinatorial Representation Theory and Diagrammatic Categorification](https://sites.google.com/view/york-lms-research-school-2024/home) in York, UK
