@@ -42,7 +42,7 @@ I primarily study the modular representation theory of finite groups.
 - **0.** [**A proof of the optimal leapfrogging conjecture**](https://arxiv.org/abs/2110.08319)
 > (with [Arthur T. Benjamin](https://www.arthurbenjamin.info/))    
 > [To appear in Involve (202?)](https://msp.org/soon/coming.php?jpath=involve)
-- **-1.**[**Challenging knight's tours**](https://math.hmc.edu/benjamin/wp-content/uploads/sites/5/2019/06/Challenging-Knight%E2%80%99s-Tours.pdf)
+- **-1.** [**Challenging knight's tours**](https://math.hmc.edu/benjamin/wp-content/uploads/sites/5/2019/06/Challenging-Knight%E2%80%99s-Tours.pdf)
 > (with [Arthur T. Benjamin](https://www.arthurbenjamin.info/))    
 > [Math Horizons, 25(3), 18-21 (2018)](https://www.tandfonline.com/doi/full/10.1080/10724117.2018.1424460)
 
