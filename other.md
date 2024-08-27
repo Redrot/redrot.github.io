@@ -66,11 +66,14 @@ Other random hobbies of mine include chess, origami, slacklining, longboarding, 
   - [Math Meetings](https://mathmeetings.net/)
   - [Advances in Group Theory and Applications](https://www.advgrouptheory.com/GTNews.html)
   - [FDList](https://fdlist.math.uni-bielefeld.de/)
-- News & Interviews
+  - [Commalg.org](https://commalg.org/)
+- News, Interviews, and Magazines
   - [Quanta](https://www.quantamagazine.org/)
   - [Scientific American](https://www.scientificamerican.com/)
   - [My Favorite Theorem](https://kpknudson.com/my-favorite-theorem)
   - [Notices of the AMS](https://www.ams.org/notices)
+  - [Chalkdust Magazine](https://chalkdustmagazine.com/)
+  - [The Aperiodical](https://aperiodical.com/)
 - Blogs
   - Francis Su (HMC): [The Mathematical Yawp](https://mathyawp.wordpress.com/) and [personal blog](https://www.francissu.com/blog).
   - Darryl Yong (HMC): [ProfTeacher](https://profteacher.com/)
@@ -78,13 +81,16 @@ Other random hobbies of mine include chess, origami, slacklining, longboarding, 
   - Terry Tao (UCLA): [What's new](https://terrytao.wordpress.com/)
   - John C Baez (UCR): [Azimuth](https://johncarlosbaez.wordpress.com/)
   - Various: [The n-Category Cafe](https://golem.ph.utexas.edu/category/)
+  - Frank Calegari (UChicago): [Persiflage](https://www.galoisrepresentations.com/)
 - Fun Stuff
   - [Math Fun Facts](https://math.hmc.edu/funfacts/)
+  - [Theorem of the Day](https://www.theoremoftheday.org/index.php)
+  - [Erdos Problems](https://www.erdosproblems.com/start)
 - Free Online Textbooks
   - [Emily Riehl, *Category Theory in Context*](https://emilyriehl.github.io/files/context.pdf)
   - [Richard Stanley, *Enumerative Combinatorics, Part 1 (2nd Edition)*](http://www.ms.uky.edu/~sohum/putnam/enu_comb_stanley.pdf)
 - Advice
-  - [Igor Pak, How to write](https://www.math.ucla.edu/~pak/papers/how-to-write1.pdf) (advice I might need to learn to follow, myself)
+  - [Igor Pak, How to write](https://www.math.ucla.edu/~pak/papers/how-to-write1.pdf)
   
 More to be added eventually!
 
