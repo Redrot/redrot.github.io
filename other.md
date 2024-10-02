@@ -82,6 +82,7 @@ Other random hobbies of mine include chess, origami, slacklining, longboarding, 
   - John C Baez (UCR): [Azimuth](https://johncarlosbaez.wordpress.com/)
   - Various: [The n-Category Cafe](https://golem.ph.utexas.edu/category/)
   - Frank Calegari (UChicago): [Persiflage](https://www.galoisrepresentations.com/)
+  - Igor Pak (UCLA): [Igor Pak's blog](https://igorpak.wordpress.com/)
 - Fun Stuff
   - [Math Fun Facts](https://math.hmc.edu/funfacts/)
   - [Theorem of the Day](https://www.theoremoftheday.org/index.php)
