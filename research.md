@@ -14,9 +14,9 @@ I primarily study the modular representation theory of finite groups.
 - Local-to-global conjectures such as Broue's abelian defect group conjecture
 - Invertible objects such as endotrivial modules and complexes
 - Intersections of modular representation theory and tensor-triangulated geometry
-- Biset functors and applications
-- Galois descent of representations
-- Categorification
+- Biset functors (i.e. global Mackey functors) and applications
+- Galois descent in representation theory
+- Cateegorification
 
 ---
 
@@ -27,16 +27,16 @@ I primarily study the modular representation theory of finite groups.
 > (with [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza))    
 > In progress
 - **6.** [**On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups**](https://arxiv.org/abs/2408.04094)
-> Submitted August 2024
+> Submitted 
 - **5.** [**Galois descent of splendid Rickard equivalences between blocks of $p$-nilpotent groups**](https://arxiv.org/abs/2405.16061)
-> Submitted May 2024
-- **4.** [**On endotrivial complexes and the generalized Dade group**](https://arxiv.org/abs/2403.04088) 
-> Submitted March 2024
+> Submitted 
+- **4.** [**The classification of endotrivial complexes**](https://arxiv.org/abs/2403.04088) 
+> Submitted 
 - **3.** [**Relatively endotrivial complexes**](https://arxiv.org/abs/2402.08042)
-> Submitted February 2024
+> Submitted
 - **2.** [**Brauer pairs for splendid Rickard complexes**](https://arxiv.org/abs/2312.10258)
 > (with [Jadyn V. Breland](https://people.ucsc.edu/~jbreland/index.html))    
-> Submitted December 2023
+> Submitted
 - **1.** [**Endotrivial complexes**](https://arxiv.org/abs/2309.12138) 
 > [Journal of Algebra, 650, 173-218 (2024)](https://www.sciencedirect.com/science/article/pii/S0021869324001728).
 - **0.** [**A proof of the optimal leapfrogging conjecture**](https://arxiv.org/abs/2110.08319)
