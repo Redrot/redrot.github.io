@@ -29,6 +29,7 @@ I am primarily interested in the modular representation theory of finite groups.
 - **The Euler characteristic of an endotrivial complex**  
 > (with [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza))    
 
+---
 
 ## Publications and Preprints {#pub}
 
