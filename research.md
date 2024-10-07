@@ -3,12 +3,13 @@ title: Research
 subtitle: Things I've thought
 ---
 
+- [In Progress](#inp)
 - [Publications and Preprints](#pub)
 - [Theses](#theses)
 
 ---
 
-I primarily study the modular representation theory of finite groups. 
+I am primarily interested in the modular representation theory of finite groups. 
 
 **Current focuses**
 - Local-to-global conjectures such as Broue's abelian defect group conjecture
@@ -20,12 +21,18 @@ I primarily study the modular representation theory of finite groups.
 
 ---
 
+## In Progress {#inp}
+
+- **A Morita theorem for splendid equivalences**
+- **Twisted cohomology of permutation modules**
+> (with [Martin Gallauer](https://homepages.warwick.ac.uk/staff/Martin.Gallauer/))
+- **The Euler characteristic of an endotrivial complex**  
+> (with [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza))    
+
+
 ## Publications and Preprints {#pub}
 
 
-- **7. The Euler characteristic of an endotrivial complex**  
-> (with [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza))    
-> In progress
 - **6.** [**On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups**](https://arxiv.org/abs/2408.04094)
 > Submitted 
 - **5.** [**Galois descent of splendid Rickard equivalences between blocks of $p$-nilpotent groups**](https://arxiv.org/abs/2405.16061)
