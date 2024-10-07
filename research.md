@@ -17,7 +17,7 @@ I am primarily interested in the modular representation theory of finite groups.
 - Intersections of modular representation theory and tensor-triangulated geometry
 - Biset functors (i.e. global Mackey functors) and applications
 - Galois descent in representation theory
-- Cateegorification
+- Categorification
 
 ---
 
