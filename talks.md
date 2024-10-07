@@ -16,6 +16,10 @@ subtitle: Things I've said
 
 - 2024 Fall Western Sectional Meeting
 > On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups, October 2024
+- UC Santa Cruz Algebra and Number Theory Seminar
+> On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups, October 2024
+- UCSC Mathematics Graduate Student Seminar
+> An exploration of the abelian defect group conjecture, October 2024
 - 2024 Fall Southeastern Sectional Meeting
 > On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups, October 2024
 - Group Actions, Groups, and Geometry
