@@ -14,13 +14,13 @@ subtitle: Things I've said
 
 ### 2024
 
-- 2024 Fall Western Sectional Meeting
+- 2024 AMS Fall Western Sectional, Special Session on Finite Groups, Their Representations, and Related Structures
 > On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups, October 2024
 - UC Santa Cruz Algebra and Number Theory Seminar
 > On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups, October 2024
 - UCSC Mathematics Graduate Student Seminar
 > An exploration of the abelian defect group conjecture, October 2024
-- 2024 Fall Southeastern Sectional Meeting
+- AMS Fall Southeastern Sectional, Special Session on Algebraic, Combinatorial and Geometric Aspects of Representation Theory (cancelled)
 > On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups, October 2024
 - Group Actions, Groups, and Geometry
 > Endotrivial complexes, July 2024
@@ -36,7 +36,7 @@ subtitle: Things I've said
 > On endotrivial complexes and the generalized Dade group, May 2024
 - UC Santa Cruz Algebra and Number Theory Seminar
 > On endotrivial complexes and the generalized Dade group, May 2024
-- AMS Spring Sectional, San Francisco State University, Special Session on Group and Representation Theory
+- AMS Spring Western Sectional, San Francisco State University, Special Session on Group and Representation Theory
 > [On endotrivial complexes and the generalized Dade group](https://redrot.github.io/assets/pdf/Spring_sectional_2024-3.pdf), May 2024
 - University of San Francisco Math Colloquium
 > [What is Representation Theory?](https://redrot.github.io/assets/pdf/USF_Talk-2.pdf) April 2024
@@ -57,7 +57,7 @@ subtitle: Things I've said
 > Endotrivial complexes and the trivial source ring, October 2023
 - Algebra and Number Theory in Conversation at Manchester
 > Endotrivial complexes and the trivial source ring, September 2023
-- AMS Sectional, Fresno, Special Session on Representation Theory of Non-Semisimple Algebras 
+- AMS Spring Western Sectional, Fresno, Special Session on Representation Theory of Non-Semisimple Algebras 
 > Endotrivial complexes and tensor induction, May 2023
 - JMM 2023 Contributed Paper Session
 > Endotrivial complexes and tensor induction, January 2023
