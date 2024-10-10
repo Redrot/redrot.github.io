@@ -9,7 +9,7 @@ subtitle: Things I've thought
 
 ---
 
-I am primarily interested in the modular representation theory of finite groups. This means that I study vector spaces (over finite fields, such as the field $\mathbb{Z}/p\mathbb{Z}$) with some sort of additional symmetry described by a finite group. In this setting, there is an underlying "local-to-global" philosophy, which states that the representation theory of a finite group $G$ should be related to the representation theory of its "$p$-local" subgroups. I seek to discover and understand these connections on a structural level by working with categories and structures that appear to govern this philosophy. 
+I am primarily interested in the modular representation theory of finite groups. This means that I study vector spaces (over finite fields, such as the field $\mathbb{Z}/p\mathbb{Z}$) with some sort of additional symmetry described by a finite group. In this setting, there is an underlying "local-to-global" philosophy, which states that the representation theory of a finite group $G$ should be related to the representation theory of its " $p$ -local" subgroups. I seek to discover and understand these connections on a structural level by working with categories and structures that appear to govern this philosophy. 
 
 **Current focuses**
 - Local-to-global conjectures such as Broue's abelian defect group conjecture
