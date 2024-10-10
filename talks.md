@@ -7,7 +7,6 @@ subtitle: Things I've said
 
 ### Upcoming
 
-- AMS Fall Southeastern Sectional Special Session
 - AMS Fall Western Sectional Special Session
   
 ---
