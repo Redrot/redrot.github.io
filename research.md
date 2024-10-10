@@ -41,7 +41,7 @@ I am primarily interested in the modular representation theory of finite groups.
 - **4.** [**The classification of endotrivial complexes**](https://arxiv.org/abs/2403.04088) 
 > Submitted 
 - **3.** [**Relatively endotrivial complexes**](https://arxiv.org/abs/2402.08042)
-> Submitted
+> To appear, J. Pure Appl. Algebra
 - **2.** [**Brauer pairs for splendid Rickard complexes**](https://arxiv.org/abs/2312.10258)
 > (with [Jadyn V. Breland](https://people.ucsc.edu/~jbreland/index.html))    
 > Submitted
