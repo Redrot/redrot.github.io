@@ -23,9 +23,6 @@ I am primarily interested in the modular representation theory of finite groups.
 
 ## In Progress {#inp}
 
-- **A Morita theorem for splendid equivalences**
-- **Twisted cohomology of permutation modules**
-> (with [Martin Gallauer](https://homepages.warwick.ac.uk/staff/Martin.Gallauer/))
 - **The Euler characteristic of an endotrivial complex**  
 > (with [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza))    
 
