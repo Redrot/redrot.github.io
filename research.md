@@ -3,7 +3,7 @@ title: Research
 subtitle: Things I've thought
 ---
 
-- [In Progress](#inp)
+- [In Preparation](#inp)
 - [Publications and Preprints](#pub)
 - [Theses](#theses)
 
@@ -21,7 +21,7 @@ I am primarily interested in the modular representation theory of finite groups.
 
 ---
 
-## In Progress {#inp}
+## In Preparation {#inp}
 
 - **The Euler characteristic of an endotrivial complex**  
 > (with [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza))    
@@ -31,23 +31,23 @@ I am primarily interested in the modular representation theory of finite groups.
 ## Publications and Preprints {#pub}
 
 
-- **6.** [**On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups**](https://arxiv.org/abs/2408.04094)
+- **8.** [**On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups**](https://arxiv.org/abs/2408.04094)
 > Submitted 
-- **5.** [**Galois descent of splendid Rickard equivalences between blocks of $p$-nilpotent groups**](https://arxiv.org/abs/2405.16061)
+- **7.** [**Galois descent of splendid Rickard equivalences between blocks of $p$-nilpotent groups**](https://arxiv.org/abs/2405.16061)
 > To appear, Proc. Amer. Math. Soc.
-- **4.** [**The classification of endotrivial complexes**](https://arxiv.org/abs/2403.04088) 
+- **6.** [**The classification of endotrivial complexes**](https://arxiv.org/abs/2403.04088) 
 > Submitted 
-- **3.** [**Relatively endotrivial complexes**](https://arxiv.org/abs/2402.08042)
+- **5.** [**Relatively endotrivial complexes**](https://arxiv.org/abs/2402.08042)
 > To appear, J. Pure Appl. Algebra
-- **2.** [**Brauer pairs for splendid Rickard complexes**](https://arxiv.org/abs/2312.10258)
+- **4.** [**Brauer pairs for splendid Rickard complexes**](https://arxiv.org/abs/2312.10258)
 > (with [Jadyn V. Breland](https://people.ucsc.edu/~jbreland/index.html))    
 > Submitted
-- **1.** [**Endotrivial complexes**](https://arxiv.org/abs/2309.12138) 
+- **3.** [**Endotrivial complexes**](https://arxiv.org/abs/2309.12138) 
 > [J. Algebra, 650, 173-218 (2024)](https://www.sciencedirect.com/science/article/pii/S0021869324001728).
-- **0.** [**A proof of the optimal leapfrogging conjecture**](https://arxiv.org/abs/2110.08319)
+- **2.** [**A proof of the optimal leapfrogging conjecture**](https://arxiv.org/abs/2110.08319)
 > (with [Arthur T. Benjamin](https://www.arthurbenjamin.info/))    
 > [To appear, Involve](https://msp.org/soon/coming.php?jpath=involve)
-- **-1.** [**Challenging knight's tours**](https://math.hmc.edu/benjamin/wp-content/uploads/sites/5/2019/06/Challenging-Knight%E2%80%99s-Tours.pdf)
+- **1.** [**Challenging knight's tours**](https://math.hmc.edu/benjamin/wp-content/uploads/sites/5/2019/06/Challenging-Knight%E2%80%99s-Tours.pdf)
 > (with [Arthur T. Benjamin](https://www.arthurbenjamin.info/))    
 > [Math Horizons, 25(3), 18-21 (2018)](https://www.tandfonline.com/doi/full/10.1080/10724117.2018.1424460)
 
