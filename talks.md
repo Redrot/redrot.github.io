@@ -8,7 +8,8 @@ subtitle: Things I've said
 ### Upcoming
 
 - AMS Fall Western Sectional Special Session
-  
+- Berkeley Representation Theory and Tensor Categories Seminar
+
 ---
 
 ### 2024
