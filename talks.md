@@ -9,6 +9,7 @@ subtitle: Things I've said
 
 - AMS Fall Western Sectional Special Session
 - Berkeley Representation Theory and Tensor Categories Seminar
+- University of Washington Algebra Seminar
 
 ---
 
