@@ -14,7 +14,7 @@ subtitle: Where have I been to do math?
 ### 2024
 
 - Giving a seminar talk at [UC Berkeley](https://math.berkeley.edu/home) in Berkeley, CA
-- Giving a special session talk at [2024 Fall Western Sectional Meeting](https://www.ams.org/meetings/sectional/2304_program.html) in Riverside, CA
+- Gave a special session talk at [2024 Fall Western Sectional Meeting](https://www.ams.org/meetings/sectional/2304_program.html) in Riverside, CA
 - Did not give a special session talk at [2024 Fall Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2315_program.html) in Savannah, GA due to inclement weather
 - Visited [Lancaster University](https://www.lancaster.ac.uk/maths/) and working with [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza) in Lancaster, UK
 - Gave a contributed talk at [Group Actions, Geometry and Cohomology](https://sites.google.com/view/gagcmanchester/home) in bustling Manchester, UK
