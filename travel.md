@@ -5,25 +5,29 @@ subtitle: Where have I been to do math?
 
 
 ---
+### 2025
+
+- More to come...? Probably!
+- Attending the [Joint Mathematics Meetings](https://jointmathematicsmeetings.org/jmm) and giving a seminar talk at the [University of Washington](https://math.washington.edu/) in lush Seattle, WA
+
 
 ### 2024
 
-- More to come...? Probably!
 - Giving a seminar talk at [UC Berkeley](https://math.berkeley.edu/home) in Berkeley, CA
 - Giving a special session talk at [2024 Fall Western Sectional Meeting](https://www.ams.org/meetings/sectional/2304_program.html) in Riverside, CA
 - Did not give a special session talk at [2024 Fall Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2315_program.html) in Savannah, GA due to inclement weather
 - Visited [Lancaster University](https://www.lancaster.ac.uk/maths/) and working with [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza) in Lancaster, UK
 - Gave a contributed talk at [Group Actions, Geometry and Cohomology](https://sites.google.com/view/gagcmanchester/home) in bustling Manchester, UK
 - Attended [LMS Research School 2024 - Combinatorial Representation Theory and Diagrammatic Categorification](https://sites.google.com/view/york-lms-research-school-2024/home) in York, UK
-- Attended [Group Theory in Florence IV](https://sites.google.com/view/groupsinflorenceiv/) in historic Florence, Italy
+- Attended [Group Theory in Florence IV](https://sites.google.com/view/groupsinflorenceiv/) in historic Florence, Italy, the birthplace of the Renaissance
 - Gave a contributed talk at [GABY 2024: Groups & Algebras in Bicocca for young algebraists](https://staff.matapp.unimib.it/~/gaby/gaby2024/index.html) in Milan, Italy
 - Gave a seminar talk at [RPTU Kaiserslautern-Landau](https://math.rptu.de/en/home) and working with [Caroline Lassueur](https://agag-lassueur.math.rptu.de/~lassueur/en/) in Kaiserslautern, Germany
-- Gave a contributed talk at [Groups and their Actions: Algebraic, Geometric and Combinatorial Aspects](https://gaagc24.github.io) in beautiful Levico Terme, Italy
-- Gave a contributed talk at [Representation Theory and Related Geometry: Progress and Prospects](https://sites.google.com/view/representation-theory-geometry) in Athens (in Georgia) (the state, not the country)
-- Gave a seminar talk at [UCLA](https://ww3.math.ucla.edu/) in Los Angeles
-- Gave a special session talk at [AMS 2024 Spring Western Sectional Meeting](http://www.ams.org/meetings/sectional/2299_program.html) in San Francisco
-- Attended [SLMath - Advances in Lie Theory, Representation Theory, and Combinatorics](https://www.slmath.org/workshops/1065) in Berkeley
-- Gave a colloquium talk at [University of San Francisco](https://myusf.usfca.edu/arts-sciences/mathematics) in San Francisco
+- Gave a contributed talk at [Groups and their Actions: Algebraic, Geometric and Combinatorial Aspects](https://gaagc24.github.io) in idyllic Levico Terme, Italy
+- Gave a contributed talk at [Representation Theory and Related Geometry: Progress and Prospects](https://sites.google.com/view/representation-theory-geometry) in Athens, GA
+- Gave a seminar talk at [UCLA](https://ww3.math.ucla.edu/) in Los Angeles, CA, my brief old home!
+- Gave a special session talk at [AMS 2024 Spring Western Sectional Meeting](http://www.ams.org/meetings/sectional/2299_program.html) in San Francisco, CA
+- Attended [SLMath - Advances in Lie Theory, Representation Theory, and Combinatorics](https://www.slmath.org/workshops/1065) in Berkeley, CA
+- Gave a colloquium talk at [University of San Francisco](https://myusf.usfca.edu/arts-sciences/mathematics) in San Francisco, CA
 - Gave a seminar talk at [University of Arizona](https://www.math.arizona.edu/) in Tuscon, AZ
 - Gave a contributed talk at the [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html) in San Francisco, CA
 
