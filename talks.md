@@ -7,14 +7,23 @@ subtitle: Things I've said
 
 ### Upcoming
 
-- AMS Fall Western Sectional Special Session
 - Berkeley Representation Theory and Tensor Categories Seminar
 - University of Washington Algebra Seminar
+- 2024 AMS Spring Eastern Sectional 
 
 ---
 
+### 2025
+
+- 2024 AMS Spring Northeastern Sectional, Special Session on Group Theory and Representation Theory
+> (tbd)
+- University of Washington Algebra Seminar
+> The geometry of permutation modules and endotrivial complexes
+
 ### 2024
 
+- University of California Berkeley Representation Theory and Tensor Categories Seminar
+> Endotrivial complexes and the geometry of permutation modules 
 - 2024 AMS Fall Western Sectional, Special Session on Finite Groups, Their Representations, and Related Structures
 > On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups, October 2024
 - UC Santa Cruz Algebra and Number Theory Seminar
