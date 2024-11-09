@@ -16,22 +16,22 @@ subtitle: Things I've said
 ### 2025
 
 - 2024 AMS Spring Northeastern Sectional, Special Session on Group Theory and Representation Theory
-> (tbd)
+> (tbd), April 2025
 - University of Washington Algebra Seminar
-> The geometry of permutation modules and endotrivial complexes
+> The geometry of permutation modules and endotrivial complexes, January 2025
 
 ### 2024
 
 - University of California Berkeley Representation Theory and Tensor Categories Seminar
-> Endotrivial complexes and the geometry of permutation modules 
-- 2024 AMS Fall Western Sectional, Special Session on Finite Groups, Their Representations, and Related Structures
-> On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups, October 2024
+> Endotrivial complexes and the geometry of permutation modules, November 2024
 - UC Santa Cruz Algebra and Number Theory Seminar
+> On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups, November 2024
+- 2024 AMS Fall Western Sectional, Special Session on Finite Groups, Their Representations, and Related Structures
 > On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups, October 2024
 - UCSC Mathematics Graduate Student Seminar
 > An exploration of the abelian defect group conjecture, October 2024
-- AMS Fall Southeastern Sectional, Special Session on Algebraic, Combinatorial and Geometric Aspects of Representation Theory (cancelled)
-> On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups, October 2024
+- AMS Fall Southeastern Sectional, Special Session on Algebraic, Combinatorial and Geometric Aspects of Representation Theory 
+> On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups, October 2024 (cancelled)
 - Group Actions, Groups, and Geometry
 > Endotrivial complexes, July 2024
 - Groups and Algebras in Bicocca for Young Algebraists (GABY 2024)
