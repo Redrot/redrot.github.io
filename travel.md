@@ -8,14 +8,15 @@ subtitle: Where have I been to do math?
 ### 2025
 
 - More to come...? Probably!
+- Giving a special session talk at [AMS 2025 Spring Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2320_program.html) in Hartford, CT
 - Attending the [Joint Mathematics Meetings](https://jointmathematicsmeetings.org/jmm) and giving a seminar talk at the [University of Washington](https://math.washington.edu/) in lush Seattle, WA
 
 
 ### 2024
 
 - Giving a seminar talk at [UC Berkeley](https://math.berkeley.edu/home) in Berkeley, CA
-- Gave a special session talk at [2024 Fall Western Sectional Meeting](https://www.ams.org/meetings/sectional/2304_program.html) in Riverside, CA
-- Did not give a special session talk at [2024 Fall Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2315_program.html) in Savannah, GA due to inclement weather
+- Gave a special session talk at [AMS 2024 Fall Western Sectional Meeting](https://www.ams.org/meetings/sectional/2304_program.html) in Riverside, CA
+- Did not give a special session talk at [AMS 2024 Fall Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2315_program.html) in Savannah, GA due to inclement weather
 - Visited [Lancaster University](https://www.lancaster.ac.uk/maths/) and working with [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza) in Lancaster, UK
 - Gave a contributed talk at [Group Actions, Geometry and Cohomology](https://sites.google.com/view/gagcmanchester/home) in bustling Manchester, UK
 - Attended [LMS Research School 2024 - Combinatorial Representation Theory and Diagrammatic Categorification](https://sites.google.com/view/york-lms-research-school-2024/home) in York, UK
