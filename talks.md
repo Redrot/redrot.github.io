@@ -7,7 +7,7 @@ subtitle: Things I've said
 
 ### Upcoming
 
-- Berkeley Representation Theory and Tensor Categories Seminar
+- University of Copenhagen Topology Seminar
 - University of Washington Algebra Seminar
 - 2024 AMS Spring Eastern Sectional 
 
