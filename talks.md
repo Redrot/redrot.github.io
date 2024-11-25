@@ -22,6 +22,8 @@ subtitle: Things I've said
 
 ### 2024
 
+- University of Copenhagen Topology Seminar (Remote)
+> Endotrivial complexes and the geometry of permutation modules, December 2024
 - University of California Berkeley Representation Theory and Tensor Categories Seminar
 > Endotrivial complexes and the geometry of permutation modules, November 2024
 - UC Santa Cruz Algebra and Number Theory Seminar
@@ -59,9 +61,9 @@ subtitle: Things I've said
 
 ### 2023
 
-- University of Bilkent Algebra Seminar
+- University of Bilkent Algebra Seminar (Remote)
 > Endotrivial complexes, December 2023 (due to the time difference, this talk spanned 2 separate days!)
-- University of Georgia Algebra Seminar
+- University of Georgia Algebra Seminar (Remote)
 > Endotrivial complexes, November 2023
 - UCSC Mathematics Graduate Student Seminar
 > Endotrivial complexes and the trivial source ring, October 2023
