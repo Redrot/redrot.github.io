@@ -5,13 +5,6 @@ subtitle: Things I've done
 
 ---
 
-- [Awards](#awd)
-- [Organization](#org)
-- [Reading Groups](#rg)
-- [Expository Writing & Notes](#writing)
-
----
-
 ## Awards {#awd}
 
 - [UC Santa Cruz Chancellor's Dissertation Year Fellowship](https://science.ucsc.edu/research-opportunities/dissertation-year-fellowships/) (entire 2024-2025 academic year)
@@ -22,9 +15,10 @@ subtitle: Things I've done
 
 ## Organization {#org}
 
-- UC Santa Cruz Graduate Student Colloquium Co-Chair
-  - Fall 2022 - May 2024
+- UC Santa Cruz Graduate Student Colloquium Co-Chair (Fall 2022 - May 2024)
   - [See the official graduate colloquium department page for more information.](https://docs.google.com/document/d/1ocl6D85ZRwcrCXrQQLfLlR74V2phgLIQgjpi61vT_-s/edit#heading=h.5kolow2jzywc)
+- UCSC Graduate Student Committee Electoral Board (Spring 2022 - Winter 2023)
+- UCSC Math Department Social Committee Organizer (Fall 2021 - Spring 2022)
 
 ---
 
