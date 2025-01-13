@@ -7,8 +7,6 @@ subtitle: Things I've said
 
 ### Upcoming
 
-- University of Copenhagen Topology Seminar
-- University of Washington Algebra Seminar
 - 2024 AMS Spring Eastern Sectional 
 
 ---
