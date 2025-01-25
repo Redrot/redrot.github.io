@@ -34,21 +34,21 @@ I am primarily interested in the modular representation theory of finite groups.
 - **8.** [**On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups**](https://arxiv.org/abs/2408.04094)
 > Submitted 
 - **7.** [**Galois descent of splendid Rickard equivalences between blocks of $p$-nilpotent groups**](https://arxiv.org/abs/2405.16061)
-> In press, Proc. Amer. Math. Soc.
+> To appear, Proc. Amer. Math. Soc.
 - **6.** [**The classification of endotrivial complexes**](https://arxiv.org/abs/2403.04088) 
 > Submitted 
 - **5.** [**Relatively endotrivial complexes**](https://arxiv.org/abs/2402.08042)
-> [In press, J. Pure Appl. Algebra](https://www.sciencedirect.com/science/article/pii/S0022404925000064)
+> [J. Pure Appl. Algebra, 229(2), (2025)](https://www.sciencedirect.com/science/article/pii/S0022404925000064)
 - **4.** [**Brauer pairs for splendid Rickard complexes**](https://arxiv.org/abs/2312.10258)
-> (with [Jadyn V. Breland](https://people.ucsc.edu/~jbreland/index.html))    
+> with [Jadyn V. Breland](https://people.ucsc.edu/~jbreland/index.html)  
 > Submitted
 - **3.** [**Endotrivial complexes**](https://arxiv.org/abs/2309.12138) 
 > [J. Algebra, 650, 173-218 (2024)](https://www.sciencedirect.com/science/article/pii/S0021869324001728).
 - **2.** [**A proof of the optimal leapfrogging conjecture**](https://arxiv.org/abs/2110.08319)
-> (with [Arthur T. Benjamin](https://www.arthurbenjamin.info/))    
-> [Forthcoming, Involve](https://msp.org/soon/coming.php?jpath=involve)
+> with [Arthur T. Benjamin](https://www.arthurbenjamin.info/) 
+> [Involve, 18(1), 105–122 (2025)](https://msp.org/involve/2025/18-1/index.xhtml)
 - **1.** [**Challenging knight's tours**](https://math.hmc.edu/benjamin/wp-content/uploads/sites/5/2019/06/Challenging-Knight%E2%80%99s-Tours.pdf)
-> (with [Arthur T. Benjamin](https://www.arthurbenjamin.info/))    
+> with [Arthur T. Benjamin](https://www.arthurbenjamin.info/) 
 > [Math Horizons, 25(3), 18-21 (2018)](https://www.tandfonline.com/doi/full/10.1080/10724117.2018.1424460)
 
 (Listed in chronological order)
