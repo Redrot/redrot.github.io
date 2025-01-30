@@ -78,7 +78,7 @@ Other random hobbies of mine include chess, origami, slacklining, longboarding, 
   - Francis Su (HMC): [The Mathematical Yawp](https://mathyawp.wordpress.com/) and [personal blog](https://www.francissu.com/blog).
   - Darryl Yong (HMC): [ProfTeacher](https://profteacher.com/)
   - Izabella Laba (UBC): [The Accidental Mathematician](https://ilaba.wordpress.com/)
-  - Terry Tao (UCLA): [What's new](https://terrytao.wordpress.com/)
+  - Terrance Tao (UCLA): [What's new](https://terrytao.wordpress.com/)
   - John C Baez (UCR): [Azimuth](https://johncarlosbaez.wordpress.com/)
   - Various: [The n-Category Cafe](https://golem.ph.utexas.edu/category/)
   - Frank Calegari (UChicago): [Persiflage](https://www.galoisrepresentations.com/)
@@ -89,9 +89,16 @@ Other random hobbies of mine include chess, origami, slacklining, longboarding, 
   - [Erdos Problems](https://www.erdosproblems.com/start)
 - Free Online Textbooks
   - [Emily Riehl, *Category Theory in Context*](https://emilyriehl.github.io/files/context.pdf)
-  - [Richard Stanley, *Enumerative Combinatorics, Part 1 (2nd Edition)*](http://www.ms.uky.edu/~sohum/putnam/enu_comb_stanley.pdf)
+  - [Peter Webb, *A Course in Finite Group Representation Theory*](https://www-users.cse.umn.edu/~webb/RepBook/RepBookLatex.pdf) - a *must read* for any aspiring group representation theorist in my opinion!
+  - [Tammo tom Dieck - *Representation Theory*](https://ncatlab.org/nlab/files/tomDieckRepresentationTheory.pdf) - I'm not sure of the status of this textbook, but it is certainly unpublished. Highlights many intersections of topology and representation theory.
 - Advice
   - [Igor Pak, How to write](https://www.math.ucla.edu/~pak/papers/how-to-write1.pdf)
+  - [Terrance Tao, Work hard (and many other linked advice articles)](https://terrytao.wordpress.com/career-advice/work-hard/)
+  - [Terrance Tao, There's more to mathematics than rigour and proofs](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)
+- Open-source journals
+  - [Annals of Representation Theory](https://art.centre-mersenne.org/)
+  - Forum of Math, [Pi](https://www.cambridge.org/core/journals/forum-of-mathematics-pi)/[Sigma](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma)
+  - [Journal de l'Ecole Polytechnique](https://jep.math.cnrs.fr/index.php/JEP/)
   
 More to be added eventually!
 
