@@ -3,7 +3,7 @@ title: Research
 subtitle: Things I've thought
 ---
 
-- [In Preparation](#inp)
+- [Current Projects](#inp)
 - [Publications and Preprints](#pub)
 - [Theses](#theses)
 
@@ -23,10 +23,10 @@ I am primarily interested in the modular representation theory of finite groups.
 
 ## Current Projects {#inp}
 
-- **The Euler characteristic of an endotrivial complex**  
+- **The Euler characteristic of an endotrivial complex** (in preparation)
 > (w/ [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza))
 > We further study the image of the group of endotrivial complexes, i.e. the Picard group of the bounded homotopy category of $p$-permutation modules, in the corresponding Grothendieck group, i.e. the trivial source ring. 
-- **Twistier cohomology/Borel-Smith conditions**
+- **Twistier cohomology** (in preparation) and **Permutation modules and Borel-Smith conditions**
 > (w/ Paul Balmer, Martin Gallauer)
 > We generalize the twisted cohomology ring constructed in Balmer, Gallauer, *The geometry of permutation modules* that uses the classification of endotrivial complexes. This gives a construction for which the "comparison map" is injective for any finite $p$-group. Some of these techniques hopefully generalize to abstract settings under certain compatibility conditions.     
 > We also look for ways the Borel-Smith conditions manifest themselves in the ttg of permutation modules by computing Picard groups of localizations. 
