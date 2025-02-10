@@ -21,7 +21,7 @@ I love music. It's always played an indispensable role in my life, and I almost 
 
 ## Outdoors {#outdoors}
 
-I love canoeing, backpacking, snowboarding,  and climbing, and I even spent a few summers leading canoeing trips in the BWCA in Minnesota during my undergraduate years. The wilderness holds a special place in my heart. Some of my most formative experiences as an adolescent were long canoeing trips, and whenever I return to nature for a visit, I find an emotional peace and tranquility that I don't think exists elsewhere in the modern world. It is a place that encourages us to learn about ourselves. It is my hope that future generations will have these same experiences. However, this may not happen unless humans relearn to care for and respect the lands they borrow. I encourage everyone at a minimum to learn the principles and ethics of [leave no trace](https://www.nps.gov/articles/leave-no-trace-seven-principles.htm). 
+I love canoeing, backpacking, snowboarding,  and climbing, and I even spent a few summers leading canoeing trips in the BWCA in Minnesota during my undergraduate years. The wilderness holds a special place in my heart. Some of my most formative experiences as an adolescent were long canoeing trips, and whenever I return to nature for a visit, I find an emotional peace and tranquility that I don't think exists elsewhere in the modern world. The wild encourages us to be alone with ourselves, to dig deep within and discover parts of us we'd never known. It is my hope that future generations will have these same experiences. However, this may not happen unless humans relearn to care for and respect the lands they borrow.
 
 Pictures! 
 
