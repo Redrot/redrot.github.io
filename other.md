@@ -5,7 +5,8 @@ subtitle: Things I like
 
 - [Music](#music)
 - [Outdoors](#outdoors)
-- [Random Math Links](#links)
+- [Other things](#other)
+- [Random math links](#links)
 
 ---
 
@@ -14,22 +15,15 @@ subtitle: Things I like
 I love music. It's always played an indispensable role in my life, and I almost even decided to pursue music in college instead of math (it would have gone terribly)! Along with listening to it whenever I can, I play guitar, tenor saxophone, EWI (electronic wind instrument), and DJ. 
 - You can see what I'm listing to on my [last.fm account.](https://www.last.fm/user/Redrot) I also [use Bandcamp to dig](https://bandcamp.com/redrot) - it's a great platform for making sure your money goes more directly to the artist.
 - You can hear my DJ mixes on my [Soundcloud account.](https://soundcloud.com/sammymmm) I mix trance, techno, and occasionally ambient.
-- You can [watch me solo](https://www.youtube.com/shorts/gTOsRkQB-nY) while performing with my band Partial Disorder! (yes, it's a math joke) 
+- You can [watch me play](https://www.youtube.com/shorts/gTOsRkQB-nY) with my band Partial Disorder! (yes, it's a math reference) 
   
 ---
 
 ## Outdoors {#outdoors}
 
-I love canoeing, backpacking, snowboarding,  and climbing, and I even spent a few summers leading canoeing trips in the BWCA in Minnesota during my undergraduate years. The wilderness holds a special place in my heart. Some of my most formative experiences as an adolescent were long canoeing trips, and whenever I return to nature for a visit, I find an emotional peace and tranquility that I don't think exists elsewhere in the modern world. It is a place that encourages us to learn about ourselves. 
+I love canoeing, backpacking, snowboarding,  and climbing, and I even spent a few summers leading canoeing trips in the BWCA in Minnesota during my undergraduate years. The wilderness holds a special place in my heart. Some of my most formative experiences as an adolescent were long canoeing trips, and whenever I return to nature for a visit, I find an emotional peace and tranquility that I don't think exists elsewhere in the modern world. It is a place that encourages us to learn about ourselves. It is my hope that future generations will have these same experiences. However, this may not happen unless humans relearn to care for and respect the lands they borrow. I encourage everyone at a minimum to learn the principles and ethics of [leave no trace](https://www.nps.gov/articles/leave-no-trace-seven-principles.htm). 
 
-It is my hope that future generations will have these same experiences. However, this may not happen unless humans relearn to care for and respect the lands they borrow. I encourage everyone to learn the principles and ethics of [leave no trace](https://www.nps.gov/articles/leave-no-trace-seven-principles.htm). If you wish to donate to a sustainability or conservancy nonprofit, here are a few I like: 
-
-- [The Nature Conservancy](https://www.nature.org/en-us/)
-- [The Access Fund](https://www.accessfund.org/)
-- [Friends of the BWCA](https://www.friends-bwca.org/)
-- [The Honnold Foundation](https://www.honnoldfoundation.org/)
-
-Meanwhile, enjoy some pictures! 
+Pictures! 
 
 - Paddling
   - [A sunrise in the arctic circle](https://redrot.github.io/assets/img/arctic1.jpg)
@@ -46,11 +40,15 @@ Meanwhile, enjoy some pictures!
   
 ---
 
-Other random hobbies of mine include chess, origami, slacklining, longboarding, [freeskating](https://www.jmkride.com/), reading, (weighted) calisthenics, drawing, backgammon, ultimate, puzzling, and penguins.  
+## Other things 
+
+I am an avid reader of [The Sun Magazine](https://www.thesunmagazine.org/) (no, not the tabloid) and [Hi Fructose](https://hifructose.com/) (no, not the corn syrup). 
+
+Other random hobbies include chess, origami, slacklining, longboarding, [freeskating](https://www.jmkride.com/), reading, calisthenics, drawing, backgammon, puzzles, and penguins.  
 
 ---
 
-## Random Math Links {#links}
+## Random math links {#links}
 
 - Useful Math-Specific Sites
   - [nLab](https://ncatlab.org/nlab/show/HomePage)
