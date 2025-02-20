@@ -8,8 +8,9 @@ subtitle: Where have I been to do math?
 ### 2025
 
 - More to come...? Probably!
+- Attending [Algebraic Groups at the Grand Canal](https://sites.google.com/view/aggc) in Venice, Italy
 - Giving a special session talk at [AMS 2025 Spring Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2320_program.html) in Hartford, CT
-- Attending the [Joint Mathematics Meetings](https://jointmathematicsmeetings.org/jmm) and giving a seminar talk at the [University of Washington](https://math.washington.edu/) in lush Seattle, WA
+- Attended the [Joint Mathematics Meetings](https://jointmathematicsmeetings.org/jmm) and gave a seminar talk at the [University of Washington](https://math.washington.edu/) in lush Seattle, WA
 
 
 ### 2024
