@@ -18,8 +18,8 @@ So I wanted to reflect on some of the experiences I've been fortunate to have wh
 - Travelled around the world to do math! I've been to Mexico, Argentina, England (like 4 times now), Italy, and Germany, along with plenty of spots within the U.S. Summer 2024, I even spent 2 months in Europe gallivanting around, going to conferences, doing short visits, and generally just taking in the liberating experience of being somewhere else, with different culture and history. I'm deeply grateful for the travel budget at UC Santa Cruz! 
 - Formed an abnormal/aberrant movie club with friends. Two recent highlights for me were Mind Game and Night is Short, Walk on Girl both directed by Masaaki Yuasa. Some other great ones were Hundreds of Beavers and Julie Taymor's adaptation of Titus Andronicus.
 - Did plenty of backpacking trips in the Sierras (and one in the Bighorns in Wyoming), and even did my first multi-night solo trip in Yosemite, a [4 night, 80 mile jaunt](https://www.alltrails.com/explore/map/map-august-14-2024-65b1e92).
-- Ate a lot of burritos (I still like L.A. style a bit more).
+- Ate a lot of burritos. I still prefer L.A. style a bit more, but I've probably been to [Taqueria Los Pericos](https://taquerialospericos.com/) more times than [Servandos Taco Shop](https://www.instagram.com/servandostacoshop/) at this point.
 - Somehow managed to live in Santa Cruz for over 5 years without ever trying surfing (yet).
 
-I wanted to get down some of these random happenings somewhere, and I figured they're worth sharing publically (for anyone who cares). I had a magnificent time in Santa Cruz, and couldn't think of a better place to spend my time as a graduate student. But I'm also looking quite forward living somewhere novel and for what's to come. 
+I wanted to get down some of these random happenings somewhere, and I figured they're worth sharing publicly (for anyone who cares). I had a magnificent time in Santa Cruz, and couldn't think of a better place to spend my time as a graduate student. But I'm also looking quite forward to living somewhere very novel and different from what I've grown accustomed to and for everything that's to come! 
 - sam
