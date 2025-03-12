@@ -43,7 +43,7 @@ I am primarily interested in the modular representation theory of finite groups.
 - **8.** [**On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups**](https://arxiv.org/abs/2408.04094)
 > Submitted 
 - **7.** [**Galois descent of splendid Rickard equivalences between blocks of $p$-nilpotent groups**](https://arxiv.org/abs/2405.16061)
-> To appear, Proc. Amer. Math. Soc.
+> To appear, [Proc. Amer. Math. Soc.](https://doi.org/10.1090/proc/17230)
 - **6.** [**The classification of endotrivial complexes**](https://arxiv.org/abs/2403.04088) 
 > Submitted 
 - **5.** [**Relatively endotrivial complexes**](https://arxiv.org/abs/2402.08042)
