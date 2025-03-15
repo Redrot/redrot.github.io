@@ -8,6 +8,7 @@ subtitle: Where have I been to do math?
 ### 2025
 
 - More to come...? Probably!
+- (Hopefully) attending [Tensor Triangular Geometry and Interactions Oberwolfach Seminar](https://www.mfo.de/occasion/2543a/www_view) in Oberwolfach, Germany
 - Giving a special session talk at [AMS 2025 Fall Western Sectional Meeting](https://www.ams.org/meetings/sectional/2326_program.html) in Denver, CO
 - (Possibly) attending [7th Canada-Mexico-US Meeting on Representation Theory, Noncommutative Algebra, and Categorification](https://sites.google.com/view/7cmu-conference/) in Los Angeles, CA
 - Attending [Categorification and Symplectic Duality](https://sites.google.com/view/casl2025-categorification/) in Boston, MA
