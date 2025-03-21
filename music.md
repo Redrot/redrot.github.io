@@ -9,7 +9,7 @@ If you want to see my semi-complete listening history, you can see it on **[last
 
 ---
 
-## 2025 {#2025}
+## 2025
 
 - [Brendon Moeller - Blue Moon](https://brendonmoellerechologistbeatpharmacy.bandcamp.com/album/blue-moon) (Downtempo). Lovely 90's aesthetic downtempo EP from a producer who has shifted his sound from fairly simplistic lo-fi house to more diverse soundscapes.
 - [Stove - Is A Toad In The Rain](https://explodinginsoundrecords.bandcamp.com/album/is-a-toad-in-the-rain) (Indie Rock). I really like the loose, almost mopey feel Stove has.
@@ -49,4 +49,5 @@ If you want to see my semi-complete listening history, you can see it on **[last
 - [Porter Ricks - Biokinetics](https://forceincmilleplateaux.bandcamp.com/album/biokinetics) (Dub Techno). Honestly it's mostly the first track that I love but what a track it is. Amazing how a loop that goes on for 12 minutes can have so much depth and detail.
 - [Culprate - Deliverance](https://culprate.bandcamp.com/album/deliverance) (Trip Hop). Very playful and psychedelic.
 - [Kikagaku Moyo - House In The Tall Grass](https://kikagakumoyoggb.bandcamp.com/album/house-in-the-tall-grass) (Psychedelic Rock). Speaking of playful, this album makes me want to get up and not really dance but at least clap my hands in a funny way.
-- [Dream Theater - Octavarium](https://dreamtheater.net/discography/octavarium/) (Progressive Metal). When I was little I was very into metal, and while most of that has faded away in time (as I've become generally a much less angry, bitter person), a few albums that paint a more complex picture as far as metal go stick with me. The ending opus is a full life's journey in 20 minutes. 
+- [Dream Theater - Octavarium](https://dreamtheater.net/discography/octavarium/) (Progressive Metal). When I was little I was very into metal, and while most of that has faded away in time (as I've become generally a much less angry, bitter person), a few albums that paint a more complex picture as far as metal go stick with me. The ending opus is a full life's journey in 20 minutes.
+- [Evenings - Yore](https://evenings.bandcamp.com/album/yore-2) (Lo-fi). Very nostalgic album for a childhood I didn't have. 
