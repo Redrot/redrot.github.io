@@ -1,6 +1,6 @@
 ---
 title: Travel and Conferences
-subtitle: Where have I been to do math? 
+subtitle: Places I've gone
 ---
 
 
