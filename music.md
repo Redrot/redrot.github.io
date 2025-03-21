@@ -1,6 +1,6 @@
 ---
 title: Music
-subtitle: Things I'm Listening To
+subtitle: Things I've listened to
 ---
 
 This is perhaps an unusual thing to have on an academic website, but music is about as important to me as math, so I figured it deserves its own section. I was inspired by s8jfou's website and figured I'd start sharing bits of music I've been enjoying with links to listen or buy. Links will be to **[Bandcamp](https://www.bandcamp.com)** when possible. 
