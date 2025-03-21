@@ -30,7 +30,7 @@ If you want to see my semi-complete listening history, you can see it on my **[l
 - [Susumu Yokota - The Boy And The Heron](https://susumuyokota.bandcamp.com/album/the-boy-and-the-tree) (Ambient/Psychedelic). Susumu Yokota is in his own right a legend, and it's hard to pick a favorite album since they span so many spheres, but this is in my opinion his boldest, with a clear, expansive vision.
 - [Animal Collective - Sung Tongs](https://anmlcollectve.bandcamp.com/album/sung-tongs) (Freak folk/Psychdelic). Not a fan of recent Animal Collective output but this one is memorable and properly messes with you, playful and warped.
 - [BT - This Binary Universe](https://songsofbt.bandcamp.com/album/this-binary-universe-remastered) (Ambient/Downtempo). Has a special place in my heart.
-- [John Coltrane - A Love Supreme](https://www.discogs.com/master/32287-John-Coltrane-A-Love-Supreme) (Freeish Jazz). Legendary.
+- [John Coltrane - A Love Supreme](https://www.discogs.com/master/32287-John-Coltrane-A-Love-Supreme) (Spiritual Jazz). Legendary.
 - [Alice Coltrane ft. Pharoah Sanders - Journey In Satchidananda](https://www.discogs.com/master/59538-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) (Spiritual Jazz). Freeing.
 - [Matt Lange pres. Altered Tensions - The Answer To The Question You Forgot To Ask](https://www.discogs.com/release/1732748-Altered-Tensions-The-Answer-To-The-Question-You-Forgot-To-Ask) (Glitch). Colorful headtrip, don't know where the Bandcamp page went for this one.
 - [Efdemin - New Atlantis](https://ostgut.bandcamp.com/album/new-atlantis) (Techno). A beautiful poem to open and close, and a dark, subnautical, silly journey.
