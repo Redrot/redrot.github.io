@@ -11,6 +11,8 @@ If you want to see my semi-complete listening history, you can see it on my **[l
 
 ## 2025
 
+- [The Weather Station - How Is It That I Should Look At The Stars](https://theweatherstation.bandcamp.com/album/how-is-it-that-i-should-look-at-the-stars) (Folk). Thanks dad for this one! 
+- [Fennesz and Ryuichi Sakamoto - Cendre](https://fenneszreleases.bandcamp.com/album/cendre) (Ambient/Classical). Incredible, moving collaboration between a legend of contemporary music (RIP) and someone who admittedly, I don't know too well, but perhaps should. The duo have two collaboration albums, one of which spawned during a tour they did together. 
 - [Brendon Moeller - Blue Moon](https://brendonmoellerechologistbeatpharmacy.bandcamp.com/album/blue-moon) (Downtempo). Lovely 90's aesthetic downtempo EP from a producer who has shifted his sound from fairly simplistic lo-fi house to more diverse soundscapes.
 - [Stove - Is A Toad In The Rain](https://explodinginsoundrecords.bandcamp.com/album/is-a-toad-in-the-rain) (Indie Rock). I really like the loose, almost mopey feel Stove has.
 - [Ovlov - Buds](https://ovlov.bandcamp.com/album/buds-2) (Indie Rock). Nice drive, mix of styles, and ripping sax solo! 
