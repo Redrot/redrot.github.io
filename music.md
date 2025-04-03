@@ -5,7 +5,9 @@ subtitle: Things I've listened to
 
 This is perhaps an unusual thing to have on an academic website, but music is about as important to me as math, so I figured it deserves its own section. I was inspired by s8jfou's website and figured I'd start sharing bits of music I've been enjoying with links to listen or buy. Links will be to **[Bandcamp](https://www.bandcamp.com)** when possible. 
 
-If you want to see my semi-complete listening history, you can see it on my **[last.fm account](https://www.last.fm/user/Redrot)**. It is not quite complete, since I use a variety of platforms to listen to music, but it should contain most scrobs from my desktop and Spotify account. I have also DJed since 2014, playing primarily trance with some techno and ambient, you can hear those mixes on **[Soundcloud](https://soundcloud.com/sammymmm)**.
+If you want to see my semi-complete listening history, you can see it on my **[last.fm account](https://www.last.fm/user/Redrot)**. It is not robust, since I use a variety of platforms to listen to music, but it should contain most scrobs from my desktop and Spotify account. I have also DJed since 2014, playing primarily trance with some techno and ambient, you can hear those mixes on **[Soundcloud](https://soundcloud.com/sammymmm)**. 
+
+Finally, here is a clip of me playing with my rock group [Partial Disorder](https://www.youtube.com/shorts/gTOsRkQB-nY)! 
 
 ---
 
@@ -24,6 +26,7 @@ If you want to see my semi-complete listening history, you can see it on my **[l
 - [Floating Points - Elaenia](https://floatingpoints.bandcamp.com/album/elaenia) (IDM/Ambient/Jazz). A jazzy ambient, techno-inspired odyssey.
 - [18 Carat Affair - Vintage Romance](https://18carataffair.bandcamp.com/album/vintage-romance) (Vaporwave). Nothing quite conveys a feeling of disillusionment and hopelessness like well-executed vaporwave.
 - [Nils Frahm - Felt](https://nilsfrahm.bandcamp.com/album/felt) (Contemporary Classical). Very difficult to pick a favorite Nils Frahm album but this is the first one I heard, and maybe his most emotional and textural.
+- [Telefon Tel Aviv - Fahrenheit Fair Enough](https://telefon-tel-aviv.bandcamp.com/album/fahrenheit-fair-enough) (IDM). The perfect bleeps and bloops album for a refreshing Saturday morning.  
 - [The Breathing Effect - Mars Is A Very Bad Place For Love](https://thebreathingeffect.bandcamp.com/album/mars-is-a-very-bad-place-for-love) (Jazz Fusion/Psychedelic Rock). It is!
 - [KOAN Sound - Polychrome](https://koansound.bandcamp.com/album/polychrome) (Trip Hop). Funky and introspective trip-hop with some tasty sound design packed up in a lovely journey.
 - [Leon Vynehall - Nothing Is Still](https://leonvynehall.bandcamp.com/album/nothing-is-still) (Contemporary). A meditation on immigration from a predominantly house DJ.
