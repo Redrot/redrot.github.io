@@ -7,14 +7,19 @@ subtitle: Things I've said
 
 ### Upcoming
 
-- 2024 AMS Spring Eastern Sectional 
+- [New Directions in Group Theory and Triangulated Categories Seminar](https://sites.google.com/view/ndgttc/home)
+- 2025 AMS Fall Western Sectional
 
 ---
 
 ### 2025
 
-- 2024 AMS Spring Northeastern Sectional, Special Session on Group Theory and Representation Theory
-> (tbd), April 2025
+- 2025 AMS Fall Western Sectional, Special Session on Representations of Finite and Algebraic Groups
+> (tbd), August 2025
+- [New Directions in Group Theory and Triangulated Categories Seminar](https://sites.google.com/view/ndgttc/home)
+> (tbd), May 2025
+- 2025 AMS Spring Northeastern Sectional, Special Session on Group Theory and Representation Theory
+> On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups, April 2025
 - University of Washington Algebra Seminar
 > The geometry of permutation modules and endotrivial complexes, January 2025
 
