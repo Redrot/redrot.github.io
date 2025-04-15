@@ -46,7 +46,7 @@ I am an avid reader of [The Sun Magazine](https://www.thesunmagazine.org/) (no, 
 
 Other random hobbies include chess, origami, slacklining, longboarding, [freeskating](https://www.jmkride.com/), reading, calisthenics, drawing, backgammon, puzzles, and penguins.  
 
-My mom is a contemporary artist. [Here is a webpage with some of her works.](https://www.jinsookim.info)
+My mom is a contemporary artist. [Here is a webpage with some of her works.](https://jinsookim.info/section/38167.html)
 
 ---
 
