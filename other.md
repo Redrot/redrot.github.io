@@ -55,6 +55,8 @@ My mom is a contemporary artist. [Here is a webpage with some of her works.](htt
 
 [Here are some materials from my past applications which have been successful, I hope they're helpful!](https://drive.google.com/drive/folders/1hrjnRKYv59_uU2_T_pl0GmIA86vQdcAS?usp=sharing)
 
+---
+
 ## Random math links {#links}
 
 - Useful Math-Specific Sites
