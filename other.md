@@ -5,7 +5,8 @@ subtitle: Things I like
 
 - [Music](#music)
 - [Outdoors](#outdoors)
-- [Other things](#other)
+- [Other interests](#other)
+- [Application materials](#apps)
 - [Random math links](#links)
 
 ---
@@ -40,7 +41,7 @@ Pictures!
   
 ---
 
-## Other things 
+## Other interests 
 
 I am an avid reader of [The Sun Magazine](https://www.thesunmagazine.org/) (no, not the tabloid) and [Hi Fructose](https://hifructose.com/) (no, not the corn syrup). 
 
@@ -49,6 +50,10 @@ Other random hobbies include chess, origami, slacklining, longboarding, [freeska
 My mom is a contemporary artist. [Here is a webpage with some of her works.](https://jinsookim.info/section/38167.html)
 
 ---
+
+## Application materials {#apps}
+
+[Here are some materials from my past applications which have been successful, I hope they're helpful!](https://drive.google.com/drive/folders/1hrjnRKYv59_uU2_T_pl0GmIA86vQdcAS?usp=sharing)
 
 ## Random math links {#links}
 
