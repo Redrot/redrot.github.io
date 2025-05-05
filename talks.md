@@ -17,7 +17,7 @@ subtitle: Things I've said
 - 2025 AMS Fall Western Sectional, Special Session on Representations of Finite and Algebraic Groups
 > (tbd), August 2025
 - [New Directions in Group Theory and Triangulated Categories Seminar](https://sites.google.com/view/ndgttc/home)
-> On the tensor product property and the complete prime spectrum in noncommutative tensor-triangular geometry, May 2025
+> On the tensor product property and the complete prime spectrum in noncommutative tensor-triangular geometry, May 2025    
 > [YouTube recording](https://www.youtube.com/watch?v=qG6VhDgTToM)
 - 2025 AMS Spring Northeastern Sectional, Special Session on Group Theory and Representation Theory
 > On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups, April 2025
