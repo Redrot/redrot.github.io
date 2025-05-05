@@ -8,10 +8,11 @@ subtitle: Places I've gone
 ### 2025
 
 - More to come...? Probably!
+- (Possibly) attending [Interactions Between Representation Theory and Homotopy Theory](https://www.math.ku.dk/english/calendar/events/interactions-homotopy-representation-theory/) in Copenhagen, DK
 - (Hopefully) attending [Tensor Triangular Geometry and Interactions Oberwolfach Seminar](https://www.mfo.de/occasion/2543a/www_view) in Oberwolfach, Germany
 - Giving a special session talk at [AMS 2025 Fall Western Sectional Meeting](https://www.ams.org/meetings/sectional/2326_program.html) in Denver, CO
 - (Possibly) attending [7th Canada-Mexico-US Meeting on Representation Theory, Noncommutative Algebra, and Categorification](https://sites.google.com/view/7cmu-conference/) in Los Angeles, CA
-- Attending [Categorification and Symplectic Duality](https://sites.google.com/view/casl2025-categorification/) in Boston, MA
+- (Possibly) Attending [Categorification and Symplectic Duality](https://sites.google.com/view/casl2025-categorification/) in Boston, MA
 - Attending [Algebraic Groups at the Grand Canal](https://sites.google.com/view/aggc) in Venice, Italy
 - Giving a special session talk at [AMS 2025 Spring Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2320_program.html) in Hartford, CT
 - Attended the [Joint Mathematics Meetings](https://jointmathematicsmeetings.org/jmm) and gave a seminar talk at the [University of Washington](https://math.washington.edu/) in lush Seattle, WA
