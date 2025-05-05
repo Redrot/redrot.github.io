@@ -7,7 +7,6 @@ subtitle: Things I've said
 
 ### Upcoming
 
-- [New Directions in Group Theory and Triangulated Categories Seminar](https://sites.google.com/view/ndgttc/home)
 - 2025 AMS Fall Western Sectional
 
 ---
