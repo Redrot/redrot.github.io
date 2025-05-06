@@ -39,7 +39,7 @@ I am primarily interested in the modular representation theory of finite groups.
 - **8.** [**On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups**](https://arxiv.org/abs/2408.04094)
 > Under revision 
 - **7.** [**Galois descent of splendid Rickard equivalences between blocks of $p$-nilpotent groups**](https://arxiv.org/abs/2405.16061)
-> To appear, [Proc. Amer. Math. Soc.](https://doi.org/10.1090/proc/17230)
+> [Proc. Amer. Math. Soc. 153 (5), 1893-1902 (2025)](https://doi.org/10.1090/proc/17230)
 - **6.** [**The classification of endotrivial complexes**](https://arxiv.org/abs/2403.04088) 
 > Submitted
 - **5.** [**Relatively endotrivial complexes**](https://arxiv.org/abs/2402.08042)
@@ -51,10 +51,10 @@ I am primarily interested in the modular representation theory of finite groups.
 > [J. Algebra, 650, 173-218 (2024)](https://www.sciencedirect.com/science/article/pii/S0021869324001728)
 - **2.** [**A proof of the optimal leapfrogging conjecture**](https://arxiv.org/abs/2110.08319)
 > w/ [Arthur T. Benjamin](https://www.arthurbenjamin.info/)    
-> [Involve, 18(1), 105–122 (2025)](https://msp.org/involve/2025/18-1/index.xhtml)
+> [Involve, 18 (1), 105–122 (2025)](https://msp.org/involve/2025/18-1/index.xhtml)
 - **1.** [**Challenging knight's tours**](https://math.hmc.edu/benjamin/wp-content/uploads/sites/5/2019/06/Challenging-Knight%E2%80%99s-Tours.pdf)
 > w/ [Arthur T. Benjamin](https://www.arthurbenjamin.info/)    
-> [Math Horizons, 25(3), 18-21 (2018)](https://www.tandfonline.com/doi/full/10.1080/10724117.2018.1424460)
+> [Math Horizons, 25 (3), 18-21 (2018)](https://www.tandfonline.com/doi/full/10.1080/10724117.2018.1424460)
 
 (Listed in chronological order)
 
