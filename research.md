@@ -23,21 +23,13 @@ I am primarily interested in the modular representation theory of finite groups.
 
 ---
 
-## Current projects {#inp}
+## In preparation {#inp}
 
 - **The Euler characteristic of an endotrivial complex** (in preparation)
 > (w/ [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza))     
 > We further study the image of the group of endotrivial complexes, i.e. the Picard group of the bounded homotopy category of $p$-permutation modules, in the corresponding Grothendieck group, i.e. the trivial source ring. 
-- **Twistier cohomology** (in preparation) and **Permutation modules and Borel-Smith conditions**
-> We generalize the twisted cohomology ring constructed in Balmer, Gallauer, *The geometry of permutation modules* that uses the classification of endotrivial complexes. This gives a construction for which the "comparison map" is injective for any finite $p$-group. Some of these techniques hopefully generalize to abstract settings under certain compatibility conditions.     
-> We also look for ways the Borel-Smith conditions manifest themselves in the ttg of permutation modules by computing Picard groups of localizations. 
-- **The noncommutative tensor-triangular geometry of a block algebra**
-> We determine aspects of the noncommutative ttg of categories of (permutation) block bimodules, following Nakano, Vashaw, Yakimov. These computations could have immediate implications for the abelian defect group conjecture since a splendid Rickard equivalence induces a monoidal triangulated equivalence between the corresponding bimodule categories.
-- **A Rickard theorem for splendid Rickard equivalences**
-> We (attempt to) show that an equivalence of bounded homotopy categories of $p$-permutation (bi)modules implies the existence of a splendid Rickard equivalence, a $p$-permutation analogue of Rickard's theorem. 
-- **The classification of endotrivial complexes over arbitrary noetherian rings**
-> (w/ Juan Omar Gomez)    
-> We determine the Picard group of $K^b(p-\text{perm}(kG))$ over arbitrary noetherian rings $k$ (in particular, $\mathbb{Z}$ ) using recent work of Gomez. Grodal and Krause have considered the analogous question for endotrivial modules. 
+- **Twistier cohomology** (in preparation) 
+> We generalize the twisted cohomology ring constructed in Balmer, Gallauer, *The geometry of permutation modules* that uses the classification of endotrivial complexes. This gives a construction for which the "comparison map" is an embedding for any finite $p$-group. Some of these techniques hopefully generalize to abstract settings under certain compatibility conditions.     
 
 ---
 
