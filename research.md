@@ -14,11 +14,11 @@ I am primarily interested in the modular representation theory of finite groups.
 **Current focuses**
 
 - Noncommutative tensor-triangular geometry
-- Intersections of modular representation theory and tensor-triangulated geometry
-- Invertible objects such as endotrivial complexes
-- Permutation modules and oligomorphic groups
-- Galois descent in representation theory
-- Broue's abelian defect group conjecture and local-to-global representation theory of finite groups
+- Intersections of representation theory and tensor-triangulated geometry
+- Endotrivial complexes and invertible objects
+- Permutation modules
+- Galois descent in modular representation theory
+- Broue's abelian defect group conjecture and local-global representation theory of finite groups
 - Biset functors and applications
 
 ---
