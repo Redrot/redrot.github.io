@@ -53,7 +53,7 @@ My mom is a contemporary artist. [Here is a webpage with some of her works.](htt
 
 ## Application materials {#apps}
 
-[Here are some materials from my past applications which have been successful, I hope they're helpful!](https://drive.google.com/drive/folders/1hrjnRKYv59_uU2_T_pl0GmIA86vQdcAS?usp=sharing)
+[Here are some materials from past applications.](https://drive.google.com/drive/folders/1hrjnRKYv59_uU2_T_pl0GmIA86vQdcAS?usp=sharing) Feel free to use them as a reference!
 
 ---
 
