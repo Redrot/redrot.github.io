@@ -13,6 +13,11 @@ Finally, here is a clip of me playing with my rock group [Partial Disorder](http
 
 ## 2025
 
+- [Skrillex - F*** U Skrillex You Think Ur Andy Warhol but Ur Not!!](https://en.wikipedia.org/wiki/Fuck_U_Skrillex_You_Think_Ur_Andy_Warhol_but_Ur_Not!!) (American brostep). lol
+- [Stillhead - A Real Piece of Work](https://brightestdarkplace.bandcamp.com/album/a-real-piece-of-work?action=buy) (IDM). Very memorable album, Djrum-esque.
+- [Djrum - Under Tangled Silence](https://djrum.bandcamp.com/album/under-tangled-silence) (IDM). A master returns (bonus - I saw him play live b2b Skee Mask at Parameter, jaw dropping!)
+- [SW. - The Album](https://apollorecords.bandcamp.com/album/the-album) (Dub Techno). A lush classic encompassing a number of moods. 
+- [Elephant Gym - Work](https://elephant-gym.bandcamp.com/album/work) (Math Rock). Fun, carefree math rock! 
 - [The Weather Station - How Is It That I Should Look At The Stars](https://theweatherstation.bandcamp.com/album/how-is-it-that-i-should-look-at-the-stars) (Folk). Thanks dad for this one! 
 - [Fennesz and Ryuichi Sakamoto - Cendre](https://fenneszreleases.bandcamp.com/album/cendre) (Ambient/Classical). Incredible, moving collaboration between a legend of contemporary music (RIP) and someone who admittedly, I don't know too well, but perhaps should. The duo have two collaboration albums, one of which spawned during a tour they did together. 
 - [Brendon Moeller - Blue Moon](https://brendonmoellerechologistbeatpharmacy.bandcamp.com/album/blue-moon) (Downtempo). Lovely 90's aesthetic downtempo EP from a diverse producer.
