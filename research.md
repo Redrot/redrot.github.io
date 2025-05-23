@@ -34,6 +34,7 @@ subtitle: Things I've thought
 ## Publications and preprints {#pub}
 
 - **9.** [**On functoriality and the tensor product property in noncommutative tensor-triangular geometry**](https://arxiv.org/abs/2505.01899)
+> Submitted
 - **8.** [**On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups**](https://arxiv.org/abs/2408.04094)
 > Under revision 
 - **7.** [**Galois descent of splendid Rickard equivalences between blocks of $p$-nilpotent groups**](https://arxiv.org/abs/2405.16061)
