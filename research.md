@@ -42,7 +42,7 @@ subtitle: Things I've thought
 - **6.** [**The classification of endotrivial complexes**](https://arxiv.org/abs/2403.04088) 
 > Submitted
 - **5.** [**Relatively endotrivial complexes**](https://arxiv.org/abs/2402.08042)
-> [J. Pure Appl. Algebra, 229(2), (2025)](https://www.sciencedirect.com/science/article/pii/S0022404925000064)
+> [J. Pure Appl. Algebra, 229 (2), (2025)](https://www.sciencedirect.com/science/article/pii/S0022404925000064)
 - **4.** [**Brauer pairs for splendid Rickard complexes**](https://arxiv.org/abs/2312.10258)
 > w/ [Jadyn V. Breland](https://people.ucsc.edu/~jbreland/index.html)   
 > Submitted
