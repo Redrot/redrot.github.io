@@ -11,9 +11,9 @@ subtitle: Things I've thought
 
 **Current focuses**
 
-- Noncommutative tensor-triangular geometry
+- (Noncommutative) tensor-triangular geometry
 - Intersections of representation theory and tensor-triangulated geometry
-- Endotrivial complexes and invertible objects
+- Endotrivial complexes and Picard groups
 - Permutation modules
 - Galois descent in modular representation theory
 - Broue's abelian defect group conjecture and local-global representation theory of finite groups
