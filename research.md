@@ -36,7 +36,7 @@ subtitle: Things I've thought
 - **9.** [**On functoriality and the tensor product property in noncommutative tensor-triangular geometry**](https://arxiv.org/abs/2505.01899)
 > Submitted
 - **8.** [**On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups**](https://arxiv.org/abs/2408.04094)
-> Under revision. The proof of the final theorem has a nontrivial hole: Lemma 5.14 is false.  
+> Submitted
 - **7.** [**Galois descent of splendid Rickard equivalences between blocks of $p$-nilpotent groups**](https://arxiv.org/abs/2405.16061)
 > [Proc. Amer. Math. Soc. 153 (5), 1893-1902 (2025)](https://doi.org/10.1090/proc/17230)
 - **6.** [**The classification of endotrivial complexes**](https://arxiv.org/abs/2403.04088) 
