@@ -8,6 +8,7 @@ subtitle: Places I've gone
 ### 2025
 
 - More to come...? Probably!
+- Attending [Spectrums in Representation Theory of Algebras and Related Topics](https://pabloocal.github.io/SRTART2025/) in Osaka, Japan
 - (Possibly) attending [Interactions Between Representation Theory and Homotopy Theory](https://www.math.ku.dk/english/calendar/events/interactions-homotopy-representation-theory/) in Copenhagen, Denmark
 - (Hopefully) attending [Tensor Triangular Geometry and Interactions Oberwolfach Seminar](https://www.mfo.de/occasion/2543a/www_view) in Oberwolfach, Germany
 - Giving a special session talk at [AMS 2025 Fall Western Sectional Meeting](https://www.ams.org/meetings/sectional/2326_program.html) in Denver, CO
