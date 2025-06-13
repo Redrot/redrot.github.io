@@ -11,6 +11,7 @@ subtitle: Places I've gone
 - Attending [Spectrums in Representation Theory of Algebras and Related Topics](https://pabloocal.github.io/SRTART2025/) in Osaka, Japan
 - (Possibly) attending [Interactions Between Representation Theory and Homotopy Theory](https://www.math.ku.dk/english/calendar/events/interactions-homotopy-representation-theory/) in Copenhagen, Denmark
 - (Hopefully) attending [Tensor Triangular Geometry and Interactions Oberwolfach Seminar](https://www.mfo.de/occasion/2543a/www_view) in Oberwolfach, Germany
+- Attending [Conference on Homological Commutative Algebra and Related Topics](https://sites.google.com/georgiasouthern.edu/commutative-algebra-2025/home?authuser=0) in Savannah, GA
 - Giving a special session talk at [AMS 2025 Fall Western Sectional Meeting](https://www.ams.org/meetings/sectional/2326_program.html) in Denver, CO
 - Attending [Algebraic Groups at the Grand Canal](https://sites.google.com/view/aggc) in Venice, Italy
 - Giving a special session talk at [AMS 2025 Spring Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2320_program.html) in Hartford, CT
