@@ -3,7 +3,6 @@ title: Activities
 subtitle: Things I've done
 ---
 
----
 
 ## Awards {#awd}
 
@@ -17,11 +16,14 @@ subtitle: Things I've done
 
 ## Organization and Service {#org}
 
-- Referee for Comm. Algebra.
 - [MathSciNet Reviewer](https://mathscinet.ams.org) (2025-)
 - [UC Santa Cruz Graduate Student Colloquium Organizer](https://docs.google.com/document/d/1ocl6D85ZRwcrCXrQQLfLlR74V2phgLIQgjpi61vT_-s/edit#heading=h.5kolow2jzywc) (2022-2024)
 - UCSC Graduate Student Committee Electoral Board (2022-2023)
 - UCSC Math Department Social Committee Organizer (2021-2022)
+
+### Journals Refereed
+
+- [Comm. Algebra](https://www.tandfonline.com/journals/lagb20)
 
 ---
 
