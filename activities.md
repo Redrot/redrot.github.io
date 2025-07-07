@@ -22,7 +22,7 @@ subtitle: Things I've done
 - UCSC Graduate Student Committee Electoral Board (2022-2023)
 - UCSC Math Department Social Committee Organizer (2021-2022)
 
-### Journals Refereed
+### Referee Service
 
 - [Comm. Algebra](https://www.tandfonline.com/journals/lagb20)
 
