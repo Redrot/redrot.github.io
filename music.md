@@ -3,17 +3,12 @@ title: Music
 subtitle: Things I've listened to
 ---
 
-This is perhaps an unusual thing to have on an academic website, but music is about as important to me as math, so I figured it deserves its own section. I was inspired by s8jfou's website and figured I'd start sharing bits of music I've been enjoying with links to listen or buy. Links will be to **[Bandcamp](https://www.bandcamp.com)** when possible. 
-
-If you want to see my semi-complete listening history, you can see it on my **[last.fm account](https://www.last.fm/user/Redrot)**. It is not robust, since I use a variety of platforms to listen to music, but it should contain most scrobs from my desktop and Spotify account. I have also DJed since 2014, playing primarily trance with some techno and ambient, you can hear those mixes on **[Soundcloud](https://soundcloud.com/sammymmm)**. 
-
-Finally, here is a clip of me playing with my rock group [Partial Disorder](https://www.youtube.com/shorts/gTOsRkQB-nY)! 
+This is perhaps an unusual thing to have on an academic website, but music is about as important to me as math, so I figured it deserves its own section. I was inspired by s8jfou's website and figured I'd start sharing bits of music I've been enjoying with links to listen or buy. Links will be to **[Bandcamp](https://www.bandcamp.com)** when possible. I've DJed for over a decade, playing primarily trance with some techno and ambient, you can hear those mixes on **[Soundcloud](https://soundcloud.com/sammymmm)**. Finally, here is a clip of me playing with my rock group [Partial Disorder](https://www.youtube.com/shorts/gTOsRkQB-nY)! 
 
 ---
 
 ## 2025
 
-- [Skrillex - F*** U Skrillex You Think Ur Andy Warhol but Ur Not!!](https://en.wikipedia.org/wiki/Fuck_U_Skrillex_You_Think_Ur_Andy_Warhol_but_Ur_Not!!) (American brostep). lol
 - [Stillhead - A Real Piece of Work](https://brightestdarkplace.bandcamp.com/album/a-real-piece-of-work?action=buy) (IDM). Very memorable album, Djrum-esque.
 - [Djrum - Under Tangled Silence](https://djrum.bandcamp.com/album/under-tangled-silence) (IDM). A master returns (bonus - I saw him play live b2b Skee Mask at Parameter, jaw dropping!)
 - [SW. - The Album](https://apollorecords.bandcamp.com/album/the-album) (Dub Techno). A lush classic encompassing a number of moods. 
