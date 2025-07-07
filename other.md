@@ -1,25 +1,15 @@
 ---
 title: Other Things
-subtitle: Things I like
+subtitle: Things that don't fit into the other pages
 ---
 
-- [Music](#music)
 - [Outdoors](#outdoors)
 - [Other interests](#other)
 - [Application materials](#apps)
 - [Random math links](#links)
 
 ---
-
-## Music {#music}
-
-I love music. It's always played an indispensable role in my life, and I almost even decided to pursue music in college instead of math (it would have gone terribly)! Along with listening to it whenever I can, I play guitar, tenor saxophone, EWI (electronic wind instrument), and DJ. 
-- What am I currently listening to? You can see on my [last.fm account.](https://www.last.fm/user/Redrot) I also [use Bandcamp to dig](https://bandcamp.com/redrot) - it's a great platform for making sure your money goes more directly to the artist.
-- You can hear my DJ mixes on my [Soundcloud account.](https://soundcloud.com/sammymmm) I mix trance, techno, and occasionally ambient. 
-- You can [watch me play saxophone](https://www.youtube.com/shorts/gTOsRkQB-nY) with my band Partial Disorder! (yes, it's a math reference) 
   
----
-
 ## Outdoors {#outdoors}
 
 I love canoeing, backpacking, snowboarding,  and climbing, and I even spent a few summers leading canoeing trips in the BWCA in Minnesota during my undergraduate years. The wilderness holds a special place in my heart. Some of my most formative experiences as an adolescent were long canoeing trips, and whenever I return to nature for a visit, I find an emotional peace and tranquility that I don't think exists elsewhere in the modern world. The wild encourages us to be alone with ourselves, to dig deep within and discover parts of us we'd never known. It is my hope that future generations will have these same experiences. However, this may not happen unless humans relearn to care for and respect the lands they borrow.
@@ -45,9 +35,9 @@ Pictures!
 
 I am an avid reader of [The Sun Magazine](https://www.thesunmagazine.org/) (no, not the tabloid) and [Hi Fructose](https://hifructose.com/) (no, not the corn syrup). 
 
-Other random hobbies include chess, origami, slacklining, longboarding, [freeskating](https://www.jmkride.com/), reading, calisthenics, drawing, backgammon, puzzles, and penguins.  
+Other random hobbies of mine include chess, origami, slacklining, longboarding, [freeskating](https://www.jmkride.com/), reading, calisthenics, drawing, backgammon, puzzles, and penguins.  
 
-My mom is a contemporary artist. [Here is a webpage with some of her works.](https://jinsookim.info/section/38167.html)
+My mother is a Korean immigrant and contemporary artist. [Here is a webpage with some of her works.](https://jinsookim.info/section/38167.html)
 
 ---
 
