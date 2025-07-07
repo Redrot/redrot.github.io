@@ -6,6 +6,7 @@ subtitle: Things I've done
 
 ## Awards {#awd}
 
+- [UCSC Department of Mathematics (Inaugural) Outstanding Research Award](https://www.math.ucsc.edu/) (2025)
 - [Sigma Xi Full Membership](https://www.sigmaxi.org/) (2025-)
 - [AMS-Simons Travel Grant](https://www.ams.org/grants-awards/travel-grants/AMS-SimonsTG) (2025-2027)
 - [UC Santa Cruz Chancellor's Dissertation Full-Year Fellowship](https://science.ucsc.edu/research-opportunities/dissertation-year-fellowships/) (2024-2025)
