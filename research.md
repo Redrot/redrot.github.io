@@ -61,6 +61,8 @@ subtitle: Things I've thought
 
 ## Theses {#theses}
 
+- Permutation Modules and Endotrivial Complexes
+> Ph.D. Thesis, UC Santa Cruz
 - [**The Combinatorial Polynomial Hirsch Conjecture**](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1096&context=hmc_theses)
 > Harvey Mudd College Senior Theses, 109.
 
