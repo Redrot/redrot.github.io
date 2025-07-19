@@ -9,6 +9,7 @@ This is perhaps an unusual thing to have on an academic website, but music is ab
 
 ## 2025
 
+- [Fireground = Smile As One](https://iliantape.bandcamp.com/album/it072-smile-as-one) (Techno). I've heard plenty of techno with jazz influences, where that's the main gimmick and it comes across as such. Not the case here, incredible production and wicked solos both carry this one far. 
 - [Stillhead - A Real Piece of Work](https://brightestdarkplace.bandcamp.com/album/a-real-piece-of-work?action=buy) (IDM). Very memorable album, Djrum-esque.
 - [Djrum - Under Tangled Silence](https://djrum.bandcamp.com/album/under-tangled-silence) (IDM). A master returns (bonus - I saw him play live b2b Skee Mask at Parameter, jaw dropping!)
 - [SW. - The Album](https://apollorecords.bandcamp.com/album/the-album) (Dub Techno). A lush classic encompassing a number of moods. 
