@@ -11,8 +11,8 @@ subtitle: Things I've thought
 
 **Current focuses**
 
-- (Noncommutative) tensor-triangular geometry
-- Intersections of representation theory and tensor-triangulated geometry
+- Non/commutative tensor-triangular geometry
+- Intersections of representation theory and tensor-triangular geometry
 - Endotrivial complexes and Picard groups
 - Permutation modules
 - Galois descent in modular representation theory
@@ -61,7 +61,7 @@ subtitle: Things I've thought
 
 ## Theses {#theses}
 
-- Permutation Modules and Endotrivial Complexes
+- [**Permutation Modules and Endotrivial Complexes**](https://escholarship.org/uc/item/9h73j2g4)
 > Ph.D. Thesis, UC Santa Cruz
 - [**The Combinatorial Polynomial Hirsch Conjecture**](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1096&context=hmc_theses)
 > Harvey Mudd College Senior Theses, 109.
