@@ -53,7 +53,7 @@ Pictures!
 
 I am an avid reader of [The Sun Magazine](https://www.thesunmagazine.org/) (no, not the tabloid) and [Hi Fructose](https://hifructose.com/) (no, not the corn syrup). 
 
-Other random hobbies of mine include chess, origami, slacklining, longboarding, [freeskating](https://www.jmkride.com/), reading, calisthenics, drawing, backgammon, puzzles, and penguins.  
+Other random hobbies include chess, video games (predominantly indie games and RTSs), origami, slacklining, longboarding, [freeskating](https://www.jmkride.com/), reading, calisthenics, drawing, backgammon, puzzles, and penguins.  
 
 ---
 
