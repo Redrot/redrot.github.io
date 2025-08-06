@@ -5,9 +5,13 @@ subtitle: Places I've gone
 
 
 ---
+### 2026
+
+- More to come? Probably!
+- Maybe attending [Groups, representations, cohomology: Celebrating the mathematical contributions of Dave Benson](https://icms.ac.uk/activities/workshop/groups-representations-cohomology/) in Edinburgh, UK
+
 ### 2025
 
-- More to come...? Probably!
 - Attending [Spectrums in Representation Theory of Algebras and Related Topics](https://pabloocal.github.io/SRTART2025/) in Osaka, Japan
 - Attending [Interactions Between Representation Theory and Homotopy Theory](https://www.math.ku.dk/english/calendar/events/interactions-homotopy-representation-theory/) in Copenhagen, Denmark
 - Attending [Tensor Triangular Geometry and Interactions Oberwolfach Seminar](https://www.mfo.de/occasion/2543a/www_view) in Oberwolfach, Germany
