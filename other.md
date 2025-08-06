@@ -15,18 +15,18 @@ subtitle: Things that don't belong
 
 My friends do cool things too! Here are some of their websites. (If you are my friend and are mad you are not listed, contact me and I'll rectify this tremendous oversight.)
 
-- Deewang Bhamidipati ([bdeewang.com/](https://bdeewang.com/))
-- Jadyn Breland ([people.ucsc.edu/~jbreland/about.html](https://people.ucsc.edu/~jbreland/about.html))
-- Alex Calderwood ([nonsens.ing](https://nonsens.ing/))
-- Rafael Fernandes ([rafaelalmfernandes.github.io/](https://rafaelalmfernandes.github.io/))
+- Deewang Bhamidipati ([bdeewang.com/](https://bdeewang.com))
+- Jadyn Breland ([people.ucsc.edu/~jbreland/about.html](https://people.ucsc.edu/~jbreland))
+- Alex Calderwood ([nonsens.ing](https://nonsens.ing))
+- Rafael Fernandes ([rafaelalmfernandes.github.io/](https://rafaelalmfernandes.github.io))
 - Jen Guererro ([sites.google.com/view/jennifer-s-guerrero/home](https://sites.google.com/view/jennifer-s-guerrero/home))
 - Jin Soo Kim (aka 엄마) ([jinsookim.info](https://jinsookim.info))
-- Jay Honnold ([honnold.me/](https://honnold.me/))
-- Francois Monard ([people.ucsc.edu/~fmonard/](https://people.ucsc.edu/~fmonard/))
-- Pedro Fernandez Morales-Almazán ([pedromoralesalmazan.com/](http://www.pedromoralesalmazan.com/))
-- Jack O'Donnell ([hodonnell.com/](https://www.jhodonnell.com/))
-- Will Wharton ([willwharton.me/](https://www.willwharton.me/))
-- Hongwei Zhou ([normand-1024.github.io/](https://normand-1024.github.io/))
+- Jay Honnold ([honnold.me/](https://honnold.me))
+- Francois Monard ([people.ucsc.edu/~fmonard/](https://people.ucsc.edu/~fmonard))
+- Pedro Fernandez Morales-Almazán ([pedromoralesalmazan.com/](http://www.pedromoralesalmazan.com))
+- Jack O'Donnell ([hodonnell.com/](https://www.jhodonnell.com))
+- Will Wharton ([willwharton.me/](https://www.willwharton.me))
+- Hongwei Zhou ([normand-1024.github.io/](https://normand-1024.github.io))
 
 ---
   
