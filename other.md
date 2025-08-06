@@ -16,6 +16,7 @@ subtitle: Things that don't belong
 My friends do cool things too! Here are some of their websites. (If you are my friend and are mad you are not listed, contact me and I'll rectify this tremendous oversight.)
 
 - Deewang Bhamidipati ([bdeewang.com/](https://bdeewang.com/))
+- Jadyn Breland ([people.ucsc.edu/~jbreland/about.html](https://people.ucsc.edu/~jbreland/about.html))
 - Alex Calderwood ([nonsens.ing](https://nonsens.ing/))
 - Rafael Fernandes ([rafaelalmfernandes.github.io/](https://rafaelalmfernandes.github.io/))
 - Jen Guererro ([sites.google.com/view/jennifer-s-guerrero/home](https://sites.google.com/view/jennifer-s-guerrero/home))
