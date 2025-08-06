@@ -1,12 +1,30 @@
 ---
 title: Other Things
-subtitle: Things that don't fit into the other pages
+subtitle: Things that don't belong
 ---
 
+- [Friends](#friends)
 - [Outdoors](#outdoors)
 - [Other interests](#other)
 - [Application materials](#apps)
 - [Random math links](#links)
+
+---
+
+## Friends {#friends}
+
+My friends do cool things too! Here are some of their websites. (If you are my friend and are mad you are not listed, contact me and I'll rectify this tremendous oversight.)
+
+- Deewang Bhamidipati ([bdeewang.com/](https://bdeewang.com/))
+- Alex Calderwood ([nonsens.ing](https://nonsens.ing/))
+- Jen Guererro ([sites.google.com/view/jennifer-s-guerrero/home](https://sites.google.com/view/jennifer-s-guerrero/home))
+- Jin Soo Kim (aka 엄마) ([jinsookim.info](https://jinsookim.info))
+- Jay Honnold ([honnold.me/](https://honnold.me/))
+- Francois Monard ([people.ucsc.edu/~fmonard/](https://people.ucsc.edu/~fmonard/))
+- Pedro Fernandez Morales-Almazán ([pedromoralesalmazan.com/](http://www.pedromoralesalmazan.com/))
+- Jack O'Donnell ([hodonnell.com/](https://www.jhodonnell.com/))
+- Will Wharton ([willwharton.me/](https://www.willwharton.me/))
+- Hongwei Zhou ([normand-1024.github.io/](https://normand-1024.github.io/))
 
 ---
   
@@ -25,7 +43,7 @@ Pictures!
 - Pebble Wrestling
   - [The Beak (V4) in Castle Rock](https://redrot.github.io/assets/img/climbing1.jpg)
   - [The Cube (V1) in Yosemite](https://redrot.github.io/assets/img/381645852_6672974016127228_507368574689229686_n.jpg)
-  - [In Morelia, Michoacan](https://redrot.github.io/assets/img/361047690_291375823431625_2755554577292220983_n.jpg)       
+  - [In Morelia, Michoacan, barefoot](https://redrot.github.io/assets/img/361047690_291375823431625_2755554577292220983_n.jpg)       
 - Snowboarding
   - [Pointing somewhere](https://redrot.github.io/assets/img/431761856_328687626866227_4778850136459008052_n.jpg)
   
@@ -36,8 +54,6 @@ Pictures!
 I am an avid reader of [The Sun Magazine](https://www.thesunmagazine.org/) (no, not the tabloid) and [Hi Fructose](https://hifructose.com/) (no, not the corn syrup). 
 
 Other random hobbies of mine include chess, origami, slacklining, longboarding, [freeskating](https://www.jmkride.com/), reading, calisthenics, drawing, backgammon, puzzles, and penguins.  
-
-My mother is a Korean immigrant and contemporary artist. [Here is a webpage with some of her works.](https://jinsookim.info/section/38167.html)
 
 ---
 
