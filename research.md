@@ -24,14 +24,14 @@ subtitle: Things I've thought
 ## In preparation {#inp}
 
 - **Twistier cohomology** 
-> We generalize the twisted cohomology ring constructed in Balmer, Gallauer, *The geometry of permutation modules* that uses the classification of endotrivial complexes. This gives a construction for which the "comparison map" is an embedding for any finite $p$-group. Some of these techniques hopefully generalize to abstract settings under certain compatibility conditions.     
+> We generalize the twisted cohomology ring constructed in Balmer, Gallauer, *The geometry of permutation modules* that uses the classification of endotrivial complexes. This gives a construction for which the "comparison map" is an embedding for any finite $p$-group. Some of these techniques may generalize to abstract settings under certain compatibility conditions.     
 
 ---
 
 ## Publications and preprints {#pub}
 
 - **10.** **The Euler characteristic of an endotrivial complex**
-> w/ [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza)
+> w/ [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza)    
 > Submitted
 - **9.** [**On functoriality and the tensor product property in noncommutative tensor-triangular geometry**](https://arxiv.org/abs/2505.01899)
 > Submitted
