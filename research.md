@@ -23,16 +23,16 @@ subtitle: Things I've thought
 
 ## In preparation {#inp}
 
-- **The Euler characteristic of an endotrivial complex** (in preparation)
-> (w/ [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza))     
-> We further study the image of the group of endotrivial complexes, i.e. the Picard group of the bounded homotopy category of $p$-permutation modules, in the corresponding Grothendieck group, i.e. the trivial source ring. 
-- **Twistier cohomology** (in preparation) 
+- **Twistier cohomology** 
 > We generalize the twisted cohomology ring constructed in Balmer, Gallauer, *The geometry of permutation modules* that uses the classification of endotrivial complexes. This gives a construction for which the "comparison map" is an embedding for any finite $p$-group. Some of these techniques hopefully generalize to abstract settings under certain compatibility conditions.     
 
 ---
 
 ## Publications and preprints {#pub}
 
+- **10.** **The Euler characteristic of an endotrivial complex**
+> w/ [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza)
+> Submitted
 - **9.** [**On functoriality and the tensor product property in noncommutative tensor-triangular geometry**](https://arxiv.org/abs/2505.01899)
 > Submitted
 - **8.** [**On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups**](https://arxiv.org/abs/2408.04094)
