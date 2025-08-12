@@ -30,7 +30,7 @@ subtitle: Things I've thought
 
 ## Publications and preprints {#pub}
 
-- **10.** **The Euler characteristic of an endotrivial complex**
+- **10.** [**The Euler characteristic of an endotrivial complex**](https://arxiv.org/abs/2508.07404)
 > w/ [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza)    
 > Submitted
 - **9.** [**On functoriality and the tensor product property in noncommutative tensor-triangular geometry**](https://arxiv.org/abs/2505.01899)
