@@ -50,7 +50,7 @@ subtitle: Things I've thought
 > [J. Algebra, 650, 173-218 (2024)](https://www.sciencedirect.com/science/article/pii/S0021869324001728)
 - **2.** [**A proof of the optimal leapfrogging conjecture**](https://arxiv.org/abs/2110.08319)
 > w/ [Arthur T. Benjamin](https://www.arthurbenjamin.info/)    
-> [Involve, 18 (1), 105–122 (2025)](https://msp.org/involve/2025/18-1/index.xhtml)
+> [Involve, 18 (1), 105–122 (2025)](https://msp.org/involve/2025/18-1/p05.xhtml)
 - **1.** [**Challenging knight's tours**](https://math.hmc.edu/benjamin/wp-content/uploads/sites/5/2019/06/Challenging-Knight%E2%80%99s-Tours.pdf)
 > w/ [Arthur T. Benjamin](https://www.arthurbenjamin.info/)    
 > [Math Horizons, 25 (3), 18-21 (2018)](https://www.tandfonline.com/doi/full/10.1080/10724117.2018.1424460)
