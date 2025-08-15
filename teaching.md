@@ -3,14 +3,21 @@ title: Teaching
 subtitle: Things I've taught
 ---
 
-- [Courses](#courses)
+- [At UC Santa Cruz](#ucsc)
 - [Other](#other)
 
 ---
 
-## Courses {#courses}
+## At University of Georgia
 
-I am the instructor of record for any course labeled **Graduate Student Instructor**.
+- Fall 2025
+  - Math 1113 *(Precalculus)*
+
+---
+
+## At UC Santa Cruz {#ucsc}
+
+I was the instructor of record for any course labeled **Graduate Student Instructor**.
 
 - Spring 2024
   - MATH 116 *(Combinatorics)*
@@ -23,7 +30,6 @@ I am the instructor of record for any course labeled **Graduate Student Instruct
 - Fall 2023
   - MATH 101 *(Mathematical Problem Solving)*
   - **Graduate Student Instructor** 
-  - [Course Page](https://www.samkmiller.com/math101f23/)
 
 - Summer 2023
   - MATH134 *(Cryptography)*
