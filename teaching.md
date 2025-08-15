@@ -3,21 +3,24 @@ title: Teaching
 subtitle: Things I've taught
 ---
 
-- [At UC Santa Cruz](#ucsc)
+- [University of Georgia](#uga)
+- [UC Santa Cruz](#ucsc)
 - [Other](#other)
 
 ---
 
-## At University of Georgia
+## At University of Georgia {#uga}
 
+- Spring 2026
+  - Math 1113 *(Precalculus)*
 - Fall 2025
   - Math 1113 *(Precalculus)*
 
 ---
 
-## At UC Santa Cruz {#ucsc}
+## UC Santa Cruz {#ucsc}
 
-I was the instructor of record for any course labeled **Graduate Student Instructor**.
+I was the instructor of record for any course labeled **Graduate Student Instructor**. All other courses I was a teaching assistant for. 
 
 - Spring 2024
   - MATH 116 *(Combinatorics)*
@@ -37,15 +40,12 @@ I was the instructor of record for any course labeled **Graduate Student Instruc
   
 - Spring 2023
   - MATH21 *(Linear Algebra)*
-  - Teaching Assistant
  
 - Winter 2023
   - MATH152 *(Programming for Mathematics)*
-  - Teaching Assistant
 
 - Fall 2022
   - MATH117 *(Advanced Linear Algebra)*
-  - Teaching Assistant
 
 - Summer 2022    
   - MATH110 *(Introduction to Number Theory)*    
@@ -53,15 +53,12 @@ I was the instructor of record for any course labeled **Graduate Student Instruc
   
 - Spring 2022    
   - MATH140 *(Industrial Mathematics)*    
-  - Teaching Assistant
   
 - Winter 2022
   - MATH152 *(Programming for Mathematics)*
-  - Teaching Assistant
  
 - Fall 2021
   - MATH23A *(Vector Calculus)*
-  - Teaching Assistant
  
 - Summer 2021
   - MATH100 *(Introduction to Proof and Problem Solving)*
@@ -75,27 +72,21 @@ I was the instructor of record for any course labeled **Graduate Student Instruc
 
 - Winter 2021
   - MATH21 *(Linear Algebra)*
-  - Teaching Assistant
 
 - Fall 2020
   - MATH21 *(Linear Algebra)*
-  - Teaching Assistant
  
 - Summer 2020
   - MATH22 *(Introduction to Calculus of Several Variables)*
-  - Teaching Assistant
  
 - Spring 2020
   - MATH148 *(Numerical Analysis)*
-  - Teaching Assistant
  
 - Winter 2020
   - MATH19B *(Calculus for Science, Engineering, and Mathematics II)*
-  - Teaching Assistant
 
 - Fall 2019 
   - MATH19A *(Calculus for Science, Engineering, and Mathematics I)*
-  - Teaching Assistant
 
 ---
   
