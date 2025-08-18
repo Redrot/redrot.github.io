@@ -16,9 +16,9 @@ subtitle: Things I've said
 - UGA Algebra Seminar
 > 2 talks, August-September 2025
 - 2025 AMS Fall Western Sectional, Special Session on Representations of Finite and Algebraic Groups
-> (tbd), August 2025
-- UGA Graduate Student Seminar, August 2025
-> Modular representations, permutation modules, and twisted cohomology
+> Noncommutative tensor-triangular geometry, functoriality, and the tensor product property, August 2025
+- UGA Graduate Student Seminar
+> Modular representations, permutation modules, and twisted cohomology, August 2025
 - [New Directions in Group Theory and Triangulated Categories Seminar](https://sites.google.com/view/ndgttc/home)
 > On the tensor product property and the complete prime spectrum in noncommutative tensor-triangular geometry, May 2025    
 > [YouTube recording](https://www.youtube.com/watch?v=qG6VhDgTToM)
