@@ -9,12 +9,13 @@ subtitle: Places I've gone
 
 - More to come? Probably!
 - Maybe attending [Groups, representations, cohomology: Celebrating the mathematical contributions of Dave Benson](https://icms.ac.uk/activities/workshop/groups-representations-cohomology/) in Edinburgh, UK
+- Attending [Cohomology of Finite Groups: Interactions and Applications (Workshop)](https://www.mfo.de/www/activity/2609) in Oberwolfach, Germany (!!!!!!)
 
 ### 2025
 
 - Attending [Spectrums in Representation Theory of Algebras and Related Topics](https://pabloocal.github.io/SRTART2025/) in Osaka, Japan
 - Attending [Interactions Between Representation Theory and Homotopy Theory](https://www.math.ku.dk/english/calendar/events/interactions-homotopy-representation-theory/) in Copenhagen, Denmark
-- Attending [Tensor Triangular Geometry and Interactions Oberwolfach Seminar](https://www.mfo.de/occasion/2543a/www_view) in Oberwolfach, Germany
+- Attending [Tensor Triangular Geometry and Interactions Oberwolfach (Seminar)](https://www.mfo.de/occasion/2543a/www_view) in Oberwolfach, Germany (!!!)
 - Attending [Conference on Homological Commutative Algebra and Related Topics](https://sites.google.com/georgiasouthern.edu/commutative-algebra-2025/home?authuser=0) in Savannah, GA
 - Giving a special session talk at [AMS 2025 Fall Western Sectional Meeting](https://www.ams.org/meetings/sectional/2326_program.html) in Denver, CO
 - Attending [Algebraic Groups at the Grand Canal](https://sites.google.com/view/aggc) in Venice, Italy
