@@ -21,15 +21,16 @@ subtitle: Things I've thought
 
 ---
 
-## In preparation {#inp}
+## Current Projects {#inp}
 
-- **Twistier cohomology** 
-> We generalize the twisted cohomology ring constructed in Balmer, Gallauer, *The geometry of permutation modules* that uses the classification of endotrivial complexes. This gives a construction for which the "comparison map" is an embedding for any finite $p$-group. Some of these techniques may generalize to abstract settings under certain compatibility conditions.     
+(Will be updated soon)
 
 ---
 
 ## Publications and preprints {#pub}
 
+- **11.** Permutation twisted cohomology, remixed     
+> If you can prove noetherianity of the twisted cohomology ring, let's talk
 - **10.** [**The Euler characteristic of an endotrivial complex**](https://arxiv.org/abs/2508.07404)
 > w/ [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza)    
 > Submitted
