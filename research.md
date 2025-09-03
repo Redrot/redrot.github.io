@@ -29,8 +29,8 @@ subtitle: Things I've thought
 
 ## Publications and preprints {#pub}
 
-- **11.** Permutation twisted cohomology, remixed     
-> If you can prove noetherianity of the twisted cohomology ring, let's talk
+- **11.** [Permutation twisted cohomology, remixed](https://arxiv.org/abs/2509.00954)     
+> If you can prove noetherianity of the twisted cohomology ring, let's talk!
 - **10.** [**The Euler characteristic of an endotrivial complex**](https://arxiv.org/abs/2508.07404)
 > w/ [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza)    
 > Submitted
