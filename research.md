@@ -32,7 +32,8 @@ Here are some things I'm broadly thinking about right now. More details will app
 > w/ [Juan Omar Gomez](https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0)
 - Things involving permutation module categories for oligomorphic groups    
 > w/ [Nate Harman](https://www.nateharman.com/)
-- Things relating to the noncommutative "tale of three spectra" and central generation     
+- Things relating to the noncommutative "tale of three spectra" and central generation
+- Noetherianity of [the (remixed) twisted cohomology ring](https://arxiv.org/abs/2509.00954)
 
 ---
 
