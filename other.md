@@ -76,6 +76,7 @@ Other random hobbies include chess, video games (predominantly indie games and R
   - [MathOverflow](https://mathoverflow.net/)
   - [Dave Benson's preprint archive](https://homepages.abdn.ac.uk/d.j.benson/pages/html/archive.html)
   - [Keith Conrad's blurbs](https://kconrad.math.uconn.edu/blurbs/)
+  - [Kerodon](https://kerodon.net/)
 - Seminars & Conferences
   - [Research Seminars](https://researchseminars.org/)
   - [Math Meetings](https://mathmeetings.net/)
