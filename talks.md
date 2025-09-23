@@ -8,15 +8,16 @@ subtitle: Things I've said
 ### Upcoming
 
 - 2026 AMS Spring Southeastern Sectional
+- UCSC Algebra Seminar
 
 ---
 
 
-###
+### 2026
+
 
 - 2026 AMS Spring Southeastern Sectional
 > tbd, March 2026
-- UCSC Algebra Seminar
 
 ### 2025
 
