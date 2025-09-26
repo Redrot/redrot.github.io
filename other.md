@@ -32,9 +32,9 @@ My friends do cool things too! Here are some of their websites. (If you are my f
   
 ## Outdoors {#outdoors}
 
-I love canoeing, backpacking, snowboarding,  and climbing, and I even spent a few summers leading canoeing trips in the BWCA in Minnesota during my undergraduate years. The wilderness holds a special place in my heart. Some of my most formative experiences as an adolescent were long canoeing trips, and whenever I return to nature for a visit, I find an emotional peace and tranquility that I don't think exists elsewhere in the modern world. The wild encourages us to be alone with ourselves, to dig deep within and discover parts of us we'd never known. It is my hope that future generations will have these same experiences. However, this may not happen unless humans relearn to care for and respect the lands they borrow.
+I love canoeing, backpacking, snowboarding,  and climbing, and I even spent a few summers leading canoeing trips in the BWCA in Minnesota during my undergraduate years. The wilderness holds a special place in my heart. Some of my most formative experiences as an adolescent were long canoeing trips, and whenever I return to nature for a visit, I find an emotional peace and tranquility that I don't think exists elsewhere in the modern world. The wild encourages us to be alone with ourselves, to dig deep within and discover parts of us we'd never known. I hope that future generations will have these same experiences. However, this may not happen unless humans relearn to care for and respect the lands they borrow. 
 
-Pictures! 
+Some pictures:
 
 - Paddling
   - [A sunrise in the arctic circle](https://redrot.github.io/assets/img/arctic1.jpg)
@@ -45,7 +45,7 @@ Pictures!
 - Pebble Wrestling
   - [The Beak (V4) in Castle Rock](https://redrot.github.io/assets/img/climbing1.jpg)
   - [The Cube (V1) in Yosemite](https://redrot.github.io/assets/img/381645852_6672974016127228_507368574689229686_n.jpg)
-  - [In Morelia, Michoacan, barefoot](https://redrot.github.io/assets/img/361047690_291375823431625_2755554577292220983_n.jpg)       
+  - [In Morelia, Michoacan for a conference, barefoot](https://redrot.github.io/assets/img/361047690_291375823431625_2755554577292220983_n.jpg)       
 - Snowboarding
   - [Pointing somewhere](https://redrot.github.io/assets/img/431761856_328687626866227_4778850136459008052_n.jpg)
   
@@ -53,9 +53,9 @@ Pictures!
 
 ## Other interests 
 
-I am an avid reader of [The Sun Magazine](https://www.thesunmagazine.org/) (no, not the tabloid) and [Hi Fructose](https://hifructose.com/) (no, not the corn syrup). 
+I am an avid reader of [The Sun Magazine](https://www.thesunmagazine.org/) (no, not the tabloid), [Hi Fructose](https://hifructose.com/) (no, not the corn syrup), [Aeon](https://aeon.co/) (no, not the length of time), and [Nautilus](https://nautil.us/) (no, not the mollusk). 
 
-Other random hobbies include chess, video games (predominantly indie games and RTSs), origami, slacklining, longboarding, [freeskating](https://www.jmkride.com/), reading, calisthenics, drawing, backgammon, puzzles, and penguins.  
+Other random hobbies include chess, video games (predominantly indie games and RTSs), origami, slacklining, longboarding, [freeskating](https://www.jmkride.com/), reading, calisthenics, drawing, backgammon, puzzles, and penguins. Feel free to chat about any of these if we meet in the wild! 
 
 ---
 
