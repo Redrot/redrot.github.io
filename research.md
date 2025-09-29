@@ -51,9 +51,9 @@ Here are some things I'm broadly thinking about right now. More details will app
 - **5.** [**Galois descent of splendid Rickard equivalences between blocks of $p$-nilpotent groups**](https://arxiv.org/abs/2405.16061)
 > [Proc. Amer. Math. Soc. 153 (5), 1893-1902 (2025)](https://doi.org/10.1090/proc/17230)
 - **4.** [**The classification of endotrivial complexes**](https://arxiv.org/abs/2403.04088) 
-> [Adv. Math. 478, (2025), 110414](https://www.sciencedirect.com/science/article/pii/S0001870825003020)
+> [Adv. Math. 478, 110414 (2025)](https://www.sciencedirect.com/science/article/pii/S0001870825003020)
 - **3.** [**Relatively endotrivial complexes**](https://arxiv.org/abs/2402.08042)
-> [J. Pure Appl. Algebra, 229 (2), (2025), 107867](https://www.sciencedirect.com/science/article/pii/S0022404925000064)
+> [J. Pure Appl. Algebra, 229 (2), 107867 (2025)](https://www.sciencedirect.com/science/article/pii/S0022404925000064)
 - **2.** [**Brauer pairs for splendid Rickard complexes**](https://arxiv.org/abs/2312.10258)
 > w/ [Jadyn V. Breland](https://people.ucsc.edu/~jbreland/index.html)   
 > Submitted
