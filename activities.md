@@ -25,6 +25,7 @@ subtitle: Things I've done
 ### Referee Service
 
 - [Comm. Algebra](https://www.tandfonline.com/journals/lagb20)
+- [Trans. Amer. Math. Soc](https://www.ams.org/publications/journals/journalsframework/tran/)
 
 ---
 
