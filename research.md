@@ -24,10 +24,12 @@ subtitle: Things I've thought
 
 ## Current Projects {#inp}
 
-Here are some things I'm broadly thinking about right now. More details will appear when they exist! 
+Here are some things I'm thinking about at the moment. More details will appear when they exist! 
 
 - Tensor-triangular geometry vs. Tensor-*exact* geometry    
 > w/ [Timothy de Deyn](https://tdedeyn.github.io/)
+- A pointless aproach to nc-ttg
+> w/ [Timothy de Deyn](https://tdedeyn.github.io/)  
 - Integral endotrivial complexes     
 > w/ [Juan Omar Gomez](https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0)
 - Things involving permutation module categories for oligomorphic groups    
