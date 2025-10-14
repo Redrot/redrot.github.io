@@ -20,7 +20,7 @@ subtitle: Places I've gone
 - Giving a contributed talk at [Spectrums in Representation Theory of Algebras and Related Topics](https://pabloocal.github.io/SRTART2025/) in Osaka, Japan
 - Visiting [UCLA](https://ww3.math.ucla.edu/) in Los Angeles, CA
 - Attending [Interactions Between Representation Theory and Homotopy Theory](https://www.math.ku.dk/english/calendar/events/interactions-homotopy-representation-theory/) in Copenhagen, Denmark
-- Homecoming at [UC Santa Cruz](https://math.ucsc.edu/) and giving a seminar talk
+- Returning home to [UC Santa Cruz](https://math.ucsc.edu/) and giving a seminar talk
 - Attending [Tensor Triangular Geometry and Interactions Oberwolfach (Seminar)](https://www.mfo.de/occasion/2543a/www_view) in Oberwolfach, Germany (!!!)
 - Attending [Conference on Homological Commutative Algebra and Related Topics](https://sites.google.com/georgiasouthern.edu/commutative-algebra-2025/home?authuser=0) in Savannah, GA
 - Giving a special session talk at [AMS 2025 Fall Western Sectional Meeting](https://www.ams.org/meetings/sectional/2326_program.html) in Denver, CO
@@ -34,12 +34,12 @@ subtitle: Places I've gone
 - Giving a seminar talk at [UC Berkeley](https://math.berkeley.edu/home) in Berkeley, CA
 - Gave a special session talk at [AMS 2024 Fall Western Sectional Meeting](https://www.ams.org/meetings/sectional/2304_program.html) in Riverside, CA
 - Did not give a special session talk at [AMS 2024 Fall Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2315_program.html) in Savannah, GA due to inclement weather
-- Visited [Lancaster University](https://www.lancaster.ac.uk/maths/) and working with [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza) in Lancaster, UK
+- Visited [Lancaster University](https://www.lancaster.ac.uk/maths/) and worked with [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza) in Lancaster, UK
 - Gave a contributed talk at [Group Actions, Geometry and Cohomology](https://sites.google.com/view/gagcmanchester/home) in bustling Manchester, UK
 - Attended [LMS Research School 2024 - Combinatorial Representation Theory and Diagrammatic Categorification](https://sites.google.com/view/york-lms-research-school-2024/home) in York, UK
 - Attended [Group Theory in Florence IV](https://sites.google.com/view/groupsinflorenceiv/) in historic Florence, Italy, the birthplace of the Renaissance
 - Gave a contributed talk at [GABY 2024: Groups & Algebras in Bicocca for young algebraists](https://staff.matapp.unimib.it/~/gaby/gaby2024/index.html) in Milan, Italy
-- Gave a seminar talk at [RPTU Kaiserslautern-Landau](https://math.rptu.de/en/home) and working with [Caroline Lassueur](https://agag-lassueur.math.rptu.de/~lassueur/en/) in Kaiserslautern, Germany
+- Gave a seminar talk at [RPTU Kaiserslautern-Landau](https://math.rptu.de/en/home) and worked with [Caroline Lassueur](https://agag-lassueur.math.rptu.de/~lassueur/en/) in Kaiserslautern, Germany
 - Gave a contributed talk at [Groups and their Actions: Algebraic, Geometric and Combinatorial Aspects](https://gaagc24.github.io) in idyllic Levico Terme, Italy
 - Gave a contributed talk at [Representation Theory and Related Geometry: Progress and Prospects](https://sites.google.com/view/representation-theory-geometry) in Athens, GA
 - Gave a seminar talk at [UCLA](https://ww3.math.ucla.edu/) in Los Angeles, CA, my brief old home!
