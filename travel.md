@@ -12,6 +12,7 @@ subtitle: Places I've gone
 - Visiting [Universität Bielefeld](https://www.uni-bielefeld.de/fakultaeten/mathematik/) in Bielefeld, Germany, which doesn't exist
 - Attending [Groups, representations, cohomology: Celebrating the mathematical contributions of Dave Benson](https://icms.ac.uk/activities/workshop/groups-representations-cohomology/) in Edinburgh, UK
 - Attending [Representation theory of  Finite Groups, Schur and Hall Algebras in Honour of Sandy Green](https://sites.google.com/view/sandygreen2026/home) in York, UK
+- Giving a special session talk at [AMS 2026 Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2329_program.html) in Savannah, GA
 - Attending [Cohomology of Finite Groups: Interactions and Applications (Workshop)](https://www.mfo.de/www/activity/2609) in Oberwolfach, Germany (!!!!!!)
 
 ### 2025
