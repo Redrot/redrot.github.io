@@ -7,8 +7,10 @@ subtitle: Things I've said
 
 ### Upcoming
 
-- 2026 AMS Spring Southeastern Sectional
-- UCSC Algebra Seminar
+- UCSC
+- UCLA
+- Osaka
+- Savannah
 
 ---
 
@@ -22,9 +24,11 @@ subtitle: Things I've said
 ### 2025
 
 - Spectra in Representation Theory of Algebras and Related Topics
-> Endotrivial complexes and twisted cohomology, December 2025
-- UCSC Algebra Seminar, October 2025
-> Permutation twisted cohomology, remixed
+> Endotrivial complexes and twisted cohomology, December 2025    
+- UCLA Algebra Seminar
+> Reframing the classification of thick tensor ideals in noncommutative ttg, November 2025
+- UCSC Algebra Seminar
+> Permutation twisted cohomology, remixed, October 2025
 - UGA Algebra Seminar
 > 2 talks on my dissertation, August-September 2025
 - 2025 AMS Fall Western Sectional, Special Session on Representations of Finite and Algebraic Groups
