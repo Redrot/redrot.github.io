@@ -33,6 +33,8 @@ Here are some things I'm thinking about at the moment. More details will appear 
 > w/ [Nate Harman](https://www.nateharman.com/)
 - Things relating to the noncommutative "tale of three spectra" and central generation
 - Noetherianity of [the (remixed) twisted cohomology ring](https://arxiv.org/abs/2509.00954)
+- Classification of thick subcategories of a block algebra $kGb$
+- Is the frame of smashing tensor-ideals spatial? (This is perhaps hard) 
 
 ---
 
