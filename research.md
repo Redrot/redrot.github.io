@@ -11,14 +11,11 @@ subtitle: Things I've thought
 
 **Mathematical interests**
 
-- Non/commutative tensor-triangular geometry and the tensor product property, central generation
+- Non/commutative tensor-triangular geometry
 - Intersections between representation theory and tensor-triangular geometry
 - Invertible objects and Picard groups
 - Permutation modules, and their role in representation categories
-- Pre-Tannakian categories
-- Galois descent in modular representation theory
-- Broue's abelian defect group conjecture and local-global representation theory of finite groups
-- Biset functors and applications
+- Block theory and local-global representation theory
 
 ---
 
@@ -26,12 +23,9 @@ subtitle: Things I've thought
 
 Here are some things I'm thinking about at the moment. More details will appear when they exist! 
 
-- Tensor-triangular geometry vs. Tensor-*exact* or tensor-abelian geometry    
-> w/ [Timothy de Deyn](https://tdedeyn.github.io/)
-> w/ [Juan Omar Gomez](https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0)
-- Things involving permutation module categories for oligomorphic groups    
-> w/ [Nate Harman](https://www.nateharman.com/)
-- Things relating to the noncommutative "tale of three spectra" and central generation
+- Tensor-triangular geometry vs. Tensor-*exact* or tensor-abelian geometry (w/ [Timothy de Deyn](https://tdedeyn.github.io/))
+- Integral permutation modules (w/ [Juan Omar Gomez](https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0))
+- Things involving permutation module categories for oligomorphic groups  (w/ [Nate Harman](https://www.nateharman.com/))
 - Noetherianity of [the (remixed) twisted cohomology ring](https://arxiv.org/abs/2509.00954)
 - Classification of thick subcategories of a block algebra $kGb$
 - Is the frame of smashing tensor-ideals spatial? (This is perhaps hard) 
