@@ -27,7 +27,7 @@ Here are some things I'm thinking about at the moment. More details will appear 
 - Integral permutation modules (w/ [Juan Omar Gomez](https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0))
 - Things involving permutation module categories for oligomorphic groups  (w/ [Nate Harman](https://www.nateharman.com/))
 - Noetherianity of [the (remixed) twisted cohomology ring](https://arxiv.org/abs/2509.00954)
-- Classification of thick subcategories of a block algebra $kGb$
+- Classification of central thick subcategories of a block algebra $kGb$
 - Is the frame of smashing tensor-ideals spatial? (This is perhaps hard) 
 
 ---
