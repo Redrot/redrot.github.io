@@ -38,7 +38,8 @@ Here are some things I'm thinking about at the moment. More details will appear 
 
 ## Publications and preprints {#pub}
 
-- **10.** [**Re-framing the classification of ideals in noncommutative tensor-triangular geometry**](https://arxiv.org/abs/2510.23767)
+- **10.** [**Re-framing the classification of ideals in noncommutative tensor-triangular geometry**](https://arxiv.org/abs/2510.23767)     
+> w/ [Timothy de Deyn](https://tdedeyn.github.io/)     
 - **9.** [**Permutation twisted cohomology, remixed**](https://arxiv.org/abs/2509.00954)     
 > If you can prove noetherianity of the twisted cohomology ring, let's talk!
 - **8.** [**The Euler characteristic of an endotrivial complex**](https://arxiv.org/abs/2508.07404)
