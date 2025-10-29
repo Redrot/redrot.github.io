@@ -26,11 +26,8 @@ subtitle: Things I've thought
 
 Here are some things I'm thinking about at the moment. More details will appear when they exist! 
 
-- Tensor-triangular geometry vs. Tensor-*exact* geometry    
+- Tensor-triangular geometry vs. Tensor-*exact* or tensor-abelian geometry    
 > w/ [Timothy de Deyn](https://tdedeyn.github.io/)
-- A pointless aproach to nc-ttg
-> w/ [Timothy de Deyn](https://tdedeyn.github.io/)  
-- Integral endotrivial complexes     
 > w/ [Juan Omar Gomez](https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0)
 - Things involving permutation module categories for oligomorphic groups    
 > w/ [Nate Harman](https://www.nateharman.com/)
@@ -41,6 +38,7 @@ Here are some things I'm thinking about at the moment. More details will appear 
 
 ## Publications and preprints {#pub}
 
+- **10.** [**Re-framing the classification of ideals in noncommutative tensor-triangular geometry**](https://arxiv.org/abs/2510.23767)
 - **9.** [**Permutation twisted cohomology, remixed**](https://arxiv.org/abs/2509.00954)     
 > If you can prove noetherianity of the twisted cohomology ring, let's talk!
 - **8.** [**The Euler characteristic of an endotrivial complex**](https://arxiv.org/abs/2508.07404)
