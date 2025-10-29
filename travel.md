@@ -4,12 +4,12 @@ subtitle: Places I've gone
 ---
 
 
----
+
 ### 2026
 
 - More to come? Probably!
 - Possibly attending [ICRA 2026](https://if-summer-2026.sciencesconf.org/) in Grenoble, France
-- Visiting [Universität Bielefeld](https://www.uni-bielefeld.de/fakultaeten/mathematik/) in Bielefeld, Germany, which [doesn't exist](https://en.wikipedia.org/wiki/Bielefeld_conspiracy)
+- Tentatively visiting [Universität Bielefeld](https://www.uni-bielefeld.de/fakultaeten/mathematik/) in Bielefeld, Germany, which [doesn't exist](https://en.wikipedia.org/wiki/Bielefeld_conspiracy)
 - Attending [Groups, representations, cohomology: Celebrating the mathematical contributions of Dave Benson](https://icms.ac.uk/activities/workshop/groups-representations-cohomology/) in Edinburgh, UK
 - Attending [Representation theory of  Finite Groups, Schur and Hall Algebras in Honour of Sandy Green](https://sites.google.com/view/sandygreen2026/home) in York, UK
 - Giving a special session talk at [AMS 2026 Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2329_program.html) in Savannah, GA
@@ -17,15 +17,15 @@ subtitle: Places I've gone
 
 ### 2025
 
-- Giving a contributed talk at [Spectrums in Representation Theory of Algebras and Related Topics](https://pabloocal.github.io/SRTART2025/) in Osaka, Japan
-- Visiting [UCLA](https://ww3.math.ucla.edu/) in Los Angeles, CA
+- Giving a contributed talk at [Spectrums in Representation Theory of Algebras and Related Topics](https://pabloocal.github.io/SRTART2025/) in Osaka, Japan (and after, hitting the slopes)
+- Giving a seminar talk at [UCLA](https://ww3.math.ucla.edu/) in Los Angeles, CA
 - Attending [Interactions Between Representation Theory and Homotopy Theory](https://www.math.ku.dk/english/calendar/events/interactions-homotopy-representation-theory/) in Copenhagen, Denmark
 - Returning home to [UC Santa Cruz](https://math.ucsc.edu/) and giving a seminar talk
-- Attending [Tensor Triangular Geometry and Interactions Oberwolfach (Seminar)](https://www.mfo.de/occasion/2543a/www_view) in Oberwolfach, Germany (!!!)
-- Attending [Conference on Homological Commutative Algebra and Related Topics](https://sites.google.com/georgiasouthern.edu/commutative-algebra-2025/home?authuser=0) in Savannah, GA
-- Giving a special session talk at [AMS 2025 Fall Western Sectional Meeting](https://www.ams.org/meetings/sectional/2326_program.html) in Denver, CO
-- Attending [Algebraic Groups at the Grand Canal](https://sites.google.com/view/aggc) in Venice, Italy
-- Giving a special session talk at [AMS 2025 Spring Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2320_program.html) in Hartford, CT
+- Attended [Tensor Triangular Geometry and Interactions Oberwolfach (Seminar)](https://www.mfo.de/occasion/2543a/www_view) in Oberwolfach, Germany 
+- Attended [Conference on Homological Commutative Algebra and Related Topics](https://sites.google.com/georgiasouthern.edu/commutative-algebra-2025/home?authuser=0) in Savannah, GA
+- Gave a special session talk at [AMS 2025 Fall Western Sectional Meeting](https://www.ams.org/meetings/sectional/2326_program.html) in Denver, CO
+- Attended [Algebraic Groups at the Grand Canal](https://sites.google.com/view/aggc) in Venice, Italy
+- Gave a special session talk at [AMS 2025 Spring Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2320_program.html) in Hartford, CT
 - Attended the [Joint Mathematics Meetings](https://jointmathematicsmeetings.org/jmm) and gave a seminar talk at the [University of Washington](https://math.washington.edu/) in lush Seattle, WA
 
 
