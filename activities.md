@@ -18,8 +18,8 @@ subtitle: Things I've done
 ## Organization and Service {#org}
 
 - UGA Algebra Seminar Organizer (2025-)
-- [MathSciNet Reviewer](https://mathscinet.ams.org) (2025-)
-- [UC Santa Cruz Graduate Student Colloquium Organizer](https://docs.google.com/document/d/1ocl6D85ZRwcrCXrQQLfLlR74V2phgLIQgjpi61vT_-s/edit#heading=h.5kolow2jzywc) (2022-2024)
+- [MathSciNet](https://mathscinet.ams.org) Reviewer (2025-)
+- [UCSC Graduate Student Colloquium Organizer](https://docs.google.com/document/d/1ocl6D85ZRwcrCXrQQLfLlR74V2phgLIQgjpi61vT_-s/edit#heading=h.5kolow2jzywc) (2022-2024)
 - UCSC Graduate Student Committee Electoral Board (2022-2023)
 - UCSC Math Department Social Committee Organizer (2021-2022)
 
@@ -46,7 +46,7 @@ subtitle: Things I've done
 ## Expository Writing & Notes {#writing}
 
 - ["Notes on Tensor Induction of Chain Complexes"](https://redrot.github.io/assets/pdf/Partial_Tensor_Induction_on_Chain_Complexes.pdf)
-> Partial notes from a paper that is currently on hold. This is a description of tensor induction of chain complexes, first discovered by Leonard Evens, as well as a few elementary properties that, to our knowledge, have never been written down with proof. 
+> Notes from an old project with my advisor, Robert Boltje. This is a description of tensor induction of chain complexes (due to Evens) as well as a few elementary properties that, to our knowledge, have never been written down with proof. 
 - ["Finding Joy With Combinatorial Games"](https://redrot.github.io/assets/pdf/Combinatorial_Games_Talk_2_25.pdf)
 > Notes I prepared for a talk on combinatorial games. Topics presented are from undergraduate research or communicated from a seminar course from Arthur Benjamin.
 - See my main page for more! 
