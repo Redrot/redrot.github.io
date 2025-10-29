@@ -80,4 +80,22 @@ Here are some things I'm thinking about at the moment. More details will appear 
 > Harvey Mudd College Senior Theses, 109.
 
 
+---
+
+## New format test
+
+| Title | Co-Authors | Reference | arXiv |
+| ----- | ---------- | --------- | ----- |
+| Re-framing the classification of ideals in noncommutative tensor-triangular geometry | [Timothy de Deyn](https://tdedeyn.github.io/) |  | [2510.23767](https://arxiv.org/abs/2510.23767) |
+| Permutation twisted cohomology, remixed | | | [2509.00954](https://arxiv.org/abs/2509.00954) |
+| The Euler characteristic of an endotrivial complex | [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza)  | Submitted | [2508.07404](https://arxiv.org/abs/2508.07404) |
+| On functoriality and the tensor product property in noncommutative tensor-triangular geometry | | Submitted | [2505.01899](https://arxiv.org/abs/2505.01899) |
+| On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups | | Submitted | [2408.04094](https://arxiv.org/abs/2408.04094) | 
+| Galois descent of splendid Rickard equivalences between blocks of $p$-nilpotent groups | | [Proc. Amer. Math. Soc. 153 (5), 1893-1902 (2025)](https://doi.org/10.1090/proc/17230) | [2405.16061](https://arxiv.org/abs/2405.16061) |
+| The classification of endotrivial complexes | | [Adv. Math. 478, 110414 (2025)](https://www.sciencedirect.com/science/article/pii/S0001870825003020) | [2403.04088](https://arxiv.org/abs/2403.04088) |
+| Relatively endotrivial complexes | |  [J. Pure Appl. Algebra, 229 (2), 107867 (2025)](https://www.sciencedirect.com/science/article/pii/S0022404925000064) | [2312.10258](https://arxiv.org/abs/2312.10258) |
+| Brauer pairs for splendid Rickard equivalences | [Jadyn V. Breland](https://people.ucsc.edu/~jbreland/index.html) | Submitted | [2312.10258](https://arxiv.org/abs/2312.10258) |
+| Endotrivial complexes | | [J. Algebra, 650, 173-218 (2024)](https://www.sciencedirect.com/science/article/pii/S0021869324001728) | [2309.12138](https://arxiv.org/abs/2309.12138)|
+| A proof of the optimal leapfrogging conjecture | [Arthur T. Benjamin](https://www.arthurbenjamin.info/) |  [Involve, 18 (1), 105–122 (2025)](https://msp.org/involve/2025/18-1/p05.xhtml) | [2110.08319](https://arxiv.org/abs/2110.08319)
+| Challenging knight's tours | [Arthur T. Benjamin](https://www.arthurbenjamin.info/) | [Math Horizons, 25 (3), 18-21 (2018)](https://www.tandfonline.com/doi/full/10.1080/10724117.2018.1424460) | |
 
