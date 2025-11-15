@@ -3,10 +3,7 @@ title: Research
 subtitle: Things I've thought
 ---
 
-- [Publications and Preprints](#pub)
-- [Ongoing Projects](#inp)
 
----
 
 **Mathematical interests**
 
@@ -41,13 +38,4 @@ subtitle: Things I've thought
 
 ---
 
-## Ongoing Projects {#inp}
 
-Here are some things I'm thinking about at the moment. More details will appear when they exist, or more likely, will be added to the above table. 
-
-- Tensor-triangular geometry vs. Tensor-*exact* or tensor-abelian geometry (w/ [Timothy de Deyn](https://tdedeyn.github.io/))
-- Integral permutation modules (w/ [Juan Omar Gomez](https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0))
-- Things involving permutation module categories for oligomorphic groups  (w/ [Nate Harman](https://www.nateharman.com/))
-- Noetherianity of [the (remixed) twisted cohomology ring](https://arxiv.org/abs/2509.00954)
-- Classification of central thick subcategories of a block algebra $kGb$
-- Is the frame of smashing tensor-ideals spatial? (This is perhaps hard) 
