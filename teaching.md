@@ -12,15 +12,15 @@ subtitle: Things I've taught
 ## At University of Georgia {#uga}
 
 - Spring 2026
-  - Math 1113 *(Precalculus)*
+  - Math 1113 x2 *(Precalculus)*
 - Fall 2025
-  - Math 1113 *(Precalculus)*
+  - Math 1113 x2 *(Precalculus)*
 
 ---
 
 ## UC Santa Cruz {#ucsc}
 
-I was the instructor of record for any course labeled **Graduate Student Instructor**. All other courses I was a teaching assistant for. 
+I was the instructor of record for any course labeled **Graduate Student Instructor**. For all other courses, I was a teaching assistant. 
 
 - Spring 2024
   - MATH 116 *(Combinatorics)*
