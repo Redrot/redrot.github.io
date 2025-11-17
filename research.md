@@ -19,7 +19,7 @@ subtitle: Things I've thought
 
 | Title | Co-Authors | Journal | arXiv |
 | ----- | ---------- | ------- | ----- |
-| **10.** Re-framing the classification of ideals in noncommutative tensor-triangular geometry | [Timothy de Deyn](https://tdedeyn.github.io/) |  | [2510.23767](https://arxiv.org/abs/2510.23767) |
+| **10.** Re-framing the classification of ideals in noncommutative tensor-triangular geometry | [Timothy De Deyn](https://tdedeyn.github.io/) |  | [2510.23767](https://arxiv.org/abs/2510.23767) |
 | **9.** Permutation twisted cohomology, remixed | | | [2509.00954](https://arxiv.org/abs/2509.00954) |
 | **8.** The Euler characteristic of an endotrivial complex | [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza)  | Submitted | [2508.07404](https://arxiv.org/abs/2508.07404) |
 | **15/2.** Permutation Modules and Endotrivial Complexes | Advisor: [Robert Boltje](http://boltje.math.ucsc.edu/) | [Ph.D. Thesis, UC Santa Cruz](https://escholarship.org/uc/item/9h73j2g4) | |
