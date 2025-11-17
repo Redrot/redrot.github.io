@@ -28,7 +28,7 @@ subtitle: Things I've thought
 | **5.** Galois descent of splendid Rickard equivalences between blocks of $p$-nilpotent groups | | [Proc. Amer. Math. Soc. 153 (5), 1893-1902 (2025)](https://doi.org/10.1090/proc/17230) | [2405.16061](https://arxiv.org/abs/2405.16061) |
 | **4.** The classification of endotrivial complexes | | [Adv. Math. 478, 110414 (2025)](https://www.sciencedirect.com/science/article/pii/S0001870825003020) | [2403.04088](https://arxiv.org/abs/2403.04088) |
 | **3.** Relatively endotrivial complexes | |  [J. Pure Appl. Algebra, 229 (2), 107867 (2025)](https://www.sciencedirect.com/science/article/pii/S0022404925000064) | [2402.08042](https://arxiv.org/abs/2402.08042) |
-| **2.** Brauer pairs for splendid Rickard equivalences | [Jadyn V. Breland](https://people.ucsc.edu/~jbreland/index.html) | Submitted | [2312.10258](https://arxiv.org/abs/2312.10258) |
+| **2.** Brauer pairs for splendid Rickard equivalences | [Jadyn V. Breland](https://people.ucsc.edu/~jbreland/index.html) | To appear, J. Algebra | [2312.10258](https://arxiv.org/abs/2312.10258) |
 | **1.** Endotrivial complexes | | [J. Algebra, 650, 173-218 (2024)](https://www.sciencedirect.com/science/article/pii/S0021869324001728) | [2309.12138](https://arxiv.org/abs/2309.12138)|
 | **0.** A proof of the optimal leapfrogging conjecture | [Arthur T. Benjamin](https://www.arthurbenjamin.info/) |  [Involve, 18 (1), 105–122 (2025)](https://msp.org/involve/2025/18-1/p05.xhtml) | [2110.08319](https://arxiv.org/abs/2110.08319)
 | **-1/2.** The Combinatorial Polynomial Hirsch Conjecture | Advisor: [Mohamed Omar](https://www.mohamedomar.org/) | [Harvey Mudd College Senior Theses, 109](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1096&context=hmc_theses) |  |
