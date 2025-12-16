@@ -8,10 +8,10 @@ subtitle: Things I've thought
 **Mathematical interests**
 
 - Non/commutative tensor-triangular geometry
-- Block theory and local-global modular representation theory of finite groups
+- Modular representation theory of finite groups
 - Intersections between representation theory and tensor-triangular geometry
-- Invertible objects and Picard groups
-- Permutation modules and their role in representation theory
+- Invertible objects/Picard groups
+- Permutation modules
 
 ---
 
