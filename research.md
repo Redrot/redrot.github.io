@@ -35,7 +35,7 @@ subtitle: Things I've thought
 | **-1/2.** The Combinatorial Polynomial Hirsch Conjecture | Advisor: [Mohamed Omar](https://www.mohamedomar.org/) | [Harvey Mudd College Senior Theses, 109](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1096&context=hmc_theses) |  |
 | **-1.** Challenging knight's tours | [Arthur T. Benjamin](https://www.arthurbenjamin.info/) | [Math Horizons, 25 (3), 18-21 (2018)](https://www.tandfonline.com/doi/full/10.1080/10724117.2018.1424460) | |
 
-(Listed in chronological order)
+(Listed in chronological order. Non-positive numbers are undergraduate work. Non-integers are non-journal work.)
 
 ---
 
