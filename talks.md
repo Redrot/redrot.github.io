@@ -3,17 +3,6 @@ title: Talks
 subtitle: Things I've said
 ---
 
----
-
-### Upcoming
-
-- UCSC
-- UCLA
-- Osaka
-- Savannah
-
----
-
 
 ### 2026
 
