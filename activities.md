@@ -6,6 +6,7 @@ subtitle: Things I've done
 
 ## Awards {#awd}
 
+- [US Junior Oberwolfach Fellow](https://www.mfo.de/scientific-program/grants/nsf-grant) (2025-2026)
 - [UCSC Department of Mathematics (Inaugural) Outstanding Research Award](https://www.math.ucsc.edu/) (2025)
 - [Sigma Xi Full Membership](https://www.sigmaxi.org/) (2025-)
 - [AMS-Simons Travel Grant](https://www.ams.org/grants-awards/travel-grants/AMS-SimonsTG) (2025-2027)
