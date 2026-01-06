@@ -39,7 +39,7 @@ subtitle: Things I've thought
 
 | TItle | Advisor | Link | 
 | ----- | ------- | ---- |
-| **19/2.** Permutation Modules and Endotrivial Complexes | [Robert Boltje](http://boltje.math.ucsc.edu/) | [Ph.D. Thesis, UC Santa Cruz (2025)](https://escholarship.org/uc/item/9h73j2g4) | 
+| **2.** Permutation Modules and Endotrivial Complexes | [Robert Boltje](http://boltje.math.ucsc.edu/) | [Ph.D. Thesis, UC Santa Cruz (2025)](https://escholarship.org/uc/item/9h73j2g4) | 
 | **1.** The Combinatorial Polynomial Hirsch Conjecture | [Mohamed Omar](https://www.mohamedomar.org/) | [Harvey Mudd College Senior Theses, 109 (2017)](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1096&context=hmc_theses) |  
 
 ---
