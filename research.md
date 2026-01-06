@@ -30,10 +30,12 @@ subtitle: Things I've thought
 | **5.** Relatively endotrivial complexes | |  [J. Pure Appl. Algebra, 229 (2), 107867 (2025)](https://www.sciencedirect.com/science/article/pii/S0022404925000064) | [2402.08042](https://arxiv.org/abs/2402.08042) |
 | **4.** Brauer pairs for splendid Rickard equivalences | [Jadyn V. Breland](https://people.ucsc.edu/~jbreland/index.html) | [J. Algebra, 691, 694-729 (2026)](https://www.sciencedirect.com/science/article/pii/S0021869325006891) | [2312.10258](https://arxiv.org/abs/2312.10258) |
 | **3.** Endotrivial complexes | | [J. Algebra, 650, 173-218 (2024)](https://www.sciencedirect.com/science/article/pii/S0021869324001728) | [2309.12138](https://arxiv.org/abs/2309.12138)|
-| **2** A proof of the optimal leapfrogging conjecture | [Arthur T. Benjamin](https://www.arthurbenjamin.info/) |  [Involve, 18 (1), 105–122 (2025)](https://msp.org/involve/2025/18-1/p05.xhtml) | [2110.08319](https://arxiv.org/abs/2110.08319)
+| **2.** A proof of the optimal leapfrogging conjecture | [Arthur T. Benjamin](https://www.arthurbenjamin.info/) |  [Involve, 18 (1), 105–122 (2025)](https://msp.org/involve/2025/18-1/p05.xhtml) | [2110.08319](https://arxiv.org/abs/2110.08319)
 | **1.** Challenging knight's tours | [Arthur T. Benjamin](https://www.arthurbenjamin.info/) | [Math Horizons, 25 (3), 18-21 (2018)](https://www.tandfonline.com/doi/full/10.1080/10724117.2018.1424460) | |
 
 (Listed by date of first upload to arXiv)
+
+---
 
 ## Theses
 
@@ -41,7 +43,5 @@ subtitle: Things I've thought
 | ----- | ------- | ---- |
 | **2.** Permutation Modules and Endotrivial Complexes | [Robert Boltje](http://boltje.math.ucsc.edu/) | [Ph.D. Thesis, UC Santa Cruz (2025)](https://escholarship.org/uc/item/9h73j2g4) | 
 | **1.** The Combinatorial Polynomial Hirsch Conjecture | [Mohamed Omar](https://www.mohamedomar.org/) | [Harvey Mudd College Senior Theses, 109 (2017)](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1096&context=hmc_theses) |  
-
----
 
 
