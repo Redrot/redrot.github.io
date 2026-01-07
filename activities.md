@@ -16,13 +16,18 @@ subtitle: Things I've done
 
 ---
 
-## Organization and Service {#org}
+## Organization, Mentorship, and Service {#org}
 
 - UGA Algebra Seminar Organizer (2025-)
 - [MathSciNet](https://mathscinet.ams.org) Reviewer (2025-)
 - [UCSC Graduate Student Colloquium Organizer](https://docs.google.com/document/d/1ocl6D85ZRwcrCXrQQLfLlR74V2phgLIQgjpi61vT_-s/edit#heading=h.5kolow2jzywc) (2022-2024)
 - UCSC Graduate Student Committee Electoral Board (2022-2023)
 - UCSC Math Department Social Committee Organizer (2021-2022)
+
+### Mentorship
+
+- UC Santa Cruz Department of Mathematics Peer Mentorship Program (2021-2025)
+- UC Santa Cruz Directed Reading Program (2021, 2024)
 
 ### Referee Service
 
