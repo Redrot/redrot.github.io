@@ -92,17 +92,13 @@ I was the instructor of record for any course labeled **Graduate Student Instruc
   
 ## Other {#other}
 
-- Directed Reading Program
-  - Fall 2021
-  - Mentored an undergraduate learning the theory of modular forms
+- UC Santa Cruz Department of Mathematics Directed Reading Program (2021, 2024)
 
-- Peer Mentorship Program
-  - Fall 2021
-  - Mentored a first-year graduate student with transitioning to graduate school
+- UC Santa Cruz Department of Mathematics Peer Mentorship Program (2021-2025)
 
 - Harvey Mudd College Grutor
   - 2014-2017
-  - As an undergrad, graded and tutored for various math and computer science courses
+  - As an undergraduate, graded and tutored for various math and computer science courses
 
 - [Widjiwagan](https://www.campwidji.org/) Trail Staff
   - Summer 2014, 2015
