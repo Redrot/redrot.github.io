@@ -24,7 +24,7 @@ subtitle: Things I've thought
 | **11.** Permutation twisted cohomology, remixed | | | [2509.00954](https://arxiv.org/abs/2509.00954) |
 | **10.** The Euler characteristic of an endotrivial complex | [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza)  | Submitted | [2508.07404](https://arxiv.org/abs/2508.07404) |
 | **9.** On functoriality and the tensor product property in noncommutative tensor-triangular geometry | | Submitted | [2505.01899](https://arxiv.org/abs/2505.01899) |
-| **8.** On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups | | To appear, Represent. Theory | [2408.04094](https://arxiv.org/abs/2408.04094) | 
+| **8.** On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups | | Submitted | [2408.04094](https://arxiv.org/abs/2408.04094) | 
 | **7.** Galois descent of splendid Rickard equivalences between blocks of $p$-nilpotent groups | | [Proc. Amer. Math. Soc. 153 (5), 1893-1902 (2025)](https://doi.org/10.1090/proc/17230) | [2405.16061](https://arxiv.org/abs/2405.16061) |
 | **6.** The classification of endotrivial complexes | | [Adv. Math. 478, 110414 (2025)](https://www.sciencedirect.com/science/article/pii/S0001870825003020) | [2403.04088](https://arxiv.org/abs/2403.04088) |
 | **5.** Relatively endotrivial complexes | |  [J. Pure Appl. Algebra, 229 (2), 107867 (2025)](https://www.sciencedirect.com/science/article/pii/S0022404925000064) | [2402.08042](https://arxiv.org/abs/2402.08042) |
