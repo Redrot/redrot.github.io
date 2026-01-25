@@ -3,11 +3,13 @@ title: Music
 subtitle: Things I've listened to
 ---
 
-This is an unusual thing to have on an academic website, but music is about as important to me as math, so I figured it deserves a little highlight. I figured I'd start sharing bits of music (generally EPs or LPs) I've been enjoying, sharing music is one of the joys of life to me. Maybe you'll find something new! Links will be to **[Bandcamp](https://www.bandcamp.com)** when possible.
+This is an unusual thing to have on an academic website, but music is about as important to me as math, so I figured it deserves a little highlight. Besides, according to some, [music is math](https://boardsofcanada.bandcamp.com/track/music-is-math). I figured I'd start sharing bits of music (generally EPs or LPs) I've been enjoying, sharing music is one of the joys of life to me. Maybe you'll find something new! Links will be to **[Bandcamp](https://www.bandcamp.com)** when possible.
 
 I've DJed for over a decade, playing primarily trance with some techno and ambient, you can hear those mixes on **[Soundcloud](https://soundcloud.com/sammymmm)**. Finally, here is a clip of me playing with my rock group [Partial Disorder](https://www.youtube.com/shorts/gTOsRkQB-nY)! 
 
 ---
+
+(Last updated September 2025)
 
 ## 2025
 
