@@ -9,6 +9,7 @@ subtitle: Places I've gone
 
 - More to come? Probably!
 - Possibly attending [ICRA 2026](https://if-summer-2026.sciencesconf.org/) in Grenoble, France
+- Visiting the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de/) in Bonn, Germany
 - Tentatively visiting [Universität Bielefeld](https://www.uni-bielefeld.de/fakultaeten/mathematik/) in Bielefeld, Germany, which [doesn't exist](https://en.wikipedia.org/wiki/Bielefeld_conspiracy)
 - Attending [Groups, representations, cohomology: Celebrating the mathematical contributions of Dave Benson](https://icms.ac.uk/activities/workshop/groups-representations-cohomology/) in Edinburgh, UK
 - Attending [Representation theory of  Finite Groups, Schur and Hall Algebras in Honour of Sandy Green](https://sites.google.com/view/sandygreen2026/home) in York, UK
