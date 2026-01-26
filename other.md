@@ -35,7 +35,7 @@ Some pictures:
 
 ## Other interests 
 
-I am an avid reader of [The Sun Magazine](https://www.thesunmagazine.org/) (no, not the tabloid), [Hi Fructose](https://hifructose.com/) (no, not the corn syrup), [Aeon](https://aeon.co/) (no, not the length of time), and [Nautilus](https://nautil.us/) (no, not the mollusk). I occasionally contribute nonsense to the journal of microdadaism [dadakuku](https://dadakuku.com).
+I am an avid reader of [The Sun Magazine](https://www.thesunmagazine.org/) (no, not the tabloid), [Hi Fructose](https://hifructose.com/) (no, not the corn syrup), [Aeon](https://aeon.co/) (no, not the length of time), and [Nautilus](https://nautil.us/) (no, not the mollusk). I occasionally contribute micrononsense to the journal of microdadaism [dadakuku](https://dadakuku.com), see my contributions [here](https://dadakuku.com/category/sam-k-miller/).
 
 Other random hobbies include chess, video games (predominantly indie games and RTSs), origami, slacklining, longboarding, [freeskating](https://www.jmkride.com/), reading, calisthenics, drawing, backgammon, puzzles, and penguins. Feel free to chat about any of these if we meet in the wild! 
 
