@@ -8,12 +8,13 @@ subtitle: Things I've said
 
 
 - 2026 AMS Spring Southeastern Sectional
-> tbd, March 2026
+> Permutation twisted cohomology, remixed, March 2026
 
 ### 2025
 
 - Spectra in Representation Theory of Algebras and Related Topics
-> Endotrivial complexes and twisted cohomology, December 2025    
+> Endotrivial complexes and twisted cohomology, December 2025     
+> [YouTube recording](https://www.youtube.com/watch?v=sVRCXjJMfEQ)     
 - UCLA Algebra Seminar
 > Reframing the classification of thick tensor ideals in noncommutative ttg, November 2025
 - UCSC Algebra Seminar
