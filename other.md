@@ -82,6 +82,8 @@ Other random hobbies include chess, video games (predominantly indie games and R
   - Frank Calegari (UChicago): [Persiflage](https://www.galoisrepresentations.com/)
   - Igor Pak (UCLA): [Igor Pak's blog](https://igorpak.wordpress.com/)
   - Gabe Khan (Fomer Iowa State): [Differential Geometri](https://differentialgeometri.wordpress.com/)
+  - Cosmin Pohoata (Emory): [Pohoatza](https://pohoatza.wordpress.com/)
+  - 
 - Fun Stuff
   - [Math Fun Facts](https://math.hmc.edu/funfacts/)
   - [Theorem of the Day](https://www.theoremoftheday.org/index.php)
