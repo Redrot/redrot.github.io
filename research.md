@@ -21,7 +21,7 @@ subtitle: Things I've thought
 | ----- | ---------- | ------- | ----- |
 | **13.** A semisimple subcategory of Khovanov's Heisenberg category |  | Submitted | [2512.13968](https://arxiv.org/abs/2512.13968) |
 | **12.** Re-framing the classification of ideals in noncommutative tensor-triangular geometry | [Timothy De Deyn](https://tdedeyn.github.io/) | Submitted | [2510.23767](https://arxiv.org/abs/2510.23767) |
-| **11.** Permutation twisted cohomology, remixed | | Not submitted, undergoing significant revision (stay tuned...) | [2509.00954](https://arxiv.org/abs/2509.00954) |
+| **11.** Permutation twisted cohomology, remixed | | Submitted | [2509.00954](https://arxiv.org/abs/2509.00954) |
 | **10.** The Euler characteristic of an endotrivial complex | [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza)  | Submitted | [2508.07404](https://arxiv.org/abs/2508.07404) |
 | **9.** On functoriality and the tensor product property in noncommutative tensor-triangular geometry | | Submitted | [2505.01899](https://arxiv.org/abs/2505.01899) |
 | **8.** On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups | | Accepted, Represent. Theory | [2408.04094](https://arxiv.org/abs/2408.04094) | 
