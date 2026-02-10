@@ -13,6 +13,8 @@ subtitle: Things I've thought
 - Invertible objects/Picard groups
 - Permutation modules
 
+[**Here**](https://www.samkmiller.com/assets/pdf/Current_interests_for_Oberwolfach_Sam_K_Miller.pdf) is an informal summary (for experts in the field) of things I'm currently thinking about as of February 2026.
+
 ---
 
 ## Publications and preprints {#pub}
