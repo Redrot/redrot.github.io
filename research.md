@@ -19,23 +19,23 @@ subtitle: Things I've thought
 
 ## Publications and preprints {#pub}
 
+Listed in chronological order. 
+
 | Title | Co-Authors | Journal | arXiv |
 | ----- | ---------- | ------- | ----- |
-| **13.** A semisimple subcategory of Khovanov's Heisenberg category |  | Submitted | [2512.13968](https://arxiv.org/abs/2512.13968) |
-| **12.** Re-framing the classification of ideals in noncommutative tensor-triangular geometry | [Timothy De Deyn](https://tdedeyn.github.io/) | Submitted | [2510.23767](https://arxiv.org/abs/2510.23767) |
-| **11.** Permutation twisted cohomology, remixed | | Submitted | [2509.00954](https://arxiv.org/abs/2509.00954) |
-| **10.** The Euler characteristic of an endotrivial complex | [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza)  | Submitted | [2508.07404](https://arxiv.org/abs/2508.07404) |
-| **9.** On functoriality and the tensor product property in noncommutative tensor-triangular geometry | | Submitted | [2505.01899](https://arxiv.org/abs/2505.01899) |
-| **8.** On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups | | Accepted, Represent. Theory | [2408.04094](https://arxiv.org/abs/2408.04094) | 
-| **7.** Galois descent of splendid Rickard equivalences between blocks of $p$-nilpotent groups | | [Proc. Amer. Math. Soc. 153 (5), 1893-1902 (2025)](https://doi.org/10.1090/proc/17230) | [2405.16061](https://arxiv.org/abs/2405.16061) |
-| **6.** The classification of endotrivial complexes | | [Adv. Math. 478, 110414 (2025)](https://www.sciencedirect.com/science/article/pii/S0001870825003020) | [2403.04088](https://arxiv.org/abs/2403.04088) |
-| **5.** Relatively endotrivial complexes | |  [J. Pure Appl. Algebra, 229 (2), 107867 (2025)](https://www.sciencedirect.com/science/article/pii/S0022404925000064) | [2402.08042](https://arxiv.org/abs/2402.08042) |
-| **4.** Brauer pairs for splendid Rickard equivalences | [Jadyn V. Breland](https://people.ucsc.edu/~jbreland/index.html) | [J. Algebra, 691, 694-729 (2026)](https://www.sciencedirect.com/science/article/pii/S0021869325006891) | [2312.10258](https://arxiv.org/abs/2312.10258) |
-| **3.** Endotrivial complexes | | [J. Algebra, 650, 173-218 (2024)](https://www.sciencedirect.com/science/article/pii/S0021869324001728) | [2309.12138](https://arxiv.org/abs/2309.12138)|
-| **2.** A proof of the optimal leapfrogging conjecture | [Arthur T. Benjamin](https://www.arthurbenjamin.info/) |  [Involve, 18 (1), 105–122 (2025)](https://msp.org/involve/2025/18-1/p05.xhtml) | [2110.08319](https://arxiv.org/abs/2110.08319)
 | **1.** Challenging knight's tours | [Arthur T. Benjamin](https://www.arthurbenjamin.info/) | [Math Horizons, 25 (3), 18-21 (2018)](https://www.tandfonline.com/doi/full/10.1080/10724117.2018.1424460) | |
-
-Listed in chronological order. Items 1-2 are undergraduate research.
+| **2.** A proof of the optimal leapfrogging conjecture | [Arthur T. Benjamin](https://www.arthurbenjamin.info/) |  [Involve, 18 (1), 105–122 (2025)](https://msp.org/involve/2025/18-1/p05.xhtml) | [2110.08319](https://arxiv.org/abs/2110.08319)
+| **3.** Endotrivial complexes | | [J. Algebra, 650, 173-218 (2024)](https://www.sciencedirect.com/science/article/pii/S0021869324001728) | [2309.12138](https://arxiv.org/abs/2309.12138)|
+| **4.** Brauer pairs for splendid Rickard equivalences | [Jadyn V. Breland](https://people.ucsc.edu/~jbreland/index.html) | [J. Algebra, 691, 694-729 (2026)](https://www.sciencedirect.com/science/article/pii/S0021869325006891) | [2312.10258](https://arxiv.org/abs/2312.10258) |
+| **5.** Relatively endotrivial complexes | |  [J. Pure Appl. Algebra, 229 (2), 107867 (2025)](https://www.sciencedirect.com/science/article/pii/S0022404925000064) | [2402.08042](https://arxiv.org/abs/2402.08042) |
+| **6.** The classification of endotrivial complexes | | [Adv. Math. 478, 110414 (2025)](https://www.sciencedirect.com/science/article/pii/S0001870825003020) | [2403.04088](https://arxiv.org/abs/2403.04088) |
+| **7.** Galois descent of splendid Rickard equivalences between blocks of $p$-nilpotent groups | | [Proc. Amer. Math. Soc. 153 (5), 1893-1902 (2025)](https://doi.org/10.1090/proc/17230) | [2405.16061](https://arxiv.org/abs/2405.16061) |
+| **8.** On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups | | Accepted, Represent. Theory | [2408.04094](https://arxiv.org/abs/2408.04094) | 
+| **9.** On functoriality and the tensor product property in noncommutative tensor-triangular geometry | | Submitted | [2505.01899](https://arxiv.org/abs/2505.01899) |
+| **10.** The Euler characteristic of an endotrivial complex | [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza)  | Submitted | [2508.07404](https://arxiv.org/abs/2508.07404) |
+| **11.** Permutation twisted cohomology, remixed | | Submitted | [2509.00954](https://arxiv.org/abs/2509.00954) |
+| **12.** Re-framing the classification of ideals in noncommutative tensor-triangular geometry | [Timothy De Deyn](https://tdedeyn.github.io/) | Submitted | [2510.23767](https://arxiv.org/abs/2510.23767) |
+| **13.** A semisimple subcategory of Khovanov's Heisenberg category |  | Submitted | [2512.13968](https://arxiv.org/abs/2512.13968) |
 
 ---
 
