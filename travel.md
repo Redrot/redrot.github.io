@@ -15,7 +15,7 @@ subtitle: Places I've gone
 - Attending [Representation theory of  Finite Groups, Schur and Hall Algebras in Honour of Sandy Green](https://sites.google.com/view/sandygreen2026/home) in York, UK
 - Visiting the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de/) in Bonn, Germany
 - Giving a special session talk at [AMS 2026 Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2329_program.html) in Savannah, GA
-- Attending [Cohomology of Finite Groups: Interactions and Applications (Workshop)](https://www.mfo.de/www/activity/2609) in Oberwolfach, Germany (!!!!!!)
+- Attending [Cohomology of Finite Groups: Interactions and Applications (Workshop)](https://www.mfo.de/www/activity/2609) in Oberwolfach, Germany     
 
 ### 2025
 
