@@ -11,6 +11,10 @@ subtitle: Things I've taught
 
 ## At University of Georgia {#uga}
 
+- Spring 2027
+  - Modular representation theory
+- Fall 2026
+  - Math 2250 x2 *(Calc 1)*
 - Spring 2026
   - Math 1113 x2 *(Precalculus)*
 - Fall 2025
