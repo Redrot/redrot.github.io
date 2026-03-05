@@ -3,17 +3,59 @@ title: Music
 subtitle: Things I've listened to
 ---
 
-This is an unusual thing to have on an academic website, but music is about as important to me as math, so I figured it deserves a little highlight. Besides, according to some, [music is math](https://boardsofcanada.bandcamp.com/track/music-is-math). I figured I'd start sharing bits of music (generally EPs or LPs) I've been enjoying, sharing music is one of the joys of life to me. Maybe you'll find something new! Links will be to **[Bandcamp](https://www.bandcamp.com)** when possible.
+This is an unusual thing to have on an academic website, but music is about as important to me as math if not moreso, so it deserves a page. Besides, according to some, [music is math](https://boardsofcanada.bandcamp.com/track/music-is-math). I figured I'd start sharing bits of music (generally EPs or LPs) I've been enjoying, as sharing and discovering music are two of the great joys of life to me. Maybe you'll find something new! Links will be to **[Bandcamp](https://www.bandcamp.com)** when possible.
 
 - I've DJed for over a decade, playing primarily trance with some techno and ambient, you can hear those mixes on **[Soundcloud](https://soundcloud.com/sammymmm)**.
-- Here is a clip of me playing with my rock group [**Partial Disorder**](https://www.youtube.com/shorts/gTOsRkQB-nY)! 
+- Here is a clip of me playing with my former rock group [**Partial Disorder**](https://www.youtube.com/shorts/gTOsRkQB-nY)! 
 - [**Here**](https://soundcloud.com/franklinjen/mango) is a recording by Franklin Jen with me on saxophone.
+
 ---
 
-(Last updated September 2025)
+Links are listed by approximate times I've listened, not by release date. Last updated March 2026.
+
+## 2026
+
+- [Makaya McCraven - Universal Beings](https://intlanthem.bandcamp.com/album/universal-beings) (Jazz Beat stuff)
+- [Aloka - Strange Forms](https://typelessrecords.bandcamp.com/album/strange-forms) (Aggro Breaks)
+- [KMRU - Forge](https://kmru.bandcamp.com/album/forge) (Ambient)
+- [Kindtree - As We Laid Together](https://kindtree.bandcamp.com/track/as-we-laid-together) (Ambient)
+- [Isabel's Dream - Monomara](https://www.discogs.com/release/1107269-Isabels-Dream-Monomara-EP) (Intelligent DnB)
+- [Stasys & Azaleh - Return of the Primordial Garden](https://azaleh.bandcamp.com/album/return-of-the-primordial-garden) (Bass wonk)
+- [Eliana Glass - E](https://elianaglass.bandcamp.com/album/e) (Whimsical piano)
+- [Palm Springs - Turning Yr Back On The Dolphin](https://palmsprings.bandcamp.com/album/turning-yr-back-on-the-dolphin) (Singer-songwriter)
+- [Herbert & Momoko - Clay](https://matthewherbert.bandcamp.com/album/clay) (Downtempo)
+- [pot pot - Warsaw 480km](https://potpot.bandcamp.com/album/warsaw-480km) (Indie)
+- [shower curtain - words from a wishing well](https://showercurtain.bandcamp.com/album/words-from-a-wishing-well-2) (Indie)
+- [Jacques Greene - Serenity](https://jacquesgreene.bandcamp.com/track/serenity) (Breaks)
+- [sixtoo - Duration](https://www.discogs.com/release/361777-6ixtoo-Duration) (Beats) - I ran into this legend at a Kissa in Tokyo. Great conversations! 
+- [Loscil - Ash](https://loscil.bandcamp.com/album/ash) (Desolation)
 
 ## 2025
 
+- [Sigha - Metabolism (Wata Igarashi Remixes)](https://sigha.bandcamp.com/album/metabolism-remixes) (Techno) - honestly, this one's about a decade old on my PC but I fell in love with it again recently
+- [Moodymann - Black Mahogani](https://moodymann.bandcamp.com/album/black-mahogani) (Beats)
+- [Various - Mono No Aware](https://www.discogs.com/release/9816050-Various-Mono-No-Aware) (Ambient)
+- [Voices from the Lake - II](https://voicesfromthelake.bandcamp.com/album/ii) (Dub techno)
+- [ex_libris - 001](https://amadeupsound.bandcamp.com/album/ex-libris-001-2) (World techno?)
+- [Joanne Robertson - Blurrr](https://joannerobertson.bandcamp.com/album/blurrr) (Emo ambient indie)
+- [Oneohtrix Point Never - Tranquilizer](https://oneohtrixpointnever.bandcamp.com/album/tranquilizer) (Happy Anxiety Music)
+- [Kara-Lis Coverdale - Changes in Air](https://kara-liscoverdale.bandcamp.com/album/changes-in-air) (Ambient) - very happy she's back!  
+- [Photek - Solaris](https://www.discogs.com/master/65984-Photek-Solaris) (Drum n' Bass)
+- [Wata Igarashi - My Supernova](https://wataigarashi.bandcamp.com/album/my-supernova) (Chaos techno)
+- [efdemin - Poly](https://ostgut.bandcamp.com/album/poly-2) (Ear music)
+- [Wayne Shorter - Juju](https://www.bluenote.com/spotlight/wayne-shorter-juju/) (Post Bop)
+- [HAAi - Humanize](https://haai.bandcamp.com/album/humanise) (Dance)
+- [The Flashbulb - Kirlian Tapes](https://theflashbulb.bandcamp.com/album/kirlian-tapes-v10) (IDM)
+- [Larnell Lewis - In The Moment](https://larnelllewis.bandcamp.com/album/in-the-moment) (Jazz)
+- [Area 3 - View](https://heart.bandcamp.com/album/view) (Bubbly)
+- [Tim Reaper - sfs](https://timreaper.bandcamp.com/album/sfs) (Beats)
+- [Deepchord pres. Echospace - Liumin](https://www.discogs.com/release/2328489-DeepChord-Presents-Echospace-Liumin) (Dub techno)
+- [Los Thuthanaka - Los Thuthanaka](https://losthuthanaka.bandcamp.com/album/los-thuthanaka-2) (i really dk)
+- [JASSS - Eager Buyers](https://jasssinc.bandcamp.com/album/eager-buyers) (idk)
+- [Thundercat - The Golden Age of Apocalypse](https://thundercat.bandcamp.com/album/the-golden-age-of-apocalypse-ten-year-anniversary-edition) (Thundercat)
+- [Pugilist and Pod - Iridescent](https://pugilist.bandcamp.com/album/iridescent) (Breaks)
+- [Verses GT (Nosaj Thing, Jacques Greene) - Verses GT](https://versesgt.bandcamp.com/album/verses-gt) (Beats)
+- [Rival Consoles - Landscape From Memory](https://rivalconsoles.bandcamp.com/album/landscape-from-memory) (IDM)
 - [Purelink - Signs](https://purelink.bandcamp.com/album/signs) (Dub techno)
 - [Sonic Youth - Washing Machine](https://en.wikipedia.org/wiki/Washing_Machine_(album)) (Experimental rock)
 - [fka Twigs - EP2](https://www.discogs.com/master/610811-FKA-Twigs-EP2) (Hyperpop)
@@ -74,3 +116,5 @@ This is an unusual thing to have on an academic website, but music is about as i
 - [Pharoah Sanders - Elevation](https://www.discogs.com/master/54142-Pharoah-Sanders-Elevation) (Spiritual Jazz)
 - [Ryuichi Sakamoto and Alva Noto - Two (Live at Sydney Opera House)](https://www.discogs.com/master/1637023-Alva-Noto-Ryuichi-Sakamoto-Two-Live-At-Sydney-Opera-House) (Experimental/Ambient)
 - [The Phantom's Revenge - ALL AT ONCE](https://onemoreslice.bandcamp.com/album/all-at-once-3) (House?) Favorite track title: "out getting bread with the energy of someone being tracked by several government agencies while trying to escape an avalanche"
+- [Woolymammoth - Filling Spots](https://woolymammothofficial.bandcamp.com/album/filling-spots) (Bass/Glitch)
+- [Jan Jelinek - Loop-Finding-Jazz-Records](https://janjelinek.bandcamp.com/album/loop-finding-jazz-records) (Textures)
