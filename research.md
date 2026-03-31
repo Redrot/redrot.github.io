@@ -23,6 +23,7 @@ subtitle: Things I've thought
 - Permutation twisted cohomology (the finite groups remix)
 - The tensor-triangular geometry of tensor categories (ongoing w/ a few people)
 - Local Picard groups for permutation modules
+- Noncommutative tensor-triangular geometry of $p$-group algebras (ongoing with K. Vashaw)
 
 ## Publications and preprints {#pub}
 
