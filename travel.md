@@ -7,14 +7,17 @@ subtitle: Places I've gone
 
 ### 2026
 
-- Potentially attending [Spectral Methods in Algebra, Geometry, and Topology](https://www.mathematics.uni-bonn.de/him/programs/follow-up-workshops/2026_08_24) in Bonn, Germany
+- Attending [Spectral Methods in Algebra, Geometry, and Topology](https://www.mathematics.uni-bonn.de/him/programs/follow-up-workshops/2026_08_24) in Bonn, Germany
 - Attending [Tensor categories in representation theory & vice versa](https://sites.google.com/view/reptensor) in Uppsala, Sweden
 - Attending [ICRA 2026](https://if-summer-2026.sciencesconf.org/) in Grenoble, France
 - Visiting [University of Warwick Mathematics Institute](https://warwick.ac.uk/fac/sci/maths/) in Coventry, UK
 - Attending [Groups, representations, cohomology: Celebrating the mathematical contributions of Dave Benson](https://icms.ac.uk/activities/workshop/groups-representations-cohomology/) in Edinburgh, UK
-- Attending [Representation theory of  Finite Groups, Schur and Hall Algebras in Honour of Sandy Green](https://sites.google.com/view/sandygreen2026/home) in York, UK
+- Visiting [Aaurhus University](https://math.au.dk/en/) in Aarhus, Denmark
 - Visiting [Universität Bielefeld](https://www.uni-bielefeld.de/fakultaeten/mathematik/) in Bielefeld, Germany, which [doesn't exist](https://en.wikipedia.org/wiki/Bielefeld_conspiracy)
-- Giving a special session talk at [AMS 2026 Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2329_program.html) in Savannah, GA
+- Giving a seminar talk at [UCSD](https://www.math.ucsd.edu/), CA
+- Visiting [UCLA](https://ww3.math.ucla.edu/) in Los Angeles, CA
+- Giving a seminar talk at [LSU](https://www.math.lsu.edu/) in Baton Rouge, LA
+- Gave a special session talk at [AMS 2026 Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2329_program.html) in Savannah, GA
 - Speaking at [Cohomology of Finite Groups: Interactions and Applications (Workshop)](https://www.mfo.de/www/activity/2609) in Oberwolfach, Germany     
 
 ### 2025
