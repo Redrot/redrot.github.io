@@ -17,6 +17,13 @@ subtitle: Things I've thought
 
 ---
 
+## In preparation
+
+- Integral endotrivial complexes (w/ J. O. Gomez)
+- Permutation twisted cohomology (the finite groups remix)
+- The tensor-triangular geometry of tensor categories (ongoing w/ a few people)
+- Local Picard groups for permutation modules
+
 ## Publications and preprints {#pub}
 
 Listed in chronological order. 
