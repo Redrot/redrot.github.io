@@ -6,6 +6,9 @@ subtitle: Things I've said
 
 ### 2026
 
+- University of Warwick Algebra Seminar, June
+- UCSD Algebra Seminar, May
+- LSU Algebra Seminar, April (tentative)
 - 2026 AMS Spring Southeastern Sectional: Special Session on Algebraic, Combinatorial and Geometric Aspects of Representation Theory, March
 - Oberwolfach Workshop 2609: Cohomology of Finite Groups: Interactions and Applications, February
 
