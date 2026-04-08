@@ -7,6 +7,7 @@ subtitle: Things I've said
 ### 2026
 
 - University of Warwick Algebra Seminar, June
+- UCI Algebra Seminar, May (tentative)
 - UCSD Algebra Seminar, May
 - LSU Algebra Seminar, April (tentative)
 - 2026 AMS Spring Southeastern Sectional: Special Session on Algebraic, Combinatorial and Geometric Aspects of Representation Theory, March
