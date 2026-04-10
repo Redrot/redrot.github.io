@@ -24,7 +24,7 @@ subtitle: Things I've done
 - UCSC Graduate Student Committee Electoral Board (2022-2023)
 - UCSC Math Department Social Committee Organizer (2021-2022)
 
-### Conferences
+### Conferences Organized
 
 - [2026 Fall Southeastern Sectional Meeting, Special Session on geometric and homological methods in representation theory](https://www.ams.org/meetings/sectional/2339_program_ss30.html#title)
 - [2026 Fall Western Sectional Meeting, Special session on new developments in finite groups and representation theory](https://www.ams.org/meetings/sectional/2335_special.html)
