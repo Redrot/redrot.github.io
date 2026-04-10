@@ -14,7 +14,7 @@ subtitle: Places I've gone
 - Attending [Groups, representations, cohomology: Celebrating the mathematical contributions of Dave Benson](https://icms.ac.uk/activities/workshop/groups-representations-cohomology/) in Edinburgh, UK
 - Visiting [Aaurhus University](https://math.au.dk/en/) in Aarhus, Denmark
 - Visiting [Universität Bielefeld](https://www.uni-bielefeld.de/fakultaeten/mathematik/) in Bielefeld, Germany, which [doesn't exist](https://en.wikipedia.org/wiki/Bielefeld_conspiracy)
-- (Tentatively) giving a seminar talk at [UCI](https://www.math.uci.edu/) in Irvine, CA
+- Giving a seminar talk at [UCI](https://www.math.uci.edu/) in Irvine, CA
 - Giving a seminar talk at [UCSD](https://www.math.ucsd.edu/) in San Diego, CA
 - Visiting [UCLA](https://ww3.math.ucla.edu/) in Los Angeles, CA
 - (Tentatively) Giving a seminar talk at [LSU](https://www.math.lsu.edu/) in Baton Rouge, LA
