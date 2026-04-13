@@ -7,6 +7,7 @@ subtitle: Things I've said
 ### 2026
 
 - University of Warwick Algebra Seminar, June
+- University of Bielefeld BIREP Oberseminar, May
 - UCI Algebra Seminar, May
 - UCSD Algebra Seminar, May
 - LSU Algebra Seminar, April (tentative)
