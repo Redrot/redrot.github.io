@@ -13,7 +13,7 @@ subtitle: Places I've gone
 - Visiting [University of Warwick Mathematics Institute](https://warwick.ac.uk/fac/sci/maths/) in Coventry, UK
 - Attending [Groups, representations, cohomology: Celebrating the mathematical contributions of Dave Benson](https://icms.ac.uk/activities/workshop/groups-representations-cohomology/) in Edinburgh, UK
 - Visiting [Aaurhus University](https://math.au.dk/en/) in Aarhus, Denmark
-- Visiting [Universität Bielefeld](https://www.uni-bielefeld.de/fakultaeten/mathematik/) in Bielefeld, Germany, which [doesn't exist](https://en.wikipedia.org/wiki/Bielefeld_conspiracy)
+- Giving a oberseminar talk at [Universität Bielefeld](https://www.uni-bielefeld.de/fakultaeten/mathematik/) in Bielefeld, Germany, which [doesn't exist](https://en.wikipedia.org/wiki/Bielefeld_conspiracy)
 - Giving a seminar talk at [UCI](https://www.math.uci.edu/) in Irvine, CA
 - Giving a seminar talk at [UCSD](https://www.math.ucsd.edu/) in San Diego, CA
 - Visiting [UCLA](https://ww3.math.ucla.edu/) in Los Angeles, CA
