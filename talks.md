@@ -10,7 +10,6 @@ subtitle: Things I've said
 - University of Bielefeld BIREP Oberseminar, May
 - UCI Algebra Seminar, May
 - UCSD Algebra Seminar, May
-- LSU Algebra Seminar, April (tentative)
 - 2026 AMS Spring Southeastern Sectional: Special Session on Algebraic, Combinatorial and Geometric Aspects of Representation Theory, March
 - Oberwolfach Workshop 2609: Cohomology of Finite Groups: Interactions and Applications, February
 
