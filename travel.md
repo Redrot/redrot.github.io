@@ -17,7 +17,6 @@ subtitle: Places I've gone
 - Giving a seminar talk at [UCI](https://www.math.uci.edu/) in Irvine, CA
 - Giving a seminar talk at [UCSD](https://www.math.ucsd.edu/) in San Diego, CA
 - Visiting [UCLA](https://ww3.math.ucla.edu/) in Los Angeles, CA
-- (Tentatively) Giving a seminar talk at [LSU](https://www.math.lsu.edu/) in Baton Rouge, LA
 - Gave a special session talk at [AMS 2026 Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2329_program.html) in Savannah, GA
 - Speaking at [Cohomology of Finite Groups: Interactions and Applications (Workshop)](https://www.mfo.de/www/activity/2609) in Oberwolfach, Germany     
 
