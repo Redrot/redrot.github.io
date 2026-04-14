@@ -25,6 +25,8 @@ subtitle: Things I've thought
 - Local Picard groups for permutation modules
 - Noncommutative tensor-triangular geometry of $p$-group algebras (ongoing with K. Vashaw)
 
+--
+
 ## Publications and preprints {#pub}
 
 Listed in chronological order. 
@@ -47,9 +49,17 @@ Listed in chronological order.
 
 ---
 
+## Proceedings
+
+| Title | Proceedings |
+| ----- | ----------- |
+| **1.** Endotrivial complexes and remixed twisted cohomology | [Oberwolfach Seminars (9), 12-16 (2026)](https://publications.mfo.de/handle/mfo/4416) | 
+
+--- 
+
 ## Theses
 
-| TItle | Advisor | Link | 
+| Title | Advisor | Link | 
 | ----- | ------- | ---- |
 | **1.** The Combinatorial Polynomial Hirsch Conjecture | [Mohamed Omar](https://www.mohamedomar.org/) | [Harvey Mudd College Senior Theses, 109 (2017)](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1096&context=hmc_theses) |  
 | **2.** Permutation Modules and Endotrivial Complexes | [Robert Boltje](http://boltje.math.ucsc.edu/) | [Ph.D. Thesis, UC Santa Cruz (2025)](https://escholarship.org/uc/item/9h73j2g4) | 
