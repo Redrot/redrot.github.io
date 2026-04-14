@@ -21,9 +21,10 @@ subtitle: Things I've thought
 
 - Integral endotrivial complexes (w/ J. O. Gomez)
 - Permutation twisted cohomology (the finite groups remix)
-- The tensor-triangular geometry of tensor categories (ongoing w/ a few people)
+- The tensor-triangular geometry of tensor categories (w/ T. De Deyn, N. Harman)
 - Local Picard groups for permutation modules
 - Noncommutative tensor-triangular geometry of $p$-group algebras (ongoing with K. Vashaw)
+- Something about central subcategories in the sense of Krause
 
 --
 
