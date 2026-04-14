@@ -53,7 +53,7 @@ Listed in chronological order.
 
 | Title | Proceedings |
 | ----- | ----------- |
-| **1.** Endotrivial complexes and remixed twisted cohomology | [Oberwolfach Seminars (9), 12-16 (2026)](https://publications.mfo.de/handle/mfo/4416) | 
+| **1.** Endotrivial complexes and remixed twisted cohomology | [Oberwolfach Reports 23 (9), 12-16 (2026)](https://publications.mfo.de/handle/mfo/4416) | 
 
 --- 
 
