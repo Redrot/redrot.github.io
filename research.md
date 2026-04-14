@@ -24,9 +24,9 @@ subtitle: Things I've thought
 - The tensor-triangular geometry of tensor categories (w/ T. De Deyn, N. Harman)
 - Local Picard groups for permutation modules
 - Noncommutative tensor-triangular geometry of $p$-group algebras (ongoing with K. Vashaw)
-- Something about central subcategories in the sense of Krause
+- Something about central subcategories (in the sense of Krause)
 
---
+---
 
 ## Publications and preprints {#pub}
 
