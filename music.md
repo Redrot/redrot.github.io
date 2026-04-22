@@ -27,8 +27,9 @@ Links are listed by approximate times I've listened, not by release date. Last u
 - [pot pot - Warsaw 480km](https://potpot.bandcamp.com/album/warsaw-480km) (Indie)
 - [shower curtain - words from a wishing well](https://showercurtain.bandcamp.com/album/words-from-a-wishing-well-2) (Indie)
 - [Jacques Greene - Serenity](https://jacquesgreene.bandcamp.com/track/serenity) (Breaks)
-- [sixtoo - Duration](https://www.discogs.com/release/361777-6ixtoo-Duration) (Beats) - I ran into this legend at a Kissa in Tokyo. Great conversations! 
+- [sixtoo - Duration](https://www.discogs.com/release/361777-6ixtoo-Duration) (Beats) - I ran into this legend at a kissa in Tokyo. Great conversations! 
 - [Loscil - Ash](https://loscil.bandcamp.com/album/ash) (Desolation)
+- [Ben Babbitt - Kentucky Route Zero - Memory Overflow](https://benbabbitt.bandcamp.com/album/kentucky-route-zero-memory-overflow) (VGM/ambient) - it is also worth checking out the [game](https://kentuckyroutezero.com/), a masterpiece of surreal, interactive storytelling
 
 ## 2025
 
