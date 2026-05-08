@@ -8,6 +8,7 @@ subtitle: Things I've said
 
 - University of Utah, ????
 - Harvard University, ????
+- 2026 AMS Fall Western Sectional, November
 - University of Warwick Algebra Seminar, June
 - University of Bielefeld BIREP Oberseminar, May
 - UCI Algebra Seminar, May
