@@ -19,7 +19,6 @@ subtitle: Things I've thought
 
 ## In preparation
 
-- Integral endotrivial complexes (w/ J. O. Gomez)
 - Permutation twisted cohomology (the finite groups remix)
 - The tensor-triangular geometry of tensor categories (w/ T. De Deyn, N. Harman)
 - Local Picard groups for permutation modules
@@ -47,6 +46,7 @@ Listed in chronological order.
 | **11.** Permutation twisted cohomology, remixed | | Submitted | [2509.00954](https://arxiv.org/abs/2509.00954) |
 | **12.** Re-framing the classification of ideals in noncommutative tensor-triangular geometry | [Timothy De Deyn](https://tdedeyn.github.io/) | Submitted | [2510.23767](https://arxiv.org/abs/2510.23767) |
 | **13.** A semisimple subcategory of Khovanov's Heisenberg category |  | Submitted | [2512.13968](https://arxiv.org/abs/2512.13968) |
+| **14.** The classification of integral endotrivial complexes | [Juan Omar Gómez](https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0) | | | 
 
 ---
 
