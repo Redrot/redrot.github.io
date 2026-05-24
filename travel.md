@@ -10,15 +10,16 @@ subtitle: Places I've gone
 - Organizing and speaking at some special sessions at [AMS 2026 Fall Western Sectional Meeting](https://www.ams.org/meetings/sectional/2335_program.html) in Tempe, AZ
 - Organizing a special session at [AMS 2026 Fall Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2339_program.html) in Kennesaw, GA
 - Attending [Spectral Methods in Algebra, Geometry, and Topology](https://www.mathematics.uni-bonn.de/him/programs/follow-up-workshops/2026_08_24) in Bonn, Germany
+- Possibly attending [Future Directions in Tensor Categories](https://math-events.uni-bonn.de/event/838/) in Bonn, Germany
 - Attending [ICRA 2026](https://if-summer-2026.sciencesconf.org/) in Grenoble, France
-- Visiting [University of Warwick Mathematics Institute](https://warwick.ac.uk/fac/sci/maths/) in Coventry, UK
+- Giving a talk at [University of Warwick Mathematics Institute](https://warwick.ac.uk/fac/sci/maths/) in Coventry, UK
 - Attending [Groups, representations, cohomology: Celebrating the mathematical contributions of Dave Benson](https://icms.ac.uk/activities/workshop/groups-representations-cohomology/) in Edinburgh, UK
-- Visiting [Aaurhus University](https://math.au.dk/en/) in Aarhus, Denmark
+- Giving a talk at [Aaurhus University](https://math.au.dk/en/) in Aarhus, Denmark
 - Giving a oberseminar talk at [Universität Bielefeld](https://www.uni-bielefeld.de/fakultaeten/mathematik/) in Bielefeld, Germany, which [doesn't exist](https://en.wikipedia.org/wiki/Bielefeld_conspiracy)
-- Visiting [UC Berkeley](https://math.berkeley.edu/) in Berkeley, CA
-- Giving a seminar talk at [UC Irvine](https://www.math.uci.edu/) in Irvine, CA
-- Giving a seminar talk at [UCSD](https://www.math.ucsd.edu/) in San Diego, CA
-- Visiting [UCLA](https://ww3.math.ucla.edu/) in Los Angeles, CA
+- Visited [UC Berkeley](https://math.berkeley.edu/) in Berkeley, CA. Chaotic note: I visited 4 UCs in 4 days that week.
+- Gave a seminar talk at [UC Irvine](https://www.math.uci.edu/) in Irvine, CA
+- Gave a seminar talk at [UCSD](https://www.math.ucsd.edu/) in San Diego, CA
+- Visited [UCLA](https://ww3.math.ucla.edu/) in Los Angeles, CA
 - Gave a special session talk at [AMS 2026 Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2329_program.html) in Savannah, GA
 - Speaking at [Cohomology of Finite Groups: Interactions and Applications (Workshop)](https://www.mfo.de/www/activity/2609) in Oberwolfach, Germany     
 
