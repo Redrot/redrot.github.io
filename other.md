@@ -7,7 +7,6 @@ subtitle: Things that don't belong
 - [Other interests](#other)
 - [Application materials](#apps)
 - [Random math links](#links)
-- [Friends](#friends)
 
 ---
 
@@ -38,6 +37,8 @@ Some pictures:
 I am an avid reader of [The Sun Magazine](https://www.thesunmagazine.org/) (no, not the tabloid), [Hi Fructose](https://hifructose.com/) (no, not the corn syrup), [Aeon](https://aeon.co/) (no, not the length of time), and [Nautilus](https://nautil.us/) (no, not the mollusk). I occasionally contribute micrononsense to the journal of microdadaism [dadakuku](https://dadakuku.com), see my contributions [here](https://dadakuku.com/category/sam-k-miller/).
 
 Other random hobbies include chess, video games (predominantly indie games and RTSs), origami, slacklining, longboarding, [freeskating](https://www.jmkride.com/), reading, calisthenics, drawing, backgammon, puzzles, and penguins. Feel free to chat about any of these if we meet in the wild! 
+
+[My mom](https://jinsookim.info) is an incredibly talented contemporary artist. 
 
 ---
 
@@ -83,7 +84,6 @@ Other random hobbies include chess, video games (predominantly indie games and R
   - Igor Pak (UCLA): [Igor Pak's blog](https://igorpak.wordpress.com/)
   - Gabe Khan (Fomer Iowa State): [Differential Geometri](https://differentialgeometri.wordpress.com/)
   - Cosmin Pohoata (Emory): [Pohoatza](https://pohoatza.wordpress.com/)
-  - 
 - Fun Stuff
   - [Math Fun Facts](https://math.hmc.edu/funfacts/)
   - [Theorem of the Day](https://www.theoremoftheday.org/index.php)
@@ -96,29 +96,8 @@ Other random hobbies include chess, video games (predominantly indie games and R
   - [Igor Pak, How to write](https://www.math.ucla.edu/~pak/papers/how-to-write1.pdf)
   - [Terrance Tao, Work hard (and many other linked advice articles)](https://terrytao.wordpress.com/career-advice/work-hard/)
   - [Terrance Tao, There's more to mathematics than rigour and proofs](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)
-- Open-source journals
-  - [Annals of Representation Theory](https://art.centre-mersenne.org/)
-  - Forum of Math, [Pi](https://www.cambridge.org/core/journals/forum-of-mathematics-pi)/[Sigma](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma)
-  - [Journal de l'Ecole Polytechnique](https://jep.math.cnrs.fr/index.php/JEP/)
+
   
 More to be added eventually!
 
----
-
-## Friends {#friends}
-
-My friends do cool things too! Here are some of their websites. (If you are my friend and are mad you are not listed, contact me and I'll rectify this tremendous oversight.)
-
-- Deewang Bhamidipati ([bdeewang.com](https://bdeewang.com))
-- Jadyn Breland ([people.ucsc.edu/~jbreland/about.html](https://people.ucsc.edu/~jbreland))
-- Alex Calderwood ([nonsens.ing](https://nonsens.ing))
-- Rafael Fernandes ([rafaelalmfernandes.github.io](https://rafaelalmfernandes.github.io))
-- Jen Guererro ([sites.google.com/view/jennifer-s-guerrero/home](https://sites.google.com/view/jennifer-s-guerrero/home))
-- Jin Soo Kim (aka 엄마) ([jinsookim.info](https://jinsookim.info))
-- Jay Honnold ([honnold.me](https://honnold.me))
-- Francois Monard ([people.ucsc.edu/~fmonard](https://people.ucsc.edu/~fmonard))
-- Pedro Fernandez Morales-Almazán ([pedromoralesalmazan.com](http://www.pedromoralesalmazan.com))
-- Jack O'Donnell ([hodonnell.com](https://www.jhodonnell.com))
-- Will Wharton ([willwharton.me](https://www.willwharton.me))
-- Hongwei Zhou ([normand-1024.github.io](https://normand-1024.github.io))
 
