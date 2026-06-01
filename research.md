@@ -1,29 +1,29 @@
 ---
 title: Research
-subtitle: Things I've thought
+subtitle: Things I've written
 ---
-
-
 
 **Mathematical interests**
 
-- Non/commutative tensor-triangular geometry
 - Modular representation theory of finite groups
 - Intersections between representation theory and tensor-triangular geometry
+- Non/commutative tensor-triangular geometry
 - Invertible objects/Picard groups
 - Permutation modules
+- Tensor categories, oligomorphic groups
 
 [**Here**](https://www.samkmiller.com/assets/pdf/Current_interests_for_Oberwolfach_Sam_K_Miller.pdf) is an informal summary (for experts in the field) of things I'm currently thinking about as of February 2026.
 
 ---
 
-## In preparation
+## In preparation / Ongoing projects
 
-- Permutation twisted cohomology (the finite groups remix)
-- The tensor-triangular geometry of tensor categories (w/ T. De Deyn, N. Harman)
+- Permutation twisted cohomology (the finite groups remix, Noetherianity(!!)) (w/ J. O. Gómez)
+- The tensor-triangular geometry of tensor categories (w/ T. De Deyn)
+- The tensor-triangular geometry of some oligomorphic groups (possibly multiple projects or merged with above, w/ N. Harman, maybe more)
 - Local Picard groups for permutation modules
-- Noncommutative tensor-triangular geometry of $p$-group algebras (ongoing with K. Vashaw)
-- Something about central subcategories (in the sense of Krause)
+- Noncommutative tensor-triangular geometry of $p$-group algebras (w/ K. Vashaw)
+- Something about central triangulated subcategories (in the sense of Krause)
 
 ---
 
