@@ -10,12 +10,10 @@ subtitle: Places I've gone
 - Organizing and speaking at some special sessions at [AMS 2026 Fall Western Sectional Meeting](https://www.ams.org/meetings/sectional/2335_program.html) in Tempe, AZ
 - Organizing a special session at [AMS 2026 Fall Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2339_program.html) in Kennesaw, GA
 - Attending [Spectral Methods in Algebra, Geometry, and Topology](https://www.mathematics.uni-bonn.de/him/programs/follow-up-workshops/2026_08_24) in Bonn, Germany
-- Possibly attending [Future Directions in Tensor Categories](https://math-events.uni-bonn.de/event/838/) in Bonn, Germany
-- Attending [ICRA 2026](https://if-summer-2026.sciencesconf.org/) in Grenoble, France
-- Giving a talk at [University of Warwick Mathematics Institute](https://warwick.ac.uk/fac/sci/maths/) in Coventry, UK
+- Didn't give a talk at [University of Warwick Mathematics Institute](https://warwick.ac.uk/fac/sci/maths/) in Coventry, UK due to illness 
 - Attending [Groups, representations, cohomology: Celebrating the mathematical contributions of Dave Benson](https://icms.ac.uk/activities/workshop/groups-representations-cohomology/) in Edinburgh, UK
-- Giving a talk at [Aaurhus University](https://math.au.dk/en/) in Aarhus, Denmark
-- Giving a oberseminar talk at [Universität Bielefeld](https://www.uni-bielefeld.de/fakultaeten/mathematik/) in Bielefeld, Germany, which [doesn't exist](https://en.wikipedia.org/wiki/Bielefeld_conspiracy)
+- Gave a talk at [Aaurhus University](https://math.au.dk/en/) in Aarhus, Denmark
+- Gave a oberseminar talk at [Universität Bielefeld](https://www.uni-bielefeld.de/fakultaeten/mathematik/) in Bielefeld, Germany, which [doesn't exist](https://en.wikipedia.org/wiki/Bielefeld_conspiracy)
 - Visited [UC Berkeley](https://math.berkeley.edu/) in Berkeley, CA. Chaotic note: I visited 4 UCs in 4 days that week.
 - Gave a seminar talk at [UC Irvine](https://www.math.uci.edu/) in Irvine, CA
 - Gave a seminar talk at [UCSD](https://www.math.ucsd.edu/) in San Diego, CA
