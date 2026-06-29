@@ -19,8 +19,7 @@ subtitle: Things I've written
 ## In preparation / Ongoing projects
 
 - Permutation twisted cohomology (the finite groups remix, Noetherianity(!!)) (w/ J. O. Gómez)
-- The tensor-triangular geometry of tensor categories (w/ T. De Deyn)
-- The tensor-triangular geometry of some oligomorphic groups (possibly multiple projects or merged with above, w/ N. Harman, maybe more)
+- The tensor-triangular geometry of some oligomorphic groups (w/ N. Harman)
 - Local Picard groups for permutation modules
 - Noncommutative tensor-triangular geometry of $p$-group algebras (w/ K. Vashaw)
 - Something with central triangulated subcategories (in the sense of Krause)
@@ -46,7 +45,7 @@ Listed in chronological order.
 | **11.** Permutation twisted cohomology, remixed | | Submitted | [2509.00954](https://arxiv.org/abs/2509.00954) |
 | **12.** Re-framing the classification of ideals in noncommutative tensor-triangular geometry | [Timothy De Deyn](https://tdedeyn.github.io/) | Submitted | [2510.23767](https://arxiv.org/abs/2510.23767) |
 | **13.** A semisimple subcategory of Khovanov's Heisenberg category |  | Submitted | [2512.13968](https://arxiv.org/abs/2512.13968) |
-| **14.** The classification of integral endotrivial complexes | [Juan Omar Gómez](https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0) | | [2605.31128](https://arxiv.org/abs/2605.31128) | 
+| **14.** The classification of integral endotrivial complexes | [Juan Omar Gómez](https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0) | Submitted | [2605.31128](https://arxiv.org/abs/2605.31128) | 
 
 ---
 
