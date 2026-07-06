@@ -10,25 +10,26 @@ subtitle: Things I've written
 - Non/commutative tensor-triangular geometry
 - Invertible objects/Picard groups
 - Permutation modules
-- Tensor categories, oligomorphic groups
+- Tensor categories, pre-Tannakian categories, oligomorphic groups
 
-[**Here**](https://www.samkmiller.com/assets/pdf/Current_interests_for_Oberwolfach_Sam_K_Miller.pdf) is an informal summary (for experts in the field) of things I'm currently thinking about as of February 2026.
+[**Here**](https://www.samkmiller.com/assets/pdf/Current_interests_for_Oberwolfach_Sam_K_Miller.pdf) is an informal summary (for experts in the field) of things I'm currently thinking about as of February 2026. Certain questions posed here may have or have not been answered.
 
 ---
 
 ## In preparation / Ongoing projects
 
-- Permutation twisted cohomology (the finite groups remix, Noetherianity(!!)) (w/ J. O. Gómez)
-- The tensor-triangular geometry of some oligomorphic groups (w/ N. Harman)
+- Permutation twisted cohomology for all finite groups + Noetherianity(!!) (w/ J. O. Gómez)
+- Tensor-triangular geometry of some oligomorphic groups (w/ N. Harman)
 - Local Picard groups for permutation modules
-- Noncommutative tensor-triangular geometry of $p$-group algebras (w/ K. Vashaw)
-- Something with central triangulated subcategories (in the sense of Krause)
+- Questions about the stable permutation category (w/ M. Gallauer)
+- Noncommutative tensor-triangular geometry of group algebras (w/ K. Vashaw)
+- Something with central triangulated subcategories in the sense of Krause (maybe w/ G. Stevenson)
 
 ---
 
 ## Publications and preprints {#pub}
 
-Listed in chronological order. 
+Listed in chronological order. 1 and 2 are undergraduate research.
 
 | Title | Co-Authors | Journal | arXiv |
 | ----- | ---------- | ------- | ----- |
@@ -41,7 +42,7 @@ Listed in chronological order.
 | **7.** Galois descent of splendid Rickard equivalences between blocks of $p$-nilpotent groups | | [Proc. Amer. Math. Soc. 153 (5), 1893-1902 (2025)](https://doi.org/10.1090/proc/17230) | [2405.16061](https://arxiv.org/abs/2405.16061) |
 | **8.** On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups | | [Represent. Theory 30, 151-174 (2026)](https://pubs.ams.org/ERT/2026-30-06/S1088-4165-2026-00712-8) | [2408.04094](https://arxiv.org/abs/2408.04094) | 
 | **9.** On functoriality and the tensor product property in noncommutative tensor-triangular geometry | | Submitted | [2505.01899](https://arxiv.org/abs/2505.01899) |
-| **10.** The Euler characteristic of an endotrivial complex | [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza)  | Accepted, JPAA (Dan Nakano special issue) | [2508.07404](https://arxiv.org/abs/2508.07404) |
+| **10.** The Euler characteristic of an endotrivial complex | [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza)  | Accepted, JPAA (Birthday volume for Dan Nakano) | [2508.07404](https://arxiv.org/abs/2508.07404) |
 | **11.** Permutation twisted cohomology, remixed | | Submitted | [2509.00954](https://arxiv.org/abs/2509.00954) |
 | **12.** Re-framing the classification of ideals in noncommutative tensor-triangular geometry | [Timothy De Deyn](https://tdedeyn.github.io/) | Submitted | [2510.23767](https://arxiv.org/abs/2510.23767) |
 | **13.** A semisimple subcategory of Khovanov's Heisenberg category |  | Submitted | [2512.13968](https://arxiv.org/abs/2512.13968) |
