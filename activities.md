@@ -8,7 +8,7 @@ subtitle: Things I've done
 
 - [US Junior Oberwolfach Fellow](https://www.mfo.de/scientific-program/grants/nsf-grant) (2025-2026)
 - [UCSC Department of Mathematics (Inaugural) Outstanding Research Award](https://www.math.ucsc.edu/) (2025)
-- [Sigma Xi Full Membership](https://www.sigmaxi.org/) (2025-)
+- [Sigma Xi Full Membership](https://www.sigmaxi.org/) (20252026
 - [AMS-Simons Travel Grant](https://www.ams.org/grants-awards/travel-grants/AMS-SimonsTG) (2025-2027)
 - [UC Santa Cruz Chancellor's Dissertation Full-Year Fellowship](https://science.ucsc.edu/research-opportunities/dissertation-year-fellowships/) (2024-2025)
 - Putnam top 500 finishers (2014, 2015)
