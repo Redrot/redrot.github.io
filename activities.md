@@ -36,7 +36,10 @@ subtitle: Things I've done
 
 ### Referee Service
 
+- [Algebra Represent. Theory](https://link.springer.com/journal/104680)
 - [Comm. Algebra](https://www.tandfonline.com/journals/lagb20)
+- [EMS Press](https://ems.press/)
+- [J. London Math. Soc.](https://www.lms.ac.uk/publications/jlms)
 - [Trans. Amer. Math. Soc](https://www.ams.org/publications/journals/journalsframework/tran/)
 
 ---
