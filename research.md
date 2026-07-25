@@ -54,7 +54,7 @@ Listed in chronological order. 1 and 2 are undergraduate research.
 
 | Title | Proceedings |
 | ----- | ----------- |
-| **1.** Endotrivial complexes and remixed twisted cohomology | [Oberwolfach Reports 23 (1), xxx-yyy (2026)](https://publications.mfo.de/handle/mfo/4416) | 
+| **1.** Endotrivial complexes and remixed twisted cohomology | [Oberwolfach Reports 23 (1), 552-556 (2026)](https://ems.press/journals/owr/articles/14299915) | 
 
 --- 
 
