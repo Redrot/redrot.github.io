@@ -1,0 +1,71 @@
+<!--
+  Dark mode.
+
+  This script is deliberately inline and in <head>: it must run before the page
+  is painted, otherwise dark-mode visitors would see a white flash first.
+
+  It sets data-theme="light" or "dark" on the <html> element. All the actual
+  colours live in /assets/css/dark-mode.css.
+
+  Order of preference:
+    1. A choice the visitor made before (saved in localStorage)
+    2. Their operating system / browser setting
+    3. Light
+-->
+<script>
+  (function () {
+    var root = document.documentElement;
+
+    function savedChoice() {
+      try {
+        var value = window.localStorage.getItem('theme');
+        return (value === 'dark' || value === 'light') ? value : null;
+      } catch (e) {
+        // localStorage can throw in private browsing mode
+        return null;
+      }
+    }
+
+    function systemPrefersDark() {
+      return !!(window.matchMedia &&
+                window.matchMedia('(prefers-color-scheme: dark)').matches);
+    }
+
+    // Run immediately, before anything renders.
+    root.setAttribute('data-theme', savedChoice() || (systemPrefersDark() ? 'dark' : 'light'));
+
+    // Follow the OS if the visitor has never picked a theme themselves.
+    if (window.matchMedia) {
+      var query = window.matchMedia('(prefers-color-scheme: dark)');
+      var onSystemChange = function (event) {
+        if (!savedChoice()) {
+          root.setAttribute('data-theme', event.matches ? 'dark' : 'light');
+        }
+      };
+      if (query.addEventListener) {
+        query.addEventListener('change', onSystemChange);
+      } else if (query.addListener) {
+        query.addListener(onSystemChange); // older Safari
+      }
+    }
+
+    // Wire up the navbar button once the page has loaded.
+    document.addEventListener('DOMContentLoaded', function () {
+      var button = document.getElementById('theme-toggle');
+      if (!button) {
+        return;
+      }
+      button.addEventListener('click', function () {
+        var next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+        root.setAttribute('data-theme', next);
+        button.setAttribute('aria-pressed', next === 'dark' ? 'true' : 'false');
+        try {
+          window.localStorage.setItem('theme', next);
+        } catch (e) {
+          // Nothing to do: the theme still applies for this page view.
+        }
+      });
+      button.setAttribute('aria-pressed', root.getAttribute('data-theme') === 'dark' ? 'true' : 'false');
+    });
+  })();
+</script>

@@ -110,6 +110,29 @@ footer-col: "#F2F2F2"
 footer-text-col: "#404040"
 footer-link-col: "#404040"
 
+# --- Dark mode colours --- #
+
+# These mirror the light colours above and are used when a visitor's browser is
+# in dark mode, or when they press the moon/sun button in the navbar.
+# Edit any value here and rebuild; nothing else needs to change.
+
+dark-page-col: "#16181C"          # page background
+dark-text-col: "#D5D8DC"          # body text
+dark-link-col: "#5CB8FF"          # links (a brighter version of link-col)
+dark-hover-col: "#4DD0E1"         # links on hover
+dark-navbar-col: "#1E2126"
+dark-navbar-text-col: "#D5D8DC"
+dark-navbar-border-col: "#2C3038"
+dark-footer-col: "#1E2126"
+dark-footer-text-col: "#A8ADB5"
+dark-footer-link-col: "#D5D8DC"
+
+dark-muted-col: "#9AA0A8"         # dates, captions, blockquotes
+dark-border-col: "#2C3038"        # table cells, horizontal rules
+dark-surface-col: "#22262C"       # table stripes, buttons, code blocks
+dark-code-col: "#FF8FA3"          # inline `code` text
+dark-code-bg: "#22262C"           # inline `code` background
+
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
@@ -121,8 +144,9 @@ footer-link-col: "#404040"
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
+# These load after the theme's own stylesheet, so they can override it.
+site-css:
+  - "/assets/css/dark-mode.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
