@@ -5,11 +5,26 @@ jobs:
     name: Build Jekyll
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Build the site in the jekyll/builder container
-        run: |
-          export JEKYLL_VERSION=3.8
-          docker run \
-          -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-          -e PAGES_REPO_NWO=${{ github.repository }} \
-          jekyll/builder:$JEKYLL_VERSION /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+      - uses: actions/checkout@v4
+
+      # The old workflow built inside the jekyll/builder:3.8 image, which ships
+      # Ruby 2.6. That image is no longer maintained, and modern versions of
+      # ffi (a transitive dependency) require Ruby >= 3.0, so bundler could no
+      # longer resolve the Gemfile and exited 5.
+      #
+      # Ruby is pinned to 3.3 rather than "latest": this site uses Jekyll 3.x
+      # (per beautiful-jekyll-theme.gemspec), whose liquid and safe_yaml
+      # dependencies rely on bigdecimal and base64, which stopped being default
+      # gems in Ruby 3.4. Moving past 3.3 would need those added to the Gemfile.
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+
+      - name: Install dependencies
+        run: bundle install --jobs 4 --retry 3
+
+      - name: Build the site
+        run: bundle exec jekyll build --future
+        env:
+          PAGES_REPO_NWO: ${{ github.repository }}
