@@ -65,4 +65,9 @@ Listed in chronological order. 1 and 2 are undergraduate research.
 | **1.** The Combinatorial Polynomial Hirsch Conjecture | [Mohamed Omar](https://www.mohamedomar.org/) | [Harvey Mudd College Senior Theses, 109 (2017)](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1096&context=hmc_theses) |  
 | **2.** Permutation Modules and Endotrivial Complexes | [Robert Boltje](http://boltje.math.ucsc.edu/) | [Ph.D. Thesis, UC Santa Cruz (2025)](https://escholarship.org/uc/item/9h73j2g4) | 
 
+--- 
 
+### On generative AI usage
+
+Any generative AI use in my research is fully disclosed, and any paper that has no statement on generative AI usage can be assumed to have been researched and written entirely without generative AI tools.     
+Personally, I am *extremely* worried about the impact of generative AI tools, and the companies that control them, for a wide variety of reasons which I will not detail here. However, I also recognize that at the time of writing this statement (July 2026), such tools are extremely useful for mathematical research, both as an extended search engine and as a (counter)example checker, and that ignoring their existence would be impractical at the least. Rather, I choose to keep my usage to a bare minimum, and only for mathematical or software purposes. 
