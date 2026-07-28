@@ -57,6 +57,10 @@ layout: null
   --bj-code-bg:        #F9F2F4;  /* inline `code` background */
   --bj-shadow-col:     rgba(0, 0, 0, 0.8);
   --bj-overlay-col:    rgba(0, 0, 0, 0.03);  /* code block zebra striping */
+  /* The glyph knocked out of the footer's circular social icons. Font Awesome
+     hard-codes this to white, which disappears once the circle itself is light
+     in dark mode, so it follows the footer background instead. */
+  --bj-knockout-col:   #FFFFFF;
 
   /* Which icon the navbar toggle shows. Swapped in dark mode. */
   --bj-icon-moon: inline-block;
@@ -93,6 +97,7 @@ layout: null
   --bj-code-bg:        {{ site.dark-code-bg     | default: "#22262C" }};
   --bj-shadow-col:     rgba(0, 0, 0, 0.6);
   --bj-overlay-col:    rgba(255, 255, 255, 0.04);
+  --bj-knockout-col:   {{ site.dark-footer-col  | default: "#1E2126" }};
 
   --bj-icon-moon: none;
   --bj-icon-sun:  inline-block;
@@ -226,6 +231,13 @@ footer a {
 footer a:hover,
 footer a:focus {
   color: var(--bj-hover-col);
+}
+
+/* Circular social icons: the disc takes the link colour, the glyph is knocked
+   out of it. Font Awesome's .fa-inverse is always white, which vanishes on the
+   light disc used in dark mode. */
+footer .footer-links .fa-inverse {
+  color: var(--bj-knockout-col);
 }
 
 /* --- Page and post headers --- */
