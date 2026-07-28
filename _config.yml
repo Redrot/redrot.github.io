@@ -20,6 +20,7 @@ navbar-links:
   Travel: "travel"
   Activities: "activities"
   Music: "music"
+  Blog: "blog"
   Other things: "other"
 
 # --- Logo --- #
@@ -233,6 +234,10 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+# The blog listing lives at /blog/ rather than on the landing page. jekyll-paginate
+# picks its template by looking for an index.html inside the paginate_path
+# directory, so this is what points it at blog/index.html instead of index.html.
+paginate_path: "/blog/page:num/"
 
 kramdown:
   input: GFM
