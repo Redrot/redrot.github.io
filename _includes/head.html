@@ -148,11 +148,18 @@
     {% endfor %}
   {% endif %}
   
+  {%- comment -%}
+    MathJax itself is loaded from cdnjs via the `ext-js` defaults in
+    _config.yml, at the end of <body>. This block only configures it, and must
+    stay: the TeX-MML-AM_CHTML bundle does not treat $...$ as inline maths on
+    its own, and pages such as research.md rely on that.
+
+    (A second <script> here used to point at https://example.com/mathjax/... --
+    a placeholder left over from the theme template. It was a failed request on
+    every page load and has been removed.)
+  {%- endcomment -%}
   <script type="text/x-mathjax-config">
     MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
-  </script>
-  <script type="text/javascript" async
-    src="https://example.com/mathjax/MathJax.js?config=TeX-AMS_CHTML">
   </script>
 
 </head>

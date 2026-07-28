@@ -12,7 +12,29 @@
   </li>
 {%- endif -%}
 
-{%- if site.social-network-links.email -%}
+{%- comment -%}
+  Email. If `email-user` and `email-domain` are set separately in _config.yml,
+  the address is assembled in the browser instead of being written into the
+  page, so the served HTML never contains a complete address for address
+  harvesters to lift. Setting a plain `email` instead keeps the theme's
+  original behaviour (a normal mailto link).
+{%- endcomment -%}
+{%- if site.social-network-links.email-user and site.social-network-links.email-domain -%}
+  {%- assign email_user_readable = site.social-network-links.email-user | replace: '.', ' [dot] ' -%}
+  {%- assign email_domain_readable = site.social-network-links.email-domain | replace: '.', ' [dot] ' -%}
+  <li class="list-inline-item">
+    <a class="js-email-link"
+       data-email-user="{{ site.social-network-links.email-user }}"
+       data-email-domain="{{ site.social-network-links.email-domain }}"
+       title="{{ email_user_readable }} [at] {{ email_domain_readable }}">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Email me</span>
+    </a>
+  </li>
+{%- elsif site.social-network-links.email -%}
   <li class="list-inline-item">
     <a href="mailto:{{ site.social-network-links.email }}" title="Email me">
       <span class="fa-stack fa-lg" aria-hidden="true">
@@ -308,3 +330,27 @@
 {%- endif -%}
 
 </ul>
+
+{%- if site.social-network-links.email-user and site.social-network-links.email-domain -%}
+<script>
+  /* Joins the two halves of the email address and turns the icon above into a
+     real mailto link. See the comment beside the email entry in this file. */
+  (function () {
+    document.addEventListener('DOMContentLoaded', function () {
+      var links = document.querySelectorAll('a.js-email-link');
+      for (var i = 0; i < links.length; i++) {
+        var link = links[i];
+        var user = link.getAttribute('data-email-user');
+        var domain = link.getAttribute('data-email-domain');
+        if (!user || !domain) {
+          continue;
+        }
+        link.setAttribute('href', 'mailto:' + user + '@' + domain);
+        link.setAttribute('title', 'Email me');
+        link.removeAttribute('data-email-user');
+        link.removeAttribute('data-email-domain');
+      }
+    });
+  })();
+</script>
+{%- endif -%}

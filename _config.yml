@@ -62,6 +62,13 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 
+  # Email, kept in two halves. They are only joined together by JavaScript in
+  # the visitor's browser, so the complete address is never written into the
+  # served HTML where address harvesters could scrape it. Without JavaScript
+  # the icon still shows the address in readable form as a tooltip.
+  email-user: "sam.miller"
+  email-domain: "uga.edu"
+
   # Academic profiles. These take the FULL profile URL (the social networks
   # above take just a username). Note the two-space indent: everything in this
   # block must be indented under `social-network-links` to be picked up.
