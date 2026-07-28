@@ -3,7 +3,7 @@ title: Research
 subtitle: Things I've written
 ---
 
-**Mathematical interests**
+## Mathematical interests 
 
 - Modular representation theory of finite groups
 - Intersections between representation theory and tensor-triangular geometry
@@ -69,5 +69,5 @@ Listed in chronological order. 1 and 2 are undergraduate research.
 
 ### On generative AI usage
 
-Any generative AI use in my research is fully disclosed, and any paper that has no statement on generative AI usage can be assumed to have been researched and written entirely without generative AI tools.     
-Personally, I am *extremely* worried about the impact of generative AI tools, and the companies that control them, for a wide variety of reasons which I will not detail here. However, I also recognize that at the time of writing this statement (July 2026), such tools are extremely useful for mathematical research, both as an extended search engine and as a (counter)example checker, and that ignoring their existence would be impractical at the least. Rather, I choose to keep my usage to a bare minimum, and only for mathematical or software purposes. 
+Any use of generative AI (gen-AI) in my papers is fully disclosed, and any paper without a statement on gen-AI use can be assumed to have been researched and written entirely without gen-AI tools.     
+Personally, as someone who was once in tech, I am *extremely* worried about the impact of gen-AI tools and companies for a wide variety of reasons which I will not detail here. However, I also recognize that at the time of writing this statement (July 2026), such tools are extremely useful for mathematical research, both as an extended search engine and as a (counter)example checker, and that ignoring their existence would be impractical at the least. Rather, I elect to keep my usage to a bare minimum, and only for mathematical or software development purposes (this site, for instance, benefits from gen-AI, as I am certainly not a front-end developer). 
