@@ -240,26 +240,57 @@
   </li>
 {%- endif -%}
 
+{%- comment -%}
+  Academic profile links. Unlike the social networks above (which take a
+  username and build the URL here), these take the FULL profile URL from
+  _config.yml -- arXiv author pages and ResearchGate profiles have no
+  predictable username form, so pasting the whole URL is less error-prone.
+{%- endcomment -%}
+
 {%- if site.social-network-links.ORCID -%}
- <li class="list-inline-item">
-   <a href="https://orcid.org/{{ site.social-network-links.ORCID }}" title="ORCID">
-     <span class="fa-stack fa-lg" aria-hidden="true">
-       <i class="fas fa-circle fa-stack-2x"></i>
-       <i class="fab fa-orcid fa-stack-1x fa-inverse"></i>
-     </span>
-     <span class="sr-only">ORCID</span>
-   </a>
- </li>
+  <li class="list-inline-item">
+    <a href="{{ site.social-network-links.ORCID }}" title="ORCID">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-orcid fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">ORCID</span>
+    </a>
+  </li>
 {%- endif -%}
 
 {%- if site.social-network-links.google-scholar -%}
   <li class="list-inline-item">
-    <a href="https://scholar.google.com/{{ site.social-network-links.google-scholar }}" title="Google Scholar">
+    <a href="{{ site.social-network-links.google-scholar }}" title="Google Scholar">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
+        <i class="fas fa-graduation-cap fa-stack-1x fa-inverse"></i>
       </span>
       <span class="sr-only">Google Scholar</span>
+    </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.arXiv -%}
+  <li class="list-inline-item">
+    <a href="{{ site.social-network-links.arXiv }}" title="arXiv">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">arXiv</span>
+    </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.ResearchGate -%}
+  <li class="list-inline-item">
+    <a href="{{ site.social-network-links.ResearchGate }}" title="ResearchGate">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-researchgate fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">ResearchGate</span>
     </a>
   </li>
 {%- endif -%}

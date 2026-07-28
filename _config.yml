@@ -61,10 +61,15 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-ORCID: 0000-0002-0593-3948
-google-scholar: https://scholar.google.com/citations?user=y5UmIBgAAAAJ&hl=en&authuser=1
-ResearchGate: https://www.researchgate.net/profile/Sam-Miller-55
-arXiv: https://arxiv.org/search/math?query=Miller%2C+Sam+K&searchtype=author&abstracts=show&order=-announced_date_first&size=50
+
+  # Academic profiles. These take the FULL profile URL (the social networks
+  # above take just a username). Note the two-space indent: everything in this
+  # block must be indented under `social-network-links` to be picked up.
+  # Comment a line out to hide that icon.
+  ORCID: "https://orcid.org/0000-0002-0593-3948"
+  google-scholar: "https://scholar.google.com/citations?hl=en&user=MjMyCfQAAAAJ"
+  arXiv: "https://arxiv.org/a/miller_s_1.html"
+  ResearchGate: "https://www.researchgate.net/profile/Sam-Miller-55"
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
@@ -72,12 +77,14 @@ arXiv: https://arxiv.org/search/math?query=Miller%2C+Sam+K&searchtype=author&abs
 
 # --- General options --- #
 
-# Select which social network share links to show in posts
-share-links-active:
-  ORCID: true
-  google-scholar: true
-  ResearchGate: true
-  arXiv: true
+# Select which social network share links to show in posts.
+# Only twitter, facebook, linkedin and vk are supported here (see
+# _includes/social-share.html) -- this controls the "share this post" buttons,
+# not the footer profile links above. Listing anything else made every post
+# render an empty share section, so it's left off until a real one is wanted.
+#share-links-active:
+#  twitter: true
+#  linkedin: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
