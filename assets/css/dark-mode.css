@@ -1,0 +1,443 @@
+---
+layout: null
+---
+
+/*
+ * Dark mode for Beautiful Jekyll
+ * ------------------------------
+ * This file is loaded AFTER beautifuljekyll.css (see `site-css` in _config.yml),
+ * so the rules here override the theme's without editing the theme itself.
+ *
+ * HOW IT WORKS
+ *   1. Every colour is stored in a CSS variable (the `--bj-*` names below).
+ *   2. `:root` holds the LIGHT values, taken from _config.yml so they match the
+ *      rest of the theme exactly. Nothing changes in light mode.
+ *   3. A `[data-theme="dark"]` block swaps those variables for dark values.
+ *   4. Everything after "PART 2" uses `var(--bj-...)`, so it is written once and
+ *      works in both modes.
+ *
+ * TO CHANGE A COLOUR: edit _config.yml (the `dark-*` keys), not this file.
+ * TO STYLE SOMETHING NEW: add a rule at the bottom using the variables.
+ */
+
+
+/* ===================================================================
+ * PART 1 — The colour palettes
+ * =================================================================== */
+
+/* --- Light palette (unchanged: pulled from the same _config.yml keys the
+       theme already uses, so light mode looks exactly as it did before) --- */
+
+:root {
+  color-scheme: light;
+
+  --bj-page-col:          {{ site.page-col          | default: "#FFFFFF" }};
+  --bj-text-col:          {{ site.text-col          | default: "#404040" }};
+  --bj-link-col:          {{ site.link-col          | default: "#008AFF" }};
+  --bj-hover-col:         {{ site.hover-col         | default: "#0085A1" }};
+  --bj-navbar-col:        {{ site.navbar-col        | default: "#EAEAEA" }};
+  --bj-navbar-text-col:   {{ site.navbar-text-col   | default: "#404040" }};
+  --bj-navbar-border-col: {{ site.navbar-border-col | default: "#DDDDDD" }};
+  --bj-footer-col:        {{ site.footer-col        | default: "#EAEAEA" }};
+  --bj-footer-text-col:   {{ site.footer-text-col   | default: "#777777" }};
+  --bj-footer-link-col:   {{ site.footer-link-col   | default: "#404040" }};
+
+  /* Supporting colours the theme hard-codes rather than reading from config.
+     The light values here deliberately match the theme's originals exactly,
+     so switching this stylesheet on changes nothing in light mode. */
+  --bj-muted-col:      #808080;  /* dates, captions, blockquotes */
+  --bj-border-col:     #CCCCCC;  /* table cell borders */
+  --bj-divider-col:    #EEEEEE;  /* separators between blog post previews */
+  --bj-hr-col:         rgba(0, 0, 0, 0.1);   /* <hr> rules in page content */
+  --bj-footer-border-col: #EAEAEA;           /* line above the footer */
+  --bj-surface-col:    #F8F8F8;  /* table stripes */
+  --bj-btn-col:        #FFFFFF;  /* pagination button background */
+  --bj-btn-border-col: #DEE2E6;  /* pagination button border */
+  --bj-code-col:       #C7254E;  /* inline `code` text */
+  --bj-code-bg:        #F9F2F4;  /* inline `code` background */
+  --bj-shadow-col:     rgba(0, 0, 0, 0.8);
+  --bj-overlay-col:    rgba(0, 0, 0, 0.03);  /* code block zebra striping */
+
+  /* Which icon the navbar toggle shows. Swapped in dark mode. */
+  --bj-icon-moon: inline-block;
+  --bj-icon-sun:  none;
+}
+
+/* --- Dark palette ---
+       Written into two selectors below: one for "the visitor (or their OS)
+       asked for dark", one for "no JavaScript, but the OS prefers dark". --- */
+
+{% capture dark_palette %}
+  color-scheme: dark;
+
+  --bj-page-col:          {{ site.dark-page-col          | default: "#16181C" }};
+  --bj-text-col:          {{ site.dark-text-col          | default: "#D5D8DC" }};
+  --bj-link-col:          {{ site.dark-link-col          | default: "#5CB8FF" }};
+  --bj-hover-col:         {{ site.dark-hover-col         | default: "#4DD0E1" }};
+  --bj-navbar-col:        {{ site.dark-navbar-col        | default: "#1E2126" }};
+  --bj-navbar-text-col:   {{ site.dark-navbar-text-col   | default: "#D5D8DC" }};
+  --bj-navbar-border-col: {{ site.dark-navbar-border-col | default: "#2C3038" }};
+  --bj-footer-col:        {{ site.dark-footer-col        | default: "#1E2126" }};
+  --bj-footer-text-col:   {{ site.dark-footer-text-col   | default: "#A8ADB5" }};
+  --bj-footer-link-col:   {{ site.dark-footer-link-col   | default: "#D5D8DC" }};
+
+  --bj-muted-col:      {{ site.dark-muted-col   | default: "#9AA0A8" }};
+  --bj-border-col:     {{ site.dark-border-col  | default: "#2C3038" }};
+  --bj-divider-col:    {{ site.dark-border-col  | default: "#2C3038" }};
+  --bj-hr-col:         {{ site.dark-border-col  | default: "#2C3038" }};
+  --bj-footer-border-col: {{ site.dark-border-col | default: "#2C3038" }};
+  --bj-surface-col:    {{ site.dark-surface-col | default: "#22262C" }};
+  --bj-btn-col:        {{ site.dark-surface-col | default: "#22262C" }};
+  --bj-btn-border-col: {{ site.dark-border-col  | default: "#2C3038" }};
+  --bj-code-col:       {{ site.dark-code-col    | default: "#FF8FA3" }};
+  --bj-code-bg:        {{ site.dark-code-bg     | default: "#22262C" }};
+  --bj-shadow-col:     rgba(0, 0, 0, 0.6);
+  --bj-overlay-col:    rgba(255, 255, 255, 0.04);
+
+  --bj-icon-moon: none;
+  --bj-icon-sun:  inline-block;
+{% endcapture %}
+
+/* Visitor is in dark mode (set by the script in _includes/dark-mode-init.html) */
+html[data-theme="dark"] {
+{{ dark_palette }}
+}
+
+/* Fallback for visitors with JavaScript disabled: follow the operating system,
+   unless the page has explicitly been marked as light. */
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) {
+{{ dark_palette }}
+  }
+}
+
+
+/* ===================================================================
+ * PART 2 — Applying the palette
+ * These rules re-state the theme's own selectors using variables.
+ * =================================================================== */
+
+/* --- General --- */
+
+body {
+  color: var(--bj-text-col);
+  background-color: var(--bj-page-col);
+}
+
+a {
+  color: var(--bj-link-col);
+}
+
+a:hover,
+a:focus {
+  color: var(--bj-hover-col);
+}
+
+blockquote {
+  color: var(--bj-muted-col);
+}
+
+/* Bootstrap draws <hr> with a near-black line, which vanishes on a dark page.
+   The home page leans on these heavily, so they matter. */
+hr {
+  border-top: 1px solid var(--bj-hr-col);
+}
+
+::-moz-selection,
+::selection {
+  background-color: var(--bj-hover-col);
+}
+
+/* --- Navbar --- */
+
+.navbar-custom {
+  background-color: var(--bj-navbar-col);
+  border-bottom: 1px solid var(--bj-navbar-border-col);
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-nav .nav-link {
+  color: var(--bj-navbar-text-col);
+}
+
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus,
+.navbar-custom .navbar-nav .nav-link:hover,
+.navbar-custom .navbar-nav .nav-link:focus,
+.navbar-custom .navbar-nav .dropdown-menu .dropdown-item:hover,
+.navbar-custom .navbar-nav .dropdown-menu .dropdown-item:focus {
+  color: var(--bj-hover-col);
+}
+
+.navbar-custom .dropdown-menu,
+.navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
+  background-color: var(--bj-navbar-col);
+  color: var(--bj-navbar-text-col);
+}
+
+.navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item:hover,
+.navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item:focus {
+  background-color: var(--bj-surface-col);
+}
+
+@media (min-width: 1200px) {
+  .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
+    border-color: var(--bj-navbar-border-col);
+  }
+}
+
+@media (max-width: 1199px) {
+  .navbar-custom .navbar-collapse {
+    border-top: 1px solid var(--bj-navbar-border-col);
+  }
+}
+
+/* The hamburger menu icon is a black SVG baked into Bootstrap; recolour it. */
+html[data-theme="dark"] .navbar-light .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba%28213, 216, 220, 0.85%29' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.navbar-light .navbar-toggler {
+  border-color: var(--bj-navbar-border-col);
+}
+
+/* A pure-black glow is invisible against a dark navbar */
+.navbar-custom .avatar-container .avatar-img-border {
+  box-shadow: 0 0 0.5rem var(--bj-shadow-col);
+  -webkit-box-shadow: 0 0 0.3125rem var(--bj-shadow-col);
+  -moz-box-shadow: 0 0 0.5rem var(--bj-shadow-col);
+}
+
+/* --- Footer --- */
+
+footer {
+  background-color: var(--bj-footer-col);
+  border-top: 1px solid var(--bj-footer-border-col);
+}
+
+footer p.text-muted {
+  color: var(--bj-footer-text-col) !important;
+}
+
+footer a {
+  color: var(--bj-footer-link-col);
+}
+
+footer a:hover,
+footer a:focus {
+  color: var(--bj-hover-col);
+}
+
+/* --- Page and post headers --- */
+
+.intro-header .page-heading,
+.intro-header .post-heading {
+  color: var(--bj-text-col);
+}
+
+.header-section.has-img .no-img {
+  background-color: var(--bj-surface-col);
+  box-shadow: 0 0 0.3125rem var(--bj-border-col);
+}
+
+/* --- Post previews (the list on the home page) --- */
+
+.post-preview {
+  border-bottom: 1px solid var(--bj-divider-col);
+}
+
+.post-preview a {
+  color: var(--bj-text-col);
+}
+
+.post-preview a:focus,
+.post-preview a:hover {
+  color: var(--bj-hover-col);
+}
+
+.post-preview .post-meta,
+.post-heading .post-meta {
+  color: var(--bj-muted-col);
+}
+
+/* --- Tags --- */
+
+.blog-tags span,
+.blog-tags a,
+.blog-tags a:hover {
+  color: var(--bj-text-col);
+}
+
+.blog-tags a:hover {
+  border-color: var(--bj-text-col);
+}
+
+#full-tags-list .tag-entry .entry-date {
+  color: var(--bj-muted-col);
+}
+
+/* --- Pagination --- */
+
+.pagination .page-item .page-link {
+  color: var(--bj-text-col);
+  background-color: var(--bj-btn-col);
+  border-color: var(--bj-btn-border-col);
+}
+
+.pagination .page-item .page-link:hover,
+.pagination .page-item .page-link:focus {
+  color: var(--bj-page-col);
+  border: 1px solid var(--bj-hover-col);
+  background-color: var(--bj-hover-col);
+}
+
+/* --- Tables (the publication lists on the research page) --- */
+
+table tr {
+  border-top: 1px solid var(--bj-border-col);
+  background-color: var(--bj-page-col);
+}
+
+table tr:nth-child(2n) {
+  background-color: var(--bj-surface-col);
+}
+
+table tr th,
+table tr td {
+  border: 1px solid var(--bj-border-col);
+}
+
+/* --- Code --- */
+
+code {
+  color: var(--bj-code-col);
+  background-color: var(--bj-code-bg);
+}
+
+pre code {
+  background-color: transparent;
+}
+
+.highlight > pre {
+  background-image: linear-gradient(
+    var(--bj-overlay-col), var(--bj-overlay-col) 1.5em,
+    transparent 1.5em, transparent 3em);
+  border: 1px solid var(--bj-border-col);
+  border-left: 0.4375rem solid var(--bj-border-col);
+  background-color: var(--bj-code-bg);
+}
+
+.highlight pre.lineno {
+  color: var(--bj-muted-col);
+  border-right: 2px solid var(--bj-border-col);
+}
+
+/* Syntax highlighting: the theme ships a light Pygments palette. These are the
+   tokens whose colours are too dark to read on a dark background. */
+html[data-theme="dark"] .highlight .nt          { color: #7EC8FF; }
+html[data-theme="dark"] .highlight .kt,
+html[data-theme="dark"] .highlight .nc          { color: #A5B4E8; }
+html[data-theme="dark"] .highlight .nf,
+html[data-theme="dark"] .highlight .ne          { color: #FF9E9E; }
+html[data-theme="dark"] .highlight .na,
+html[data-theme="dark"] .highlight .no,
+html[data-theme="dark"] .highlight .nv,
+html[data-theme="dark"] .highlight .vc,
+html[data-theme="dark"] .highlight .vg,
+html[data-theme="dark"] .highlight .vi          { color: #5FD4D4; }
+html[data-theme="dark"] .highlight .m,
+html[data-theme="dark"] .highlight .mf,
+html[data-theme="dark"] .highlight .mh,
+html[data-theme="dark"] .highlight .mi,
+html[data-theme="dark"] .highlight .mo,
+html[data-theme="dark"] .highlight .il          { color: #5FD4D4; }
+html[data-theme="dark"] .highlight .s,
+html[data-theme="dark"] .highlight .sb,
+html[data-theme="dark"] .highlight .sc,
+html[data-theme="dark"] .highlight .sd,
+html[data-theme="dark"] .highlight .s1,
+html[data-theme="dark"] .highlight .s2,
+html[data-theme="dark"] .highlight .se,
+html[data-theme="dark"] .highlight .sh,
+html[data-theme="dark"] .highlight .si,
+html[data-theme="dark"] .highlight .sx          { color: #FF9DB1; }
+html[data-theme="dark"] .highlight .sr          { color: #7BD88F; }
+html[data-theme="dark"] .highlight .ss,
+html[data-theme="dark"] .highlight .ni          { color: #DB9DFF; }
+html[data-theme="dark"] .highlight .nn,
+html[data-theme="dark"] .highlight .gp          { color: #A0A6AE; }
+html[data-theme="dark"] .highlight .gd,
+html[data-theme="dark"] .highlight .gi,
+html[data-theme="dark"] .highlight .err         { color: #16181C; }
+
+/* --- Notification boxes --- */
+
+html[data-theme="dark"] .box-note,
+html[data-theme="dark"] .box-warning,
+html[data-theme="dark"] .box-error,
+html[data-theme="dark"] .box-success {
+  border-color: var(--bj-border-col);
+  color: var(--bj-text-col);
+}
+html[data-theme="dark"] .box-note    { background-color: #23272E; border-left-color: #4A9EDA; }
+html[data-theme="dark"] .box-warning { background-color: #33301F; border-left-color: #D4AC0D; }
+html[data-theme="dark"] .box-error   { background-color: #332222; border-left-color: #D9534F; }
+html[data-theme="dark"] .box-success { background-color: #1E2E24; border-left-color: #4CAF7D; }
+
+/* --- Blog post body --- */
+
+.blog-post .caption {
+  color: var(--bj-muted-col);
+}
+
+.blog-post hr {
+  border-color: var(--bj-muted-col);
+}
+
+.blog-post blockquote {
+  border-left: 0.3125rem solid var(--bj-divider-col);
+}
+
+
+/* ===================================================================
+ * PART 3 — The navbar toggle button
+ * =================================================================== */
+
+.theme-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.4rem 0.55rem;
+  line-height: 1;
+  font-size: 1.05rem;
+  border-radius: 0.25rem;
+  color: var(--bj-navbar-text-col);
+  /* On narrow screens, sit beside the hamburger rather than in the middle */
+  margin-left: auto;
+  margin-right: 0.25rem;
+  transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
+}
+
+.theme-toggle:hover,
+.theme-toggle:focus {
+  color: var(--bj-hover-col);
+  background-color: var(--bj-overlay-col);
+}
+
+.theme-toggle:focus-visible {
+  outline: 2px solid var(--bj-hover-col);
+  outline-offset: 2px;
+}
+
+/* Show whichever icon represents the mode you'd switch *to* */
+.theme-toggle .theme-toggle-to-dark  { display: var(--bj-icon-moon); }
+.theme-toggle .theme-toggle-to-light { display: var(--bj-icon-sun); }
+
+@media (min-width: 1200px) {
+  /* `order: 1` moves the button past the nav links, to the far right */
+  .theme-toggle {
+    order: 1;
+    margin-left: 0.75rem;
+    margin-right: 0;
+  }
+}
