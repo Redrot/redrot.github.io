@@ -18,7 +18,7 @@ subtitle: Things I've written
 
 ## In preparation / Ongoing projects
 
-- Permutation twisted cohomology for all finite groups + Noetherianity(!!) (w/ J. O. Gómez)
+- Permutation twisted cohomology for all finite groups + immersiveness (but not Noetherianity) (w/ J. O. Gómez)
 - Tensor-triangular geometry of some oligomorphic groups (w/ N. Harman)
 - Local Picard groups for permutation modules
 - Questions about the stable permutation category (w/ M. Gallauer)
