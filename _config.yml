@@ -162,6 +162,7 @@ dark-code-bg: "#22262C"           # inline `code` background
 # These load after the theme's own stylesheet, so they can override it.
 site-css:
   - "/assets/css/dark-mode.css"
+  - "/assets/css/custom.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:

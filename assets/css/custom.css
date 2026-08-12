@@ -1,0 +1,26 @@
+---
+layout: null
+---
+
+/*
+ * Site tweaks that aren't part of the theme or of dark mode.
+ * Loaded after beautifuljekyll.css and dark-mode.css (see `site-css` in
+ * _config.yml), so anything here wins over both.
+ */
+
+/* --- Navbar avatar --- */
+
+/*
+ * Applied by the script in _includes/navbar-avatar-fit.html when the nav links
+ * have come too close to the avatar. See that file for the reasoning.
+ *
+ * Hidden with visibility rather than display on purpose: the script measures
+ * the avatar's position to decide when it can come back, and display:none
+ * would collapse its box to nothing, so it could never reappear. Fading these
+ * two properties also matches how the theme already hides the avatar when you
+ * scroll down, so it uses the transition already defined for that.
+ */
+.navbar-custom .avatar-container.avatar-crowded {
+  opacity: 0;
+  visibility: hidden;
+}

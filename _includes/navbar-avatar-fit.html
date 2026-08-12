@@ -1,0 +1,79 @@
+<!--
+  Hides the navbar avatar when the nav links get too close to it.
+
+  The avatar is centred in the navbar while the links are pushed to the right,
+  so on mid-width screens the leftmost link ("Research") runs underneath it.
+  Rather than pick a fixed breakpoint -- which silently goes stale whenever a
+  nav link is added or renamed -- this measures the actual gap and hides the
+  avatar only when it genuinely runs out of room.
+
+  Two things make the measurement stable:
+   * the avatar is absolutely positioned, so hiding it never moves the links,
+     and the gap it computes doesn't change as a result of its own decision;
+   * it is hidden with visibility rather than display, so it keeps its box and
+     can still be measured once hidden -- otherwise it could never reappear.
+-->
+<script>
+  (function () {
+    // Clear space required between the avatar and the nearest link, in px.
+    var MIN_GAP = 20;
+    // Below this the links collapse into the hamburger menu and the theme
+    // manages the avatar itself. Matches the theme's navbar-expand-xl.
+    var EXPANDED_AT = 1200;
+
+    function update() {
+      var avatar = document.querySelector('.navbar-custom .avatar-container');
+      if (!avatar) {
+        return;
+      }
+
+      if (window.innerWidth < EXPANDED_AT) {
+        avatar.classList.remove('avatar-crowded');
+        return;
+      }
+
+      var links = document.querySelectorAll('.navbar-custom .navbar-nav .nav-link');
+      var leftmost = Infinity;
+      for (var i = 0; i < links.length; i++) {
+        var rect = links[i].getBoundingClientRect();
+        // Skip links that aren't laid out (collapsed menu, hidden dropdowns).
+        if (rect.width > 0 && rect.left < leftmost) {
+          leftmost = rect.left;
+        }
+      }
+
+      if (leftmost === Infinity) {
+        avatar.classList.remove('avatar-crowded');
+        return;
+      }
+
+      var gap = leftmost - avatar.getBoundingClientRect().right;
+      if (gap < MIN_GAP) {
+        avatar.classList.add('avatar-crowded');
+      } else {
+        avatar.classList.remove('avatar-crowded');
+      }
+    }
+
+    var scheduled = false;
+    function schedule() {
+      if (scheduled) {
+        return;
+      }
+      scheduled = true;
+      window.requestAnimationFrame(function () {
+        scheduled = false;
+        update();
+      });
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', update);
+    } else {
+      update();
+    }
+    // Web fonts land after DOMContentLoaded and change how wide the links are.
+    window.addEventListener('load', update);
+    window.addEventListener('resize', schedule);
+  })();
+</script>
