@@ -1,11 +1,14 @@
 /*
  * Whiteboard / chalkboard doodling.
  *
- * Click and drag on empty space and the page draws back: a dry-erase marker in
- * light mode, chalk in dark mode. Press Escape, or use the button that appears
- * in the corner, to wipe the board.
+ * Switch it on with the pen button in the bottom-left corner, then drag on
+ * empty space and the page draws back: a dry-erase marker in light mode, chalk
+ * in dark mode. The eraser button in the bottom-right, or Escape, wipes the
+ * board; Escape on a clean board switches drawing off again.
  *
  * Deliberate constraints:
+ *  - Off until asked for. Drawing on any stray drag meant a visitor who missed
+ *    while selecting text left a mark on the page, so it is opt-in per visit.
  *  - Mouse only. On touch screens a drag is a scroll, so the whole feature
  *    stays switched off there rather than fighting the user for the gesture.
  *  - Strokes only START on empty layout space. Pressing on a paragraph still
@@ -50,9 +53,17 @@
     SECTION: true, HEADER: true, FOOTER: true, ARTICLE: true
   };
 
+  // Drawing is off until the visitor asks for it with the corner button, so a
+  // stray drag while reading never leaves a mark. The choice is kept in
+  // sessionStorage: it follows you between pages during a visit, but a later
+  // visit starts quiet again rather than silently still being armed.
+  var ARMED_KEY = 'whiteboard-armed';
+
   var canvas = null;
   var ctx = null;
   var clearButton = null;
+  var toggleButton = null;
+  var armed = false;
   var strokes = [];
   var active = null;
   var ratio = 1;
@@ -189,12 +200,49 @@
 
   /* --- Board plumbing -------------------------------------------------- */
 
+  function storedArmed() {
+    try {
+      return window.sessionStorage.getItem(ARMED_KEY) === 'on';
+    } catch (error) {
+      return false;
+    }
+  }
+
+  function setArmed(value) {
+    armed = !!value;
+    try {
+      window.sessionStorage.setItem(ARMED_KEY, armed ? 'on' : 'off');
+    } catch (error) {
+      // Private browsing: the setting just won't outlive this page.
+    }
+    if (toggleButton) {
+      toggleButton.setAttribute('aria-pressed', armed ? 'true' : 'false');
+      toggleButton.title = armed ? 'Drawing on — drag to draw' : 'Draw on the page';
+    }
+    // Drives the crosshair cursor, so it's obvious the mode is live.
+    document.body.classList.toggle('board-armed', armed);
+    if (!armed) {
+      active = null;
+    }
+  }
+
   function build() {
     canvas = document.createElement('canvas');
     canvas.className = 'board-canvas';
     canvas.setAttribute('aria-hidden', 'true');
     document.body.appendChild(canvas);
     ctx = canvas.getContext('2d');
+
+    toggleButton = document.createElement('button');
+    toggleButton.type = 'button';
+    toggleButton.className = 'board-toggle';
+    toggleButton.setAttribute('aria-label', 'Draw on the page');
+    toggleButton.setAttribute('aria-pressed', 'false');
+    toggleButton.innerHTML = '<i class="fas fa-pen" aria-hidden="true"></i>';
+    toggleButton.addEventListener('click', function () {
+      setArmed(!armed);
+    });
+    document.body.appendChild(toggleButton);
 
     clearButton = document.createElement('button');
     clearButton.type = 'button';
@@ -268,6 +316,9 @@
   }
 
   function canStartAt(event) {
+    if (!armed) {
+      return false;
+    }
     if (event.button !== 0 || event.ctrlKey || event.metaKey || event.altKey) {
       return false;
     }
@@ -330,6 +381,7 @@
 
   function start() {
     build();
+    setArmed(storedArmed());
 
     document.addEventListener('pointerdown', onPointerDown);
     document.addEventListener('pointermove', onPointerMove);
@@ -337,9 +389,16 @@
     document.addEventListener('pointercancel', onPointerUp);
     window.addEventListener('blur', onPointerUp);
 
+    // Escape wipes the board; pressing it again on a clean board switches
+    // drawing back off, so there's always a way out from the keyboard.
     document.addEventListener('keydown', function (event) {
-      if (event.key === 'Escape' && strokes.length) {
+      if (event.key !== 'Escape') {
+        return;
+      }
+      if (strokes.length) {
         clearBoard();
+      } else if (armed) {
+        setArmed(false);
       }
     });
 
