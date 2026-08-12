@@ -86,6 +86,10 @@ layout: null
   font-size: 1rem;
   line-height: 1;
   cursor: pointer;
+  /* Centres the glyph regardless of whether it's an icon font or an SVG. */
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .board-toggle:focus-visible,
@@ -101,19 +105,30 @@ layout: null
  */
 .board-toggle {
   left: 1.25rem;
-  opacity: 0.5;
-  transition: opacity 0.2s ease-in-out, background-color 0.2s ease-in-out,
-              border-color 0.2s ease-in-out, color 0.2s ease-in-out;
+  /*
+   * Off state. This used to be a pale circle at half opacity, which on a white
+   * page was very nearly invisible. It now reads as a proper control: full
+   * opacity, the link colour on the icon and rim so it registers as something
+   * clickable, and a soft shadow to lift it off the background in both themes.
+   */
+  background-color: var(--bj-page-col);
+  border: 2px solid var(--bj-link-col);
+  color: var(--bj-link-col);
+  box-shadow: 0 1px 4px var(--bj-button-shadow-col);
+  transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out,
+              color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 }
 
 .board-toggle:hover,
 .board-toggle:focus {
-  opacity: 1;
+  border-color: var(--bj-hover-col);
   color: var(--bj-hover-col);
+  box-shadow: 0 2px 7px var(--bj-button-shadow-col);
 }
 
+/* On: filled rather than outlined, so the two states differ in more than
+   just hue for anyone who doesn't distinguish colours easily. */
 .board-toggle[aria-pressed="true"] {
-  opacity: 1;
   background-color: var(--bj-link-col);
   border-color: var(--bj-link-col);
   color: var(--bj-page-col);
@@ -121,7 +136,24 @@ layout: null
 
 .board-toggle[aria-pressed="true"]:hover,
 .board-toggle[aria-pressed="true"]:focus {
+  background-color: var(--bj-hover-col);
+  border-color: var(--bj-hover-col);
   color: var(--bj-page-col);
+}
+
+/* The marker/chalk pair. Only one is shown, picked by the theme. */
+.board-toggle .board-icon {
+  width: 1.35rem;
+  height: 1.35rem;
+  margin: 0 auto;
+}
+
+.board-toggle .board-icon-marker {
+  display: var(--bj-icon-marker, block);
+}
+
+.board-toggle .board-icon-chalk {
+  display: var(--bj-icon-chalk, none);
 }
 
 /* Crosshair everywhere while armed, so it's obvious the page will draw. */

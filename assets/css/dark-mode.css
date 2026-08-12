@@ -61,10 +61,17 @@ layout: null
      hard-codes this to white, which disappears once the circle itself is light
      in dark mode, so it follows the footer background instead. */
   --bj-knockout-col:   #FFFFFF;
+  /* Lift under the floating corner buttons. */
+  --bj-button-shadow-col: rgba(0, 0, 0, 0.20);
 
   /* Which icon the navbar toggle shows. Swapped in dark mode. */
   --bj-icon-moon: inline-block;
   --bj-icon-sun:  none;
+
+  /* Which implement the drawing button shows: marker on the whiteboard,
+     chalk on the chalkboard. */
+  --bj-icon-marker: block;
+  --bj-icon-chalk:  none;
 }
 
 /* --- Dark palette ---
@@ -98,9 +105,13 @@ layout: null
   --bj-shadow-col:     rgba(0, 0, 0, 0.6);
   --bj-overlay-col:    rgba(255, 255, 255, 0.04);
   --bj-knockout-col:   {{ site.dark-footer-col  | default: "#1E2126" }};
+  --bj-button-shadow-col: rgba(0, 0, 0, 0.55);
 
   --bj-icon-moon: none;
   --bj-icon-sun:  inline-block;
+
+  --bj-icon-marker: none;
+  --bj-icon-chalk:  block;
 {% endcapture %}
 
 /* Visitor is in dark mode (set by the script in _includes/dark-mode-init.html) */

@@ -238,7 +238,27 @@
     toggleButton.className = 'board-toggle';
     toggleButton.setAttribute('aria-label', 'Draw on the page');
     toggleButton.setAttribute('aria-pressed', 'false');
-    toggleButton.innerHTML = '<i class="fas fa-pen" aria-hidden="true"></i>';
+    // Two drawing implements, one per theme: a chisel-tip marker for the
+    // whiteboard, a stick of chalk for the chalkboard. Which one shows is
+    // decided in CSS (see --bj-icon-marker / --bj-icon-chalk in dark-mode.css)
+    // rather than here, so it follows the theme without any extra JavaScript.
+    toggleButton.innerHTML =
+      '<svg class="board-icon board-icon-marker" viewBox="0 0 24 24" aria-hidden="true" focusable="false">' +
+        '<g transform="rotate(-45 12 12)" fill="currentColor">' +
+          '<rect x="9" y="2.5" width="6" height="11.5" rx="1.4"/>' +
+          '<rect x="8.4" y="14.4" width="7.2" height="1.9" rx="0.5"/>' +
+          '<path d="M9.3 17.1h5.4l-1.5 4.2a0.6 0.6 0 0 1-0.56 0.4h-1.28a0.6 0.6 0 0 1-0.56-0.4z"/>' +
+        '</g>' +
+      '</svg>' +
+      '<svg class="board-icon board-icon-chalk" viewBox="0 0 24 24" aria-hidden="true" focusable="false">' +
+        '<g transform="rotate(-45 12 12)" fill="currentColor">' +
+          '<rect x="9.2" y="3.2" width="5.6" height="14" rx="1.1"/>' +
+          '<path d="M9.2 17.2h5.6v2.1c0 0.5-0.35 0.85-0.8 0.85h-4c-0.45 0-0.8-0.35-0.8-0.85z" ' +
+            'opacity="0.55"/>' +
+          '<circle cx="10.1" cy="21.2" r="0.62" opacity="0.5"/>' +
+          '<circle cx="13.4" cy="21.9" r="0.45" opacity="0.35"/>' +
+        '</g>' +
+      '</svg>';
     toggleButton.addEventListener('click', function () {
       setArmed(!armed);
     });
