@@ -52,3 +52,7 @@
   {% endif %}
 
 </nav>
+
+{% if site.avatar and page.show-avatar != false %}
+  {% include navbar-avatar-fit.html %}
+{% endif %}

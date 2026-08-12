@@ -1,0 +1,8 @@
+{%- comment -%}
+  Whiteboard / chalkboard doodling. Set `whiteboard: false` in _config.yml to
+  switch it off site-wide, or `whiteboard: false` in a page's front matter to
+  switch it off for that page only.
+{%- endcomment -%}
+{%- if site.whiteboard != false and page.whiteboard != false -%}
+  <script src="{{ '/assets/js/whiteboard.js' | relative_url }}"></script>
+{%- endif -%}
