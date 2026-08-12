@@ -164,6 +164,14 @@ site-css:
   - "/assets/css/dark-mode.css"
   - "/assets/css/custom.css"
 
+# --- Whiteboard --- #
+
+# Dragging on empty space draws on the page: a dry-erase marker in light mode,
+# chalk in dark mode. Escape (or the corner button) wipes it. Mouse only --
+# on touch screens a drag is a scroll, so it stays off there.
+# Set to false to switch it off, either here or in a single page's front matter.
+whiteboard: true
+
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
 #  - "/assets/js/custom-script.js"

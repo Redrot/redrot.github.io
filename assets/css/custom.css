@@ -49,3 +49,67 @@ layout: null
     padding-right: 0.4375rem;
   }
 }
+
+/* --- Whiteboard / chalkboard --- */
+
+/*
+ * The drawing surface, driven by assets/js/whiteboard.js.
+ *
+ * It spans the whole document rather than the viewport, so strokes stay put
+ * when the page scrolls. pointer-events: none is what keeps it from breaking
+ * the site -- every click passes straight through to the page beneath, and the
+ * script reads pointer events from the document instead. The z-index sits above
+ * the content so you can draw over it like a real board, but below Bootstrap's
+ * fixed navbar (1030) so the navigation always stays legible.
+ */
+.board-canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  pointer-events: none;
+}
+
+/* Wipe control. Hidden until there is actually something to wipe. */
+.board-clear {
+  position: fixed;
+  right: 1.25rem;
+  bottom: 1.25rem;
+  z-index: 1031;
+  width: 2.75rem;
+  height: 2.75rem;
+  padding: 0;
+  border: 1px solid var(--bj-navbar-border-col);
+  border-radius: 50%;
+  background-color: var(--bj-navbar-col);
+  color: var(--bj-navbar-text-col);
+  font-size: 1rem;
+  line-height: 1;
+  cursor: pointer;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.25s ease-in-out, visibility 0.25s, color 0.2s ease-in-out;
+}
+
+.board-clear.is-visible {
+  opacity: 0.85;
+  visibility: visible;
+}
+
+.board-clear.is-visible:hover,
+.board-clear.is-visible:focus {
+  opacity: 1;
+  color: var(--bj-hover-col);
+}
+
+.board-clear:focus-visible {
+  outline: 2px solid var(--bj-hover-col);
+  outline-offset: 2px;
+}
+
+/* The board is decorative; skip it for anyone who asked for less motion. */
+@media (prefers-reduced-motion: reduce) {
+  .board-clear {
+    transition: none;
+  }
+}
