@@ -24,3 +24,28 @@ layout: null
   opacity: 0;
   visibility: hidden;
 }
+
+/*
+ * Tightens the gaps between the nav links so the avatar has room to show on
+ * ordinary laptop screens. The theme's own value is 0.9375rem a side; at that
+ * spacing, with eight links, the avatar only appeared above ~1712px.
+ *
+ * This is the dial to turn if you want the avatar at narrower or wider windows:
+ * lower for narrower, raise for roomier links. Roughly every 0.0625rem here
+ * moves the width at which the avatar appears by about 28px.
+ *
+ *   0.9375rem (theme default) -> avatar from ~1712px
+ *   0.625rem                  -> ~1575px
+ *   0.5rem                    -> ~1524px
+ *   0.4375rem (set below)     -> ~1496px
+ *   0.375rem                  -> ~1468px
+ *
+ * Letter-spacing on the labels is deliberately left alone: removing it would
+ * buy another ~75px but visibly changes how the uppercase nav type reads.
+ */
+@media (min-width: 1200px) {
+  .navbar-expand-xl .navbar-nav .nav-link {
+    padding-left: 0.4375rem;
+    padding-right: 0.4375rem;
+  }
+}
