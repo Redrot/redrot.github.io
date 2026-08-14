@@ -47,7 +47,7 @@ Listed in chronological order. 1 and 2 are undergraduate research.
 | **12.** Re-framing the classification of ideals in noncommutative tensor-triangular geometry | [Timothy De Deyn](https://tdedeyn.github.io/) | Submitted | [2510.23767](https://arxiv.org/abs/2510.23767) |
 | **13.** A semisimple subcategory of Khovanov's Heisenberg category |  | Submitted | [2512.13968](https://arxiv.org/abs/2512.13968) |
 | **14.** The classification of integral endotrivial complexes | [Juan Omar Gómez](https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0) | Submitted | [2605.31128](https://arxiv.org/abs/2605.31128) | 
-| **15.** The fusion-stable tom Dieck homomorphism | | | Draft available upon request |
+| **15.** The fusion-stable tom Dieck homomorphism | | | [2608.12499](https://arxiv.org/abs/2608.12499) |
 | **16.** Orientable representation spheres | | | Draft available upon request |
 
 ---
