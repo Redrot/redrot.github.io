@@ -43,12 +43,12 @@ Listed in chronological order. 1 and 2 are undergraduate research.
 | **8.** On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups | | [Represent. Theory 30, 151-174 (2026)](https://pubs.ams.org/ERT/2026-30-06/S1088-4165-2026-00712-8) | [2408.04094](https://arxiv.org/abs/2408.04094) | 
 | **9.** On functoriality and the tensor product property in noncommutative tensor-triangular geometry | | Submitted | [2505.01899](https://arxiv.org/abs/2505.01899) |
 | **10.** The Euler characteristic of an endotrivial complex | [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza)  | [J. Pure Appl. Algebra, 230 (10, Special Section in honor of Daniel K. Nakano’s 60th birthday), 108345 (2026)](https://doi.org/10.1016/j.jpaa.2026.108345) | [2508.07404](https://arxiv.org/abs/2508.07404) |
-| **11.** Permutation twisted cohomology, remixed | | Submitted | [2509.00954](https://arxiv.org/abs/2509.00954) |
+| **11.** Permutation twisted cohomology, remixed | | Submitted | [2509.00954](https://arxiv.org/abs/2509.00954) (updated version available upon request) |
 | **12.** Re-framing the classification of ideals in noncommutative tensor-triangular geometry | [Timothy De Deyn](https://tdedeyn.github.io/) | Submitted | [2510.23767](https://arxiv.org/abs/2510.23767) |
 | **13.** A semisimple subcategory of Khovanov's Heisenberg category |  | Submitted | [2512.13968](https://arxiv.org/abs/2512.13968) |
 | **14.** The classification of integral endotrivial complexes | [Juan Omar Gómez](https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0) | Submitted | [2605.31128](https://arxiv.org/abs/2605.31128) | 
 | **15.** The fusion-stable tom Dieck homomorphism | | | [2608.12499](https://arxiv.org/abs/2608.12499) |
-| **16.** Orientable representation spheres | | | Draft available upon request |
+| **16.** Non-orientable representation spheres | | | Draft available upon request |
 
 ---
 
