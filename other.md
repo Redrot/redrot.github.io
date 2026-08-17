@@ -102,4 +102,4 @@ Other random hobbies include chess, video games (predominantly indie games and R
   
 More to be added eventually!
 
-
+Whiteboard/blackboard mode idea is due to [Nikolay Grantcharov](https://nikolaygrantcharov.github.io/).
