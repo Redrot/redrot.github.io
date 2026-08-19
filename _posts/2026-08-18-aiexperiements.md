@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Reflections on my experiments with generative AI
-subtitle: August 18, 2026
+title: My experiments with generative AI
+subtitle: Some chronology and reflection from the year
 ---
 
 As a reminder, the opinions expressed on my website are mine and mine alone, and do not represent those of my employers or institution.
