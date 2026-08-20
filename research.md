@@ -49,6 +49,7 @@ Listed in chronological order. 1 and 2 are undergraduate research.
 | **14.** The classification of integral endotrivial complexes | [Juan Omar Gómez](https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0) | Submitted | [2605.31128](https://arxiv.org/abs/2605.31128) | 
 | **15.** The fusion-stable tom Dieck homomorphism | | Submitted | [2608.12499](https://arxiv.org/abs/2608.12499) |
 | **16.** Non-orientable representation spheres | | | [2608.18015](https://arxiv.org/abs/2608.18015) |
+| **17.** The tensor-triangular geometry of some oligomorphic groups | | | Draft available upon request | 
 
 ---
 
@@ -57,6 +58,7 @@ Listed in chronological order. 1 and 2 are undergraduate research.
 | Title | Proceedings |
 | ----- | ----------- |
 | **1.** Endotrivial complexes and remixed twisted cohomology | [Oberwolfach Reports 23 (1), 552-556 (2026)](https://ems.press/journals/owr/articles/14299915) | 
+| **2.** Endotrivial complexes and remixed twisted cohomology | OCAMI Reports, to appear | 
 
 --- 
 
