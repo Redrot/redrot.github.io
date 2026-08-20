@@ -35,3 +35,5 @@ At a very minimum, while I don't think the models will be able to assist me with
 I leave you with the writing from my former professors Jon Jacobsen, [In Praise of Acoustic Mathematics](https://link.springer.com/article/10.1007/s00283-026-10512-7), and Francis Su, [A Meditation on Mathematical Joy](https://francissu.substack.com/p/a-meditation-on-mathematical-joy).
 
 - sam
+
+Edit: After more consideration, as well as reading a few thoughtful posts from [Tasmin Chu](https://substack.com/home/post/p-210388733), [Max Weinreich](https://arxiv.org/abs/2608.02859), [Simon Hayward](https://proofsandprompts.com/2026/08/13/on-the-brutal-mathematics-of-slop/), and receiving some slight shaming from [Vadim Lebovici](https://proofsandprompts.com/2026/08/17/how-dare-you/), I have decided that the experiemnt has gone on long enough, and will be ceasing all generative AI use. (One exception, my course homework uses Edfinity's AI grader, which apparently is its own internal model. However, this is now out of my control.)
