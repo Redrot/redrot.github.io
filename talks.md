@@ -9,6 +9,7 @@ subtitle: Things I've said
 - University of Utah, ????
 - Harvard University, ????
 - 2026 AMS Fall Western Sectional, November
+-  Spectral Methods in Algebra, Geometry, and Topology, August
 - University of Warwick Algebra Seminar, June (cancelled due to illness)
 - Aarhus University Algebra Seminar, June
 - University of Bielefeld BIREP Oberseminar, May
