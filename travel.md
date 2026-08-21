@@ -8,6 +8,7 @@ subtitle: Places I've gone
 ### 2026
 
 - Organizing and speaking at some special sessions at [AMS 2026 Fall Western Sectional Meeting](https://www.ams.org/meetings/sectional/2335_program.html) in Tempe, AZ
+- Giving a talk at [Rice University](https://math.rice.edu/) in Houston, TX
 - Organizing a special session at [AMS 2026 Fall Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2339_program.html) in Kennesaw, GA
 - Attending [Spectral Methods in Algebra, Geometry, and Topology](https://www.mathematics.uni-bonn.de/him/programs/follow-up-workshops/2026_08_24) in Bonn, Germany
 - Didn't give a talk at [University of Warwick Mathematics Institute](https://warwick.ac.uk/fac/sci/maths/) in Coventry, UK due to illness 
