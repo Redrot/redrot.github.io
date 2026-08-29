@@ -11,6 +11,7 @@ subtitle: Things I've said
 - 2026 AMS Fall Western Sectional, November
 - Rice University Algebra Seminar, October
 - Spectral Methods in Algebra, Geometry, and Topology, August
+  - [Recording of the talk](https://www.youtube.com/watch?v=DgwsHORG3_U)
 - University of Warwick Algebra Seminar, June (cancelled due to illness)
 - Aarhus University Algebra Seminar, June
 - University of Bielefeld BIREP Oberseminar, May
