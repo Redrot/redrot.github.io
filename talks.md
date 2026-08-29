@@ -11,7 +11,7 @@ subtitle: Things I've said
 - 2026 AMS Fall Western Sectional, November
 - Rice University Algebra Seminar, October
 - Spectral Methods in Algebra, Geometry, and Topology, August
-  - [Recording of the talk](https://www.youtube.com/watch?v=DgwsHORG3_U)
+  - [Recording of talk](https://www.youtube.com/watch?v=DgwsHORG3_U)
 - University of Warwick Algebra Seminar, June (cancelled due to illness)
 - Aarhus University Algebra Seminar, June
 - University of Bielefeld BIREP Oberseminar, May
@@ -19,6 +19,7 @@ subtitle: Things I've said
 - UCSD Algebra Seminar, May
 - 2026 AMS Spring Southeastern Sectional: Special Session on Algebraic, Combinatorial and Geometric Aspects of Representation Theory, March
 - Oberwolfach Workshop 2609: Cohomology of Finite Groups: Interactions and Applications, February
+  - [Proceedings from talk](https://ems.press/journals/owr/articles/14299915)
 
 ### 2025
 
@@ -28,7 +29,8 @@ subtitle: Things I've said
 - UGA Algebra Seminar x2, August-September
 - 2025 AMS Fall Western Sectional, Special Session on Representations of Finite and Algebraic Groups, August
 - UGA Graduate Student Seminar, August
-- [New Directions in Group Theory and Triangulated Categories Seminar](https://sites.google.com/view/ndgttc/home), May ([YouTube recording](https://www.youtube.com/watch?v=qG6VhDgTToM))
+- [New Directions in Group Theory and Triangulated Categories Seminar](https://sites.google.com/view/ndgttc/home), May
+  - [Recording of talk](https://www.youtube.com/watch?v=qG6VhDgTToM)
 - 2025 AMS Spring Northeastern Sectional, Special Session on Group Theory and Representation Theory, April 
 - University of Washington Algebra Seminar, January
 
