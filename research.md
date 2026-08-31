@@ -5,25 +5,20 @@ subtitle: Things I've written
 
 ## Mathematical interests 
 
-- Modular representation theory of finite groups
-- Intersections between representation theory and tensor-triangular geometry
-- Non/commutative tensor-triangular geometry
-- Invertible objects/Picard groups
-- Permutation modules
-- Tensor categories, pre-Tannakian categories, oligomorphic groups
+I'm interested in questions and structures at intersections between group theory, representation theory, tensor-triangular geometry, and a smidgen of equivariant homotopy theory. My main focus involves understanding the so-called derived category of permutation modules, its relation to other categories of interest, and, in particular, its invertible objects, which I classified in my dissertation. However, I also have projects involving noncommutative tensor-triangular geometry, block theory, tensor categories, frame theory, and global Mackey functors.
 
-[**Here**](https://www.samkmiller.com/assets/pdf/Current_interests_for_Oberwolfach_Sam_K_Miller.pdf) is an informal summary (for experts in the field) of things I'm currently thinking about as of February 2026. Certain questions posed here may have or have not been answered.
+[**Here**](https://www.samkmiller.com/assets/pdf/Current_interests_for_Oberwolfach_Sam_K_Miller.pdf) is an informal summary of things I was thinking about in February 2026. Certain questions posed here may have or have not been answered by now.
 
 ---
 
 ## In preparation / Ongoing projects
 
-- Permutation twisted cohomology for all finite groups + immersiveness (but not Noetherianity) (w/ J. O. Gómez)
+- (Reduced) permutation twisted cohomology for all finite groups + immersiveness (but not Noetherianity) (w/ J. O. Gómez)
 - Tensor-triangular geometry of some oligomorphic groups (w/ N. Harman)
 - Local Picard groups for permutation modules
-- Questions about the stable permutation category (w/ M. Gallauer)
+- Periodicity in the stable permutation category (w/ M. Gallauer)
 - Noncommutative tensor-triangular geometry of group algebras (w/ K. Vashaw)
-- Something with central triangulated subcategories in the sense of Krause (maybe w/ G. Stevenson)
+- Vague projects about frames in (tensor) triangulated categories (w/ T. De Deyn, maybe G. Stevenson?)
 
 ---
 
