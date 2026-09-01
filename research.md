@@ -13,12 +13,11 @@ I'm interested in questions and structures at intersections between group theory
 
 ## In preparation / Ongoing projects
 
-- (Reduced) permutation twisted cohomology for all finite groups + immersiveness (but not Noetherianity) (w/ J. O. Gómez)
-- Tensor-triangular geometry of some oligomorphic groups (w/ N. Harman)
-- Local Picard groups for permutation modules
-- Periodicity in the stable permutation category (w/ M. Gallauer)
-- Noncommutative tensor-triangular geometry of group algebras (w/ K. Vashaw)
-- Vague projects about frames in (tensor) triangulated categories (w/ T. De Deyn, maybe G. Stevenson?)
+- (Reduced) permutation twisted cohomology for all finite groups + immersiveness  (w/ J. O. Gómez) (writeup stage)
+- Local Picard groups for permutation modules (ongoing)
+- Periodicity in the stable permutation category (w/ M. Gallauer) (continuing)
+- Noncommutative tensor-triangular geometry of group algebras (w/ K. Vashaw) (progressing)
+- Vague projects about frames in (tensor) triangulated categories (w/ T. De Deyn, maybe G. Stevenson?) (starting)
 
 ---
 
