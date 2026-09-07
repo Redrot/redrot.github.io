@@ -3,11 +3,13 @@ title: Talks
 subtitle: Things I've said
 ---
 
+## 2027
+
+- University of Utah, tbd
 
 ### 2026
 
-- University of Utah, ????
-- Harvard University, ????
+- Harvard University Babytop Seminar, December
 - 2026 AMS Fall Western Sectional, November
 - Rice University Algebra Seminar, October
 - Spectral Methods in Algebra, Geometry, and Topology, August
