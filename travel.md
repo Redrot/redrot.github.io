@@ -7,6 +7,8 @@ subtitle: Places I've gone
 
 ### 2026
 
+- Visiting [Northeastern University](https://cos.northeastern.edu/nucos-department/mathematics/) in Boston, MA
+- Speaking at [Harvard University](https://www.math.harvard.edu/) in Cambridge, MA
 - Organizing and speaking at some special sessions at [AMS 2026 Fall Western Sectional Meeting](https://www.ams.org/meetings/sectional/2335_program.html) in Tempe, AZ
 - Speaking at [Rice University](https://math.rice.edu/) in Houston, TX
 - Organizing a special session at [AMS 2026 Fall Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2339_program.html) in Kennesaw, GA
