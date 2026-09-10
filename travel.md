@@ -3,7 +3,9 @@ title: Travel and Conferences
 subtitle: Places I've gone
 ---
 
+### 2027
 
+- Visiting [University of Utah](https://www.math.utah.edu/) in Salt Lake City, UT
 
 ### 2026
 
