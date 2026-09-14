@@ -33,12 +33,14 @@ subtitle: Things I've done
 
 - UC Santa Cruz Department of Mathematics Peer Mentorship Program (2021-2025)
 - UC Santa Cruz Directed Reading Program (2021, 2024)
+- UGA Directed Reading Program (2026)
 
 ### Referee Service
 
 - [Algebr. Represent. Theory](https://link.springer.com/journal/10468)
 - [Comm. Algebra](https://www.tandfonline.com/journals/lagb20)
 - [EMS Press](https://ems.press/)
+- [Forum Math. Sigma](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma)
 - [J. London Math. Soc.](https://www.lms.ac.uk/publications/jlms)
 - [Trans. Amer. Math. Soc](https://www.ams.org/publications/journals/journalsframework/tran/)
 
