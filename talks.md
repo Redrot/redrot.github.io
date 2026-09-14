@@ -6,6 +6,7 @@ subtitle: Things I've said
 ## 2027
 
 - University of Utah, tbd
+- University of Washington, tbd
 
 ### 2026
 
