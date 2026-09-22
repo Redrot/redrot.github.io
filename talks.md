@@ -7,11 +7,13 @@ subtitle: Things I've said
 
 - University of Utah, tbd
 - University of Washington, tbd
+- University of Oregon, tbd
 
 ### 2026
 
 - Harvard University Babytop Seminar, December
 - 2026 AMS Fall Western Sectional, November
+- Johns Hopkins Topology Seminar, October
 - Rice University Algebra Seminar, October
 - Spectral Methods in Algebra, Geometry, and Topology, August
   - [Recording of talk](https://www.youtube.com/watch?v=DgwsHORG3_U)
