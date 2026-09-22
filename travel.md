@@ -12,6 +12,7 @@ subtitle: Places I've gone
 - Visiting [Northeastern University](https://cos.northeastern.edu/nucos-department/mathematics/) in Boston, MA
 - Speaking at [Harvard University](https://www.math.harvard.edu/) in Cambridge, MA
 - Organizing and speaking at some special sessions at [AMS 2026 Fall Western Sectional Meeting](https://www.ams.org/meetings/sectional/2335_program.html) in Tempe, AZ
+- Speaking at [Johns Hopkins University](https://mathematics.jhu.edu/) in Baltimore, MD
 - Speaking at [Rice University](https://math.rice.edu/) in Houston, TX
 - Organizing a special session at [AMS 2026 Fall Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2339_program.html) in Kennesaw, GA
 - Spoke at [Spectral Methods in Algebra, Geometry, and Topology](https://www.mathematics.uni-bonn.de/him/programs/follow-up-workshops/2026_08_24) in Bonn, Germany
