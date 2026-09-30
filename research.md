@@ -44,7 +44,7 @@ Listed in chronological order. 1 and 2 are undergraduate research.
 | **15.** The fusion-stable tom Dieck homomorphism | | Submitted | [2608.12499](https://arxiv.org/abs/2608.12499) |
 | **16.** Non-orientable representation spheres | | Not submitted, under revision | [2608.18015](https://arxiv.org/abs/2608.18015) |
 | **17.** Appendix to: Periods in equivariant and motivic contexts by Martin Gallauer | [Martin Gallauer](https://mgallauer.warwick.ac.uk/) | | [2511.14325](https://arxiv.org/abs/2511.14325) |
-| **18.** The tensor-triangular geometry of some oligomorphic groups | [Nate Harman](https://www.nateharman.com/) | | Draft available upon request | 
+| **18.** Tensor-triangular geometry of some Delannoy categories | [Nate Harman](https://www.nateharman.com/) | | Draft available upon request | 
 
 ---
 
