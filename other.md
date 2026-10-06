@@ -81,7 +81,6 @@ Other random hobbies include chess, video games (predominantly indie games and R
   - John C Baez (UCR): [Azimuth](https://johncarlosbaez.wordpress.com/)
   - Various: [The n-Category Cafe](https://golem.ph.utexas.edu/category/)
   - Frank Calegari (UChicago): [Persiflage](https://www.galoisrepresentations.com/)
-  - Igor Pak (UCLA): [Igor Pak's blog](https://igorpak.wordpress.com/)
   - Gabe Khan (Fomer Iowa State): [Differential Geometri](https://differentialgeometri.wordpress.com/)
   - Cosmin Pohoata (Emory): [Pohoatza](https://pohoatza.wordpress.com/)
   - Tobias Osbourne (Hannover): [TJO research notes](https://tjoresearchnotes.wordpress.com/)
