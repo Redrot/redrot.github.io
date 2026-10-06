@@ -20,8 +20,8 @@ navbar-links:
   Travel: "travel"
   Activities: "activities"
   Music: "music"
-  Blog: "blog"
-  Other things: "other"
+#   Blog: "blog"
+#   Other things: "other"
 
 # --- Logo --- #
 
