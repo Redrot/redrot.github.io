@@ -13,11 +13,11 @@ I'm interested in questions and structures at intersections between group theory
 
 ## In preparation / Ongoing projects
 
-- (Reduced) permutation twisted cohomology for all finite groups + immersiveness  (w/ J. O. Gómez) (writeup stage)
 - Local Picard groups for permutation modules (ongoing)
 - Periodicity in the stable permutation category (w/ M. Gallauer) (continuing)
 - Noncommutative tensor-triangular geometry of group algebras (w/ K. Vashaw) (progressing)
 - Vague projects about frames in (tensor) triangulated categories (w/ T. De Deyn, maybe G. Stevenson?) (starting)
+- Permutation resolutions for oligomorphic groups
 
 ---
 
@@ -45,6 +45,7 @@ Listed in chronological order. 1 and 2 are undergraduate research.
 | **16.** Non-orientable representation spheres | | Not submitted, under revision | [2608.18015](https://arxiv.org/abs/2608.18015) |
 | **17.** Appendix to: Periods in equivariant and motivic contexts by Martin Gallauer | [Martin Gallauer](https://mgallauer.warwick.ac.uk/) | Submitted | [2511.14325](https://arxiv.org/abs/2511.14325) |
 | **18.** Tensor-triangular geometry of Delannoy categories | [Nate Harman](https://www.nateharman.com/) | | Draft available upon request | 
+| **19.** Permutation twisted cohomology, reduced and immersed |  [Juan Omar Gómez](https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0) |  | Draft available upon request |
 
 ---
 
