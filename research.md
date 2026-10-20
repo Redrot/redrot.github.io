@@ -27,7 +27,7 @@ I'm interested in questions and structures at intersections between group theory
 | Title | Co-Authors | Journal | [arXiv](https://lordoftheisles.bandcamp.com/track/arxiv-mirage) |
 | ----- | ---------- | ------- | ----- |
 | **19.** Permutation twisted cohomology, reduced and immersed |  [Juan Omar Gómez](https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0) |  | Draft available upon request |
-| **18.** Tensor-triangular geometry of Delannoy categories | [Nate Harman](https://www.nateharman.com/) | | Draft available upon request | 
+| **18.** The tensor-triangular geometry of some Delannoy categories | [Nate Harman](https://www.nateharman.com/) | | Draft available upon request | 
 | **17.** Appendix to: Periods in equivariant and motivic contexts by Martin Gallauer | [Martin Gallauer](https://mgallauer.warwick.ac.uk/) | Submitted | [2511.14325](https://arxiv.org/abs/2511.14325) |
 | **16.** Non-orientable representation spheres | | Not submitted, under revision | [2608.18015](https://arxiv.org/abs/2608.18015) |
 | **15.** The fusion-stable tom Dieck homomorphism | | Submitted | [2608.12499](https://arxiv.org/abs/2608.12499) |
