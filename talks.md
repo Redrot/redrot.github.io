@@ -7,8 +7,8 @@ subtitle: Things I've said
 
 - University of Utah, tbd
 - University of Washington, tbd
-- University of Oregon, tbd
 - Carleton College, tbd
+- University of Oregon, March
 
 ### 2026
 
