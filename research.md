@@ -24,29 +24,29 @@ I'm interested in questions and structures at intersections between group theory
 
 ## Publications and preprints {#pub}
 
-Listed in chronological order. 1 and 2 are undergraduate research.
-
 | Title | Co-Authors | Journal | [arXiv](https://lordoftheisles.bandcamp.com/track/arxiv-mirage) |
 | ----- | ---------- | ------- | ----- |
-|  **1.** Challenging knight's tours | [Arthur T. Benjamin](https://www.arthurbenjamin.info/) | [Math Horizons, 25 (3), 18-21 (2018)](https://www.tandfonline.com/doi/full/10.1080/10724117.2018.1424460) | |
-| **2.** A proof of the optimal leapfrogging conjecture | [Arthur T. Benjamin](https://www.arthurbenjamin.info/) |  [Involve, 18 (1), 105–122 (2025)](https://msp.org/involve/2025/18-1/p05.xhtml) | [2110.08319](https://arxiv.org/abs/2110.08319)
-| **3.** Endotrivial complexes | | [J. Algebra, 650, 173-218 (2024)](https://www.sciencedirect.com/science/article/pii/S0021869324001728) | [2309.12138](https://arxiv.org/abs/2309.12138)|
-| **4.** Brauer pairs for splendid Rickard equivalences | [Jadyn V. Breland](https://people.ucsc.edu/~jbreland/index.html) | [J. Algebra, 691, 694-729 (2026)](https://www.sciencedirect.com/science/article/pii/S0021869325006891) | [2312.10258](https://arxiv.org/abs/2312.10258) |
-| **5.** Relatively endotrivial complexes | |  [J. Pure Appl. Algebra, 229 (2), 107867 (2025)](https://www.sciencedirect.com/science/article/pii/S0022404925000064) | [2402.08042](https://arxiv.org/abs/2402.08042) |
-| **6.** The classification of endotrivial complexes | | [Adv. Math. 478, 110414 (2025)](https://www.sciencedirect.com/science/article/pii/S0001870825003020) | [2403.04088](https://arxiv.org/abs/2403.04088) |
-| **7.** Galois descent of splendid Rickard equivalences between blocks of $p$-nilpotent groups | | [Proc. Amer. Math. Soc. 153 (5), 1893-1902 (2025)](https://doi.org/10.1090/proc/17230) | [2405.16061](https://arxiv.org/abs/2405.16061) |
-| **8.** On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups | | [Represent. Theory 30, 151-174 (2026)](https://pubs.ams.org/ERT/2026-30-06/S1088-4165-2026-00712-8) | [2408.04094](https://arxiv.org/abs/2408.04094) | 
-| **9.** On functoriality and the tensor product property in noncommutative tensor-triangular geometry | | Submitted | [2505.01899](https://arxiv.org/abs/2505.01899) |
-| **10.** The Euler characteristic of an endotrivial complex | [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza)  | [J. Pure Appl. Algebra, 230 (10, Special Section in honor of Daniel K. Nakano’s 60th birthday), 108345 (2026)](https://doi.org/10.1016/j.jpaa.2026.108345) | [2508.07404](https://arxiv.org/abs/2508.07404) |
-| **11.** Permutation twisted cohomology, remixed | | Submitted | [2509.00954](https://arxiv.org/abs/2509.00954) (updated version available upon request) |
-| **12.** Re-framing the classification of ideals in noncommutative tensor-triangular geometry | [Timothy De Deyn](https://tdedeyn.github.io/) | To appear, Adv. Math. | [2510.23767](https://arxiv.org/abs/2510.23767) |
-| **13.** A semisimple subcategory of Khovanov's Heisenberg category |  | Submitted | [2512.13968](https://arxiv.org/abs/2512.13968) |
-| **14.** The classification of integral endotrivial complexes | [Juan Omar Gómez](https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0) | Submitted | [2605.31128](https://arxiv.org/abs/2605.31128) | 
-| **15.** The fusion-stable tom Dieck homomorphism | | Submitted | [2608.12499](https://arxiv.org/abs/2608.12499) |
-| **16.** Non-orientable representation spheres | | Not submitted, under revision | [2608.18015](https://arxiv.org/abs/2608.18015) |
-| **17.** Appendix to: Periods in equivariant and motivic contexts by Martin Gallauer | [Martin Gallauer](https://mgallauer.warwick.ac.uk/) | Submitted | [2511.14325](https://arxiv.org/abs/2511.14325) |
-| **18.** Tensor-triangular geometry of Delannoy categories | [Nate Harman](https://www.nateharman.com/) | | Draft available upon request | 
 | **19.** Permutation twisted cohomology, reduced and immersed |  [Juan Omar Gómez](https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0) |  | Draft available upon request |
+| **18.** Tensor-triangular geometry of Delannoy categories | [Nate Harman](https://www.nateharman.com/) | | Draft available upon request | 
+| **17.** Appendix to: Periods in equivariant and motivic contexts by Martin Gallauer | [Martin Gallauer](https://mgallauer.warwick.ac.uk/) | Submitted | [2511.14325](https://arxiv.org/abs/2511.14325) |
+| **16.** Non-orientable representation spheres | | Not submitted, under revision | [2608.18015](https://arxiv.org/abs/2608.18015) |
+| **15.** The fusion-stable tom Dieck homomorphism | | Submitted | [2608.12499](https://arxiv.org/abs/2608.12499) |
+| **14.** The classification of integral endotrivial complexes | [Juan Omar Gómez](https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0) | Submitted | [2605.31128](https://arxiv.org/abs/2605.31128) | 
+| **13.** A semisimple subcategory of Khovanov's Heisenberg category |  | Submitted | [2512.13968](https://arxiv.org/abs/2512.13968) |
+| **12.** Re-framing the classification of ideals in noncommutative tensor-triangular geometry | [Timothy De Deyn](https://tdedeyn.github.io/) | To appear, Adv. Math. | [2510.23767](https://arxiv.org/abs/2510.23767) |
+| **11.** Permutation twisted cohomology, remixed | | Submitted | [2509.00954](https://arxiv.org/abs/2509.00954) (updated version available upon request) |
+| **10.** The Euler characteristic of an endotrivial complex | [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza)  | [J. Pure Appl. Algebra, 230 (10, Special Section in honor of Daniel K. Nakano’s 60th birthday), 108345 (2026)](https://doi.org/10.1016/j.jpaa.2026.108345) | [2508.07404](https://arxiv.org/abs/2508.07404) |
+| **9.** On functoriality and the tensor product property in noncommutative tensor-triangular geometry | | Submitted | [2505.01899](https://arxiv.org/abs/2505.01899) |
+| **8.** On endosplit $p$-permutation resolutions and Broue's conjecture for $p$-solvable groups | | [Represent. Theory 30, 151-174 (2026)](https://pubs.ams.org/ERT/2026-30-06/S1088-4165-2026-00712-8) | [2408.04094](https://arxiv.org/abs/2408.04094) | 
+| **7.** Galois descent of splendid Rickard equivalences between blocks of $p$-nilpotent groups | | [Proc. Amer. Math. Soc. 153 (5), 1893-1902 (2025)](https://doi.org/10.1090/proc/17230) | [2405.16061](https://arxiv.org/abs/2405.16061) |
+| **6.** The classification of endotrivial complexes | | [Adv. Math. 478, 110414 (2025)](https://www.sciencedirect.com/science/article/pii/S0001870825003020) | [2403.04088](https://arxiv.org/abs/2403.04088) |
+| **5.** Relatively endotrivial complexes | |  [J. Pure Appl. Algebra, 229 (2), 107867 (2025)](https://www.sciencedirect.com/science/article/pii/S0022404925000064) | [2402.08042](https://arxiv.org/abs/2402.08042) |
+| **4.** Brauer pairs for splendid Rickard equivalences | [Jadyn V. Breland](https://people.ucsc.edu/~jbreland/index.html) | [J. Algebra, 691, 694-729 (2026)](https://www.sciencedirect.com/science/article/pii/S0021869325006891) | [2312.10258](https://arxiv.org/abs/2312.10258) |
+| **3.** Endotrivial complexes | | [J. Algebra, 650, 173-218 (2024)](https://www.sciencedirect.com/science/article/pii/S0021869324001728) | [2309.12138](https://arxiv.org/abs/2309.12138)|
+| **2.** A proof of the optimal leapfrogging conjecture | [Arthur T. Benjamin](https://www.arthurbenjamin.info/) |  [Involve, 18 (1), 105–122 (2025)](https://msp.org/involve/2025/18-1/p05.xhtml) | [2110.08319](https://arxiv.org/abs/2110.08319)
+|  **1.** Challenging knight's tours | [Arthur T. Benjamin](https://www.arthurbenjamin.info/) | [Math Horizons, 25 (3), 18-21 (2018)](https://www.tandfonline.com/doi/full/10.1080/10724117.2018.1424460) | |
+
+Listed in reverse chronological order. 1 and 2 are undergraduate research.
 
 ---
 
