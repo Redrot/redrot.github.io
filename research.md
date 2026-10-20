@@ -11,7 +11,7 @@ I'm interested in questions and structures at intersections between group theory
 
 ---
 
-## In preparation / Ongoing projects
+## Ongoing projects
 
 - Local Picard groups for permutation modules (ongoing)
 - Periodicity in the stable permutation category (w/ M. Gallauer) (continuing)
