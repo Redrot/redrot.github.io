@@ -21,7 +21,7 @@ navbar-links:
   Activities: "activities"
   Music: "music"
 #   Blog: "blog"
-#   Other things: "other"
+  Other things: "other"
 
 # --- Logo --- #
 
