@@ -6,9 +6,9 @@ subtitle: Things I've said
 ## 2027
 
 - University of Utah, tbd
-- University of Washington, tbd
 - Carleton College, tbd
-- University of Oregon, March
+- University of Washington Algebra and Algebraic Geometry Seminar, March
+- University of Oregon Algebra Seminar, March
 
 ### 2026
 
