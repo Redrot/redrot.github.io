@@ -18,7 +18,7 @@ I'm interested in questions and structures at intersections between group theory
 - Noncommutative tensor-triangular geometry of group algebras (w/ K. Vashaw) (progressing)
 - Vague projects about frames in (tensor) triangulated categories (w/ T. De Deyn, maybe G. Stevenson?) (starting)
 - Permutation resolutions for oligomorphic groups (starting)
-- Representation theory and tensor-triangular geometry of $S_\infty \wr S_\infty \wr \cdots $ (w/ I. Nekrasov) (starting)
+- Representation theory and tensor-triangular geometry of $S_\infty \wr S_\infty \wr \cdots$ (w/ I. Nekrasov) (starting)
 
 ---
 
