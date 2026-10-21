@@ -5,8 +5,8 @@ subtitle: Places I've gone
 
 ### 2027
 
-- Visiting [University of Washington](https://math.washington.edu/) in Seattle, WA
 - Speaking at [University of Oregon](https://naturalsciences.uoregon.edu/mathematics) in Eugene, OR
+- Speaking at [University of Washington](https://math.washington.edu/) in Seattle, WA
 - Speaking at [University of Utah](https://www.math.utah.edu/) in Salt Lake City, UT
 
 ### 2026
