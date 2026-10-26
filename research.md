@@ -7,7 +7,7 @@ subtitle: Things I've written
 
 I'm interested in questions and structures at intersections between group theory, representation theory, tensor-triangular geometry, and a smidgen of equivariant homotopy theory. My main focus involves understanding the so-called derived category of permutation modules, its relation to other categories of interest, and, in particular, its invertible objects, which I classified in my dissertation. However, I also have projects involving noncommutative tensor-triangular geometry, block theory, tensor categories, frame theory, and global Mackey functors.
 
-[**Here**](https://www.samkmiller.com/assets/pdf/Research_statement_2026-1.pdf) is my research statement from Fall 2026. 
+A copy of my research statement is available upon request. I will not be publicly posting it, as it contains open questions which may be (and in fact, already have been) scraped by AIs. 
 
 ---
 
