@@ -22,13 +22,10 @@ Some pictures:
   - [A sunset in the arctic circle](https://redrot.github.io/assets/img/arctic2.jpg)
 - Walking
   - [Evolution Lake, Kings Canyon National Park](https://redrot.github.io/assets/img/jmt2.jpg)
-  - [Mt. Whitney](https://redrot.github.io/assets/img/PXL_20230923_144044253.PORTRAIT.jpg)
 - Pebble Wrestling
   - [The Beak (V4) in Castle Rock](https://redrot.github.io/assets/img/climbing1.jpg)
   - [The Cube (V1) in Yosemite](https://redrot.github.io/assets/img/381645852_6672974016127228_507368574689229686_n.jpg)
   - [In Morelia, Michoacan for a conference, barefoot](https://redrot.github.io/assets/img/361047690_291375823431625_2755554577292220983_n.jpg)       
-- Snowboarding
-  - [Pointing somewhere](https://redrot.github.io/assets/img/431761856_328687626866227_4778850136459008052_n.jpg)
   
 ---
 
@@ -39,12 +36,6 @@ I am an avid reader of [The Sun Magazine](https://www.thesunmagazine.org/) (no, 
 Other random hobbies include chess, video games (predominantly indie games and RTSs), origami, slacklining, longboarding, [freeskating](https://www.jmkride.com/), reading, calisthenics, drawing, backgammon, puzzles, and penguins. Feel free to chat about any of these if we meet in the wild! 
 
 [My mom](https://jinsookim.info) is an incredibly talented contemporary artist. 
-
----
-
-## Application materials {#apps}
-
-[Here are some materials from past applications.](https://drive.google.com/drive/folders/1hrjnRKYv59_uU2_T_pl0GmIA86vQdcAS?usp=sharing) Feel free to use them as a reference!
 
 ---
 
