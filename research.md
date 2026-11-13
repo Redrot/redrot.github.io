@@ -38,6 +38,10 @@ If you'd like to hear about my current projects, feel free to contact me directl
 
 Listed in reverse chronological order. 1 and 2 are undergraduate research, despite 2 being published the year I defended.
 
+### Collaborators (past and present)
+
+[Arthur T. Benjamin](https://www.arthurbenjamin.info/), [Jadyn V. Breland](https://people.ucsc.edu/~jbreland/index.html), [Timothy De Deyn](https://tdedeyn.github.io/), [Juan Omar Gómez](https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0), [Nate Harman](https://www.nateharman.com/), [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza), [Ilia Nekrasov](https://sites.google.com/view/ilia-nekrasov/), [Kent B. Vashaw](https://kentvashaw.github.io/)
+
 ---
 
 ## Proceedings
@@ -55,4 +59,6 @@ Listed in reverse chronological order. 1 and 2 are undergraduate research, despi
 | ----- | ------- | ---- |
 | **1.** The Combinatorial Polynomial Hirsch Conjecture | [Mohamed Omar](https://www.mohamedomar.org/) | [Harvey Mudd College Senior Theses, 109 (2017)](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1096&context=hmc_theses) |  
 | **2.** Permutation Modules and Endotrivial Complexes | [Robert Boltje](http://boltje.math.ucsc.edu/) | [Ph.D. Thesis, UC Santa Cruz (2025)](https://escholarship.org/uc/item/9h73j2g4) | 
+
+---
 
