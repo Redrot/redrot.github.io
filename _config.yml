@@ -182,7 +182,7 @@ whiteboard: true
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
+google_analytics: G-893M1RF270
 
 # Google Tag Manager ID
 #gtm: ""
