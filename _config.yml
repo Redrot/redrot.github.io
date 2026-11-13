@@ -185,7 +185,7 @@ gtag: G-893M1RF270
 google_analytics: G-893M1RF270
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: GTM-TDGC7SQK
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
