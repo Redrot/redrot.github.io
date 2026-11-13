@@ -40,7 +40,7 @@ Listed in reverse chronological order. 1 and 2 are undergraduate research, despi
 
 ### Collaborators (past and present)
 
-[Arthur T. Benjamin](https://www.arthurbenjamin.info/), [Jadyn V. Breland](https://people.ucsc.edu/~jbreland/index.html), [Timothy De Deyn](https://tdedeyn.github.io/), [Juan Omar Gómez](https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0), [Nate Harman](https://www.nateharman.com/), [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza), [Ilia Nekrasov](https://sites.google.com/view/ilia-nekrasov/), [Kent B. Vashaw](https://kentvashaw.github.io/)
+[Arthur T. Benjamin](https://www.arthurbenjamin.info/), [Jadyn V. Breland](https://people.ucsc.edu/~jbreland/index.html), [Timothy De Deyn](https://tdedeyn.github.io/), [Juan Omar Gómez](https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0), [Nate Harman](https://www.nateharman.com/), [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza), [Ilia Nekrasov](https://sites.google.com/view/ilia-nekrasov/), [Kent B. Vashaw](https://kentvashaw.github.io/)... and additionally advised by [Robert Boltje](https://math.ucsc.edu/people/?directoryprofilecruzid=boltje) and [Mohamed Omar](https://profomarmath.github.io/).
 
 ---
 
